@@ -1,0 +1,24 @@
+import { SupportedChainId } from '@cowprotocol/cow-sdk'
+import { join } from 'node:path'
+import { env } from 'node:process'
+
+// CoW protocol contract address. Could be any address in theory for checking the token is permittable
+export const SPENDER_ADDRESS = '0xC92E8bdf79f0507f65a392b0ab4667716BFE0110'
+
+export const DEFAULT_RPC_URLS: Record<SupportedChainId, string | null> = {
+  [SupportedChainId.MAINNET]: 'https://mainnet.infura.io/v3/' + env.INFURA_API_KEY,
+  [SupportedChainId.ARBITRUM_ONE]: 'https://arbitrum-one-rpc.publicnode.com',
+  [SupportedChainId.BASE]: 'https://mainnet.base.org',
+  [SupportedChainId.GNOSIS_CHAIN]: 'https://rpc.gnosischain.com',
+  [SupportedChainId.SEPOLIA]: 'https://ethereum-sepolia.publicnode.com',
+  [SupportedChainId.AVALANCHE]: 'https://api.avax.network/ext/bc/C/rpc',
+  [SupportedChainId.POLYGON]: 'https://polygon-rpc.com',
+  [SupportedChainId.BNB]: 'https://bsc-dataseed.binance.org',
+  [SupportedChainId.LINEA]: 'https://rpc.linea.build',
+  [SupportedChainId.PLASMA]: 'https://rpc.plasma.to',
+  [SupportedChainId.INK]: 'https://rpc-ten.inkonchain.com',
+  [SupportedChainId.ROBINHOOD]: 'https://rpc.mainnet.chain.robinhood.com',
+  [SupportedChainId.SOLANA]: null,
+}
+
+export const BASE_PATH = join('..', 'public')

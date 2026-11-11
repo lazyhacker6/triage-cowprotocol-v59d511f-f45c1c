@@ -1,0 +1,113 @@
+name: Update Permit Info
+
+on:
+  # Run after generateAuxLists workflow completes
+  workflow_run:
+    workflows: ["Generate Auxiliary Lists"]
+    types:
+      - completed
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-permit-info:
+    name: Update permit info
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false # continue parallel jobs even if individual parts fail
+      matrix:
+        chainId: [ 1, 56, 100, 137, 4663, 8453, 9745, 42161, 43114, 57073 ] # all supported chains
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Setup dependencies
+        uses: ./.github/actions/setup-dependencies
+        with:
+          authToken: ${{ secrets.PACKAGE_READ_AUTH_TOKEN }}
+
+      - name: Generate Permit Info
+        env:
+          RPC_URL: ${{ secrets[format('RPC_URL_{0}', matrix.chainId)] }}
+          TOKEN_LISTS: "src/public/CowSwap.json,src/public/Uniswap.${{ matrix.chainId }}.json,src/public/CoinGecko.${{ matrix.chainId }}.json"
+          CHAIN_ID: ${{ matrix.chainId }}
+        run: |
+          IFS=',' read -r -a TOKEN_LIST_ARRAY <<< $TOKEN_LISTS
+          for TOKEN_LIST in "${TOKEN_LIST_ARRAY[@]}"; do
+            if [ -f "$TOKEN_LIST" ]; then
+              yarn fetchPermitInfo -- $CHAIN_ID `pwd`/$TOKEN_LIST $RPC_URL
+            fi
+          done
+
+      - name: Upload File
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: ${{ format('PermitInfo.{0}.json', matrix.chainId) }}
+          path: src/public/${{ format('PermitInfo.{0}.json', matrix.chainId) }}
+          retention-days: 1
+
+  commit-changes:
+    needs: update-permit-info
+    if: success()
+    runs-on: ubuntu-latest
+    environment: token-lists-bot
+    permissions: {}
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@f8d387b68d61c58ab83c6c016672934102569859 # v3.0.0
+        with:
+          app-id: ${{ secrets.COW_FE_TOKEN_LIST_UPDATER_APP_ID }}
+          private-key: ${{ secrets.COW_FE_TOKEN_LIST_UPDATER_APP_PRIVATE_KEY }}
+          permission-contents: write
+
+      - name: Download all
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          path: src/public/
+          merge-multiple: true
+
+      - name: Commit changes through the API
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          BRANCH: ${{ github.ref_name }}
+          MESSAGE: "chore: automated permit info update"
+        run: |
+          head="$GITHUB_SHA"
+          base_tree=$(gh api "repos/$GITHUB_REPOSITORY/git/commits/$head" --jq .tree.sha)
+          for f in src/public/PermitInfo.*.json; do
+            jq -n --arg path "$f" --rawfile content "$f" '{path: $path, mode: "100644", type: "blob", content: $content}'
+          done > "$RUNNER_TEMP/entries.json"
+          tree=$(jq -s --arg base "$base_tree" '{base_tree: $base, tree: .}' "$RUNNER_TEMP/entries.json" \
+            | gh api "repos/$GITHUB_REPOSITORY/git/trees" --input - --jq .sha)
+          if [ "$tree" = "$base_tree" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          commit=$(gh api "repos/$GITHUB_REPOSITORY/git/commits" -f message="$MESSAGE" -f tree="$tree" -f "parents[]=$head" --jq .sha)
+          gh api -X PATCH "repos/$GITHUB_REPOSITORY/git/refs/heads/$BRANCH" -f sha="$commit" -F force=false
+
+  handle-failure:
+    needs: [update-permit-info, commit-changes]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create issue on failure
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Permit Info Update Failed',
+              body: `The workflow to update permit info failed on ${new Date().toISOString()}.
+
+              Please check the workflow logs for more details: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`
+            })

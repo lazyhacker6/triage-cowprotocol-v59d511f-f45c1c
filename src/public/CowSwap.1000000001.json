@@ -1,0 +1,6075 @@
+{
+  "name": "Solana Default",
+  "timestamp": "2026-11-11T09:36:54.573Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "keywords": [
+    "default",
+    "list",
+    "solana",
+    "jupiter",
+    "coingecko"
+  ],
+  "tokens": [
+    {
+      "chainId": 1000000001,
+      "address": "11111111111111111111111111111111",
+      "decimals": 9,
+      "name": "SOL",
+      "symbol": "SOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "1NJMqVM4PadjuzYmeB7zV7q7DV8oB3ExaQCd9x6KsLz",
+      "name": "Injective",
+      "symbol": "INJ",
+      "decimals": 9,
+      "logoURI": "https://turbo-gateway.com/rmtLlMruXZfggPXQmlfyMhI4uvPJEx-HBLkeRs0dIjo",
+      "extensions": {
+        "rank": 96
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm",
+      "name": "KLEDAI",
+      "symbol": "KLED",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicxgl43yyi3xg3zvi4hxsqmsobwxm7kto7i4qrbk75i2ff7w4jebe",
+      "extensions": {
+        "rank": 121
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
+      "name": "MANEKI",
+      "symbol": "MANEKI",
+      "decimals": 5,
+      "logoURI": "https://gateway.irys.xyz/yBysTpZQFiBI6AI9cy5lRJi7_6k1VQv7rF1vh9WnhsA",
+      "extensions": {
+        "rank": 361
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "25p2BoNp6qrJH5As6ek6H7Ei495oSkyZd3tGb97sqFmH",
+      "name": "SolBastard",
+      "symbol": "soba",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmW1VaQ31oKGUeRnXiohvrZXzu1ETBWK3rM4haVYnfShXo",
+      "extensions": {
+        "rank": 387
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+      "name": "SAD HAMSTER",
+      "symbol": "HAMMY",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/sQ5_tE6hVlJEDFXqNgN3QEQAYSqMymTaCnXb__iGZBk",
+      "extensions": {
+        "rank": 393
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+      "name": "Jupiter Perps",
+      "symbol": "JLP",
+      "decimals": 6,
+      "logoURI": "https://static.jup.ag/jlp/icon.png",
+      "extensions": {
+        "rank": 35
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2AF7CqwieUjUPALL7icuZtL3X7wENdjUjGBMmfV2pump",
+      "name": "Tiny Humans AI",
+      "symbol": "TINY",
+      "decimals": 6,
+      "logoURI": "https://tinyhumansworld.com/wp-content/uploads/2026/07/Tiny_Icon_round_transparent_200x200.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 258
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+      "name": "Wrapped Ethereum (Sollet)",
+      "symbol": "soETH",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+      "extensions": {
+        "rank": 188
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+      "name": "mini",
+      "symbol": "mini",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXoj9Jp29JNYLMWQ4Z4AZASVPZXnJjJjSCcYsyaTqZj4v",
+      "extensions": {
+        "rank": 313
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2XPqoKfJitk8YcMDGBKy7CMzRRyF2X9PniZeCykDUZev",
+      "name": "HUND",
+      "symbol": "HUND",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmVMuMjyfKkuVnb8rHFXYor1ezFp9xrecatMH7TizPWdKV"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/PYUSDLOGO.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 8
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
+      "name": "REAL NIGGER TATE",
+      "symbol": "RNT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmUnhx14xmKQnyRk3Bqj31a5xKJNVkDH2UzFAizBRPYw2r",
+      "extensions": {
+        "rank": 306
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
+      "name": "PODCAT",
+      "symbol": "PODCAT",
+      "decimals": 6,
+      "logoURI": "https://axiomtrading-v2.axiom-cdn.io/5PDAtuzUsVautPrkjd7FJz66WBJVYsXE4UKnp7TLpump.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 200
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2nP9yKQNSGQy851iyawDvBkzkK2R2aqKArQCKc2gpump",
+      "name": "PsyopAnime",
+      "symbol": "PsyopAnime",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiallp55sjjfnqdy2njxnyhljygk5hiltpjdfeub3vjsc7zz6tl4qy",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 166
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
+      "name": "PUPS WORLD PEACE",
+      "symbol": "PUPS",
+      "decimals": 9,
+      "logoURI": "https://metadata.runemine.com/pupsworldpeace.jpg",
+      "extensions": {
+        "rank": 292
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+      "name": "Peanut the Squirrel",
+      "symbol": "Pnut",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmNdTtJauw39u4DzGyTaZ35rRx4VgAxqb91wE89zjyHWd2",
+      "extensions": {
+        "rank": 112
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/GDN-USDG-Token-512x512.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 4
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2x8o3hA5S5fBxCSE9hzVTf3RohcMWHqkDNKNEPuzprD5",
+      "name": "SolTradingBot",
+      "symbol": "STBOT",
+      "decimals": 9,
+      "logoURI": "https://yzevocek3mrl6hm2lz4m4nhskyu4knc4d5xissdmnss7wkecrodq.arweave.net/xklXCIrbIr8dml54zjTyVinFNFwfbolIbGyl-yiCi4c"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2xm2WZ9krE2YAArRC6S6ZzJAYgN813K6hh2dawKjpump",
+      "name": "Pandu Pandas",
+      "symbol": "PANDU",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibpz6co4u4kdrbktkeau5y3s3gnhfl3ylx64ectfjp6cifov6aq3a",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 282
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU",
+      "extensions": {
+        "rank": 27
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+      "name": "Graphite",
+      "symbol": "GP",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/ALLzymnuIihFPhoNUJpPxQzbGI8LodXKhNzXzbRMPbA",
+      "extensions": {
+        "rank": 134
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "32CdQdBUxbCsLy5AUHWmyidfwhgGUr9N573NBUrDpump",
+      "name": "maxxing",
+      "symbol": "maxxing",
+      "decimals": 6,
+      "logoURI": "https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmabBSPLgCqxCEEzpU85Jjc9NNu7JrbTrEhnwU6rr9oXEW",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 251
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump",
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "decimals": 6,
+      "logoURI": "https://axiomtrading-v2.axiom-cdn.io/E1Ay5MFuK4ADYgQDp3QmR1Q45UW3HQyfwQHeVotNmDMv.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 60
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
+      "name": "Barking Puppy",
+      "symbol": "BP",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/2019138810949308416/bYxhoi8p_400x400.jpg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 226
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+      "name": "BILLY",
+      "symbol": "BILLY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdRU5EkGt1VsgLsXJdHK5kjojQqggQHjhyqeJwmApR53R",
+      "extensions": {
+        "rank": 356
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw",
+      "name": "TEH EPIK DUCK",
+      "symbol": "EPIK",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWqYXSxZGu2AzKLb91eJR9RF68UST8uqZyMj6WHJcogkL",
+      "extensions": {
+        "rank": 272
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
+      "name": "Cheems",
+      "symbol": "CHEEMS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg",
+      "name": "IMARO",
+      "symbol": "IMARO",
+      "decimals": 6,
+      "logoURI": "https://bafkreiga7utnxqdjahpdorvxz54lnewskxe7nbiwwf2w76lqumjhzgg56a.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "name": "Wrapped BTC (Portal)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/010fb6db6c343cd0f90214ab1770278012d0c58a091d1f64715343817dbfb27e.webp",
+      "extensions": {
+        "rank": 14
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3Rcc6tMyS7ZEa29dxV4g3J5StorS9J1dn98gd42pZTk1",
+      "name": "MIMANY",
+      "symbol": "MIMANY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmTVzxeNdYdhGQueVHNry3826LGsWb7NwkSK7japW2SY9R"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+      "name": "MOTHER IGGY",
+      "symbol": "MOTHER",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmUFTFWsJiceS99iDMDm2NYuhvHXJVXTgmsDeR28X8njSn",
+      "extensions": {
+        "rank": 351
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC",
+      "name": "Kitten Haimer",
+      "symbol": "KHAI",
+      "decimals": 8,
+      "logoURI": "https://gateway.irys.xyz/piE64cnAE05vdp1gVD4kBnoHZkCW5Hnt4pFzprwqXUM"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3ThdFZQKM6kRyVGLG48kaPg5TRMhYMKY1iCRa9xop1WC",
+      "name": "eUSX",
+      "symbol": "eUSX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Solstice-Labs-Official/eusx-metadata/refs/heads/main/eusx.png",
+      "extensions": {
+        "rank": 117
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+      "name": "Aleph.im (Portal)",
+      "symbol": "ALEPH",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3W52uCb8NW8ruMF9mmJX3oKiYAjdPai4633srsZFQCS6",
+      "name": "Biao Coin",
+      "symbol": "$BIAO",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/BNautKe.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3WPep4ufaToK1aS5s8BL9inzeUrt4DYaQCiic6ZkkC1U",
+      "name": "Giko Cat",
+      "symbol": "GIKO",
+      "decimals": 9,
+      "logoURI": "https://bafkreihtk4j4mjgragx3t2tqcjlhvq4w6mqn23bbapkakxmui4ghpuysdy.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 336
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3XTp12PmKMHxB6YkejaGPUjMGBLKRGgzHWgJuVTsBCoP",
+      "name": "Bird Dog",
+      "symbol": "BIRDDOG",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/9thSnYFpy1dtXSf3-tt8otZep8Fig-yvr-6n2ewf6B4"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3ag1Mj9AKz9FAkCQ6gAEhpLSX8B2pUbPdkb9iBsDLZNB",
+      "name": "Honk",
+      "symbol": "HONK",
+      "decimals": 9,
+      "logoURI": "https://bafkreia5nmyxbrxshpiebsakviidhkfuoevpcyzonwov7bmaovce5ekzym.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+      "name": "LIKE",
+      "symbol": "LIKE",
+      "decimals": 9,
+      "logoURI": "https://skhntjvb5vpacemovphmfiuaqwcx55ai2cvcltp2eza2wtolb7kq.arweave.net/ko7ZpqHtXgERjqvOwqKAhYV-9AjQqiXN-iZBq03LD9U"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3d1qHSAkQhoN7kN1C6tvpAArCkXWxwYdBng6taXCDM6u",
+      "name": "RETURN TO MEMES",
+      "symbol": "RTM",
+      "decimals": 6,
+      "logoURI": "https://i.gyazo.com/8cc4113477298815273526a33d96ec12.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
+      "name": "SwissBorg Token",
+      "symbol": "BORG",
+      "decimals": 9,
+      "logoURI": "https://bafybeiaxwonn35jbb7xexmlmguibskmbg5vlv7wzabht3prfespwde6e6u.ipfs.dweb.link",
+      "extensions": {
+        "rank": 120
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3dgCCb15HMQSA4Pn3Tfii5vRk7aRqTH95LJjxzsG2Mug",
+      "name": "Honeyland",
+      "symbol": "HXD",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/NHZyHFvooDi_LKgs1BaHVPMsuRSOoHpE-J26fp1uHGQ"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3fGoNjPohYRVPk9iJuwEW5WuURU5gmAdSRgNgeaanexQ",
+      "name": "keydog",
+      "symbol": "KEYDOG",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmStfJzyBBFW2sHDtZjmq3ZftFd6oynTcYk51QfrnuAzzH"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3iC63FgnB7EhcPaiSaC51UkVweeBDkqu17SaRyy2pump",
+      "name": "Rainmaker",
+      "symbol": "RAIN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPbw5kFTGYjF2afki7gpRfymAhhLkgxgTZhJceu9J9Mnu",
+      "extensions": {
+        "rank": 303
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifbjxsikdmuhk5qi6krg3sqk2fcqvqlcffrc44kg7ecfkmwhz6s5i",
+      "extensions": {
+        "rank": 168
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
+      "name": "jeo boden",
+      "symbol": "boden",
+      "decimals": 9,
+      "logoURI": "https://bafkreid2t4f3i36tq4aowwaaa5633ggslefthxfdudaimog6unwu36umha.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 284
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3vgopg7xm3EWkXfxmWPUpcf7g939hecfqg18sLuXDzVt",
+      "name": "Harold",
+      "symbol": "HAROLD",
+      "decimals": 5,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmckbMgM3EAGxSKHnpFbUAc4cgfrnGwXic1ixWWxCR9abD",
+      "extensions": {
+        "rank": 190
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "3wtGGWZ8wLWW6BqtC5rxmkHdqvM62atUcGTH4cw3pump",
+      "name": "Alpha Ai",
+      "symbol": "ALPHA",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/eqlxyqr3/image/upload/v1785567985/Untitled_design-4_z3opmo.png",
+      "extensions": {
+        "rank": 249
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "42cXQvAAr7hcPBPWAS4ocVtDyeJ4Fa6gRR2uG4gppump",
+      "name": "The Bitcoin Bull",
+      "symbol": "TBB",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreichzls7thozrdvtlozttaue33k73qenhx7yjsv63uskesoheak5hq",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 210
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "463SK47VkB7uE7XenTHKiVcMtxRsfNE2X4Q9wByaURVA",
+      "name": "Tsuki",
+      "symbol": "TSUKI",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmV4hWeYKtfHXRpqqo2vHsr8tns5yTLpMyjGCKGjW3Xjp4",
+      "extensions": {
+        "rank": 227
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
+      "name": "DADDY TATE",
+      "symbol": "DADDY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXQ2NFebNVS1GQGvdXpj8PLM8H1P96A7pRVXF6geMtrnJ",
+      "extensions": {
+        "rank": 257
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
+      "name": "SNAP",
+      "symbol": "$NAP",
+      "decimals": 6,
+      "logoURI": "https://bafkreibmmrxk72fmcp3pxcrusm5hot44mwawyfhny4tp2jwc2sgjtjfa2y.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+      "name": "dYdX (Portal)",
+      "symbol": "DYDX",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta",
+      "name": "Jurassic",
+      "symbol": "RAWR",
+      "decimals": 6,
+      "logoURI": "https://imagedelivery.net/HYEnlujCFMCgj6yA728xIw/c29f92e1-add9-49e7-df14-3457cf858700/public",
+      "extensions": {
+        "rank": 262
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4LLbsb5ReP3yEtYzmXewyGjcir5uXtKFURtaEUVC2AHs",
+      "name": "Parcl",
+      "symbol": "PRCL",
+      "decimals": 6,
+      "logoURI": "https://delicate-amaranth-badger.myfilebase.com/ipfs/QmXPfhVt6BiuyrK5Va7y3GNqDqBDwms3uW75CknNxDHGS7",
+      "extensions": {
+        "rank": 307
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4QsNTBKwHgyYUUHq9tDzk1CCVu7y5hK7z3GE9R36pump",
+      "name": "nub",
+      "symbol": "nub",
+      "decimals": 6,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/solana/4QsNTBKwHgyYUUHq9tDzk1CCVu7y5hK7z3GE9R36pump.jpg?1789776997709",
+      "extensions": {
+        "rank": 268
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4VC7UYqBo9Siw8ZnkPXfw9D3dzYCiVrPDzs9XRtyRJMH",
+      "name": "Insane Labz ",
+      "symbol": "Labz",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmUaVz9d9UfVHyfq2pskZQWCiE25LdRpwRXMeaM4VWYbWe",
+      "extensions": {
+        "rank": 405
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z",
+      "name": "Dolan Duck",
+      "symbol": "DOLAN",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/1749802424590798848/8Go1WkbK_400x400.jpg",
+      "extensions": {
+        "rank": 373
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4Zp52aF4hZi9fzH19xpbWKYKQvgLyCN67KFbrQDqeTKh",
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "decimals": 9,
+      "logoURI": "https://cdn.prod.website-files.com/61bc21e3a843412266a08eb3/6a30676ebd0f55b05237f70e_logo-zama-zsquareyellow%201.svg",
+      "extensions": {
+        "rank": 377
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4h49hPGphLNJNDRyiBwzvKoasR3rw1WJCEv19PhUbSS4",
+      "name": "Hello Token",
+      "symbol": "HELLO",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/q-qAaW4lVGbdP1C7VMgIKwqdDVUsnQXaFPnAEkWPRHM"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4ikwYoNvoGEwtMbziUyYBTz1zRM6nmxspsfw9G7Bpump",
+      "name": "Cryptocurrency Coin",
+      "symbol": "crypto",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/crypto0nsolana/Crypto0nSolana/refs/heads/main/resized_transparent_coin.png",
+      "extensions": {
+        "rank": 269
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4jZXkSNgTQKCDb36ECZ6a2aNzcUniGcDeXgTdtM2HxAX",
+      "name": "Bork",
+      "symbol": "BORK",
+      "decimals": 9,
+      "logoURI": "https://node1.irys.xyz/v7mjymWz2rjAHe1Sn3rUECDdjWjYx_MZ_zi5hhQsgOU"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "name": "Raydium",
+      "symbol": "RAY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+      "extensions": {
+        "rank": 12
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4nV5gNwwP68zUDat26ySChREqVaQaLudfJBkSgEzpump",
+      "name": "Bobo",
+      "symbol": "BOBO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmcDbbGg13L1ERkM6Xb77qw6XRhxE3NraQqorQEibih4qn",
+      "extensions": {
+        "rank": 206
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4oaV94McVveRosSgdZTn3jkMpr1ge7SQZjwBZ7xG6oA7",
+      "name": "SNIFF",
+      "symbol": "SNIFF",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWMo39iqF5HqQNfprcifguRR87CVo1iNXWSwERUCgRkPe"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL",
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "decimals": 9,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
+      "extensions": {
+        "rank": 223
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4rUfhWTRpjD1ECGjw1UReVhA8G63CrATuoFLRVRkkqhs",
+      "name": "achi",
+      "symbol": "ACHI",
+      "decimals": 9,
+      "logoURI": "https://bafybeif4dmihdltj7kn2z2ky752sze73u7azeic43qquleqiga55mdi3ie.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4sWNB8zGWHkh6UnmwiEtzNxL4XrN7uK9tosbESbJFfVs",
+      "name": "Hylo Leveraged SOL",
+      "symbol": "xSOL",
+      "decimals": 6,
+      "logoURI": "https://hylo-token-metadata.s3.us-east-2.amazonaws.com/xSOL/icon.png",
+      "extensions": {
+        "rank": 72
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4sp2EUDrQf46rZun6sYAWzjrXwUpx2T3njuoKmV766RJ",
+      "name": "HAMI",
+      "symbol": "HAMI",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmReyTRTBjBWRLtkmmKAeiDMSXiKrByoWKTUEK5H1SVX4B"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "decimals": 9,
+      "logoURI": "https://hivemapper-marketing-public.s3.us-west-2.amazonaws.com/Hivemapper_HONEY_token.png",
+      "extensions": {
+        "rank": 167
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "4y3oUrsJfSp431R3wJrWiaLxRPsnYtpkVJmoV2bYpBiy",
+      "name": "wifejak",
+      "symbol": "WIFE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmame4Hq6325hETZHYyGAHTKvbdevqT5vb5YRm1ignoKs2"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "527PdUTGwcFxVEMXt8tyRJA1nYbVedgSiSfh4s2LWTWz",
+      "name": "Bop",
+      "symbol": "BOP",
+      "decimals": 6,
+      "logoURI": "https://proximaimage.hel1.your-objectstorage.com/launch-images/32f5f961-5eb5-4862-b4ac-97284878c4a1",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 240
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "59obFNBzyTBGowrkif5uK7ojS58vsuWz3ZCvg6tfZAGw",
+      "name": "PayFi Strategy Token USDC",
+      "symbol": "PST",
+      "decimals": 6,
+      "logoURI": "https://meta.huma.finance/pst.svg",
+      "extensions": {
+        "rank": 76
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5BKTP1cWao5dhr8tkKcfPW9mWkKtuheMEAU6nih2jSX",
+      "name": "DogWifNoHat",
+      "symbol": "NoHat",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYRzwG8GBcbYFgpXQxQm9Nrf3KTnU2EKVwMJktE1n4UPa"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5HsZR8eG7QpQcN8Mnp8oFdENRkJMP9ZkcKhPSCKTJSWh",
+      "name": "Moon Roll Coin",
+      "symbol": "MRC",
+      "decimals": 9,
+      "logoURI": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png",
+      "extensions": {
+        "rank": 388
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5JcdnWEwuHh1v3SAARq8zH9tEwDQGpaHzBrZ81m4pump",
+      "name": "xing xing",
+      "symbol": "xing",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmTRx7Mfdghv9tozQGUPht1tna3ECes43L8J35yrm63rnH",
+      "extensions": {
+        "rank": 340
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW",
+      "name": "APYSwap",
+      "symbol": "APYS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/14163/thumb/apys.png?1696513881"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5LwseQRo8fsz4S3y7jbqqe5C7tZTz5PwhXNCHj13jLBi",
+      "name": "PESHI",
+      "symbol": "PESHI",
+      "decimals": 6,
+      "logoURI": "https://bafkreidobd4eiplmvff42dnutldmwmjihkgbti6rpzuxz6p3c425e6qx6q.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+      "name": "Access Protocol",
+      "symbol": "ACS",
+      "decimals": 6,
+      "logoURI": "https://ap-staging.fra1.digitaloceanspaces.com/1663691449945",
+      "extensions": {
+        "rank": 395
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
+      "name": "SIGMA",
+      "symbol": "SIGMA",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmSZuPFTgLfpP16zgCZxQfhroFnfsyH6rKczzwxEeDL72M",
+      "extensions": {
+        "rank": 296
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+      "name": "TROLL",
+      "symbol": "TROLL",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWV8QgmH1gSw41yapzsFwkC8yPbzoSreAcJbzqfvo2sVq",
+      "extensions": {
+        "rank": 61
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5Wd2ALxQfnpgQKCyH4WL9giBiiuuLuJs84CJxfQccvmN",
+      "name": "real fast",
+      "symbol": "speed",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmefzw1YgkLqYGJbrPirJLtbzjoNJ5JfBKN1tMX3okpHfE"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://j73gp4w27ucraqtyzsqa5th4fwldfvqgq576cnceekfactgk4fla.arweave.net/T_Zn8tr9BRBCeMygDsz8LZYy1gaHf-E0RCKKAUzK4VY\n",
+      "extensions": {
+        "rank": 159
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5Y8NV33Vv7WbnLfq3zBcKSdYPrk7g2KoiQoe7M2tcxp5",
+      "name": "OnRe Tokenized Reinsurance",
+      "symbol": "ONyc",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/PyZzfGP-CqzaVlxTU3sb-I5uv4ZZKwnY8aCjcWn9S1A",
+      "extensions": {
+        "rank": 32
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5YMkXAYccHSGnHn9nob9xEvv6Pvka9DZWH7nTbotTu9E",
+      "name": "hyUSD",
+      "symbol": "hyUSD",
+      "decimals": 6,
+      "logoURI": "https://hylo-token-metadata.s3.us-east-2.amazonaws.com/hyUSD/icon.png",
+      "extensions": {
+        "rank": 52
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+      "name": "embercurve",
+      "symbol": "EMBER",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/2097725670176817154/Y2o5WBGJ_400x400.jpg",
+      "extensions": {
+        "rank": 58
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5g6wVay8NYQ5Tspo4irj9YqSFfQoPDW7apkX352N29PP",
+      "name": "EDEL",
+      "symbol": "EDEL",
+      "decimals": 9,
+      "logoURI": "https://edel.quicknode-ipfs.com/ipfs/QmQ8gXPsXwE74peUx4M99QggLCZZQiGSorH3Ei8gvE57SD",
+      "extensions": {
+        "rank": 205
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5hmf8Jt9puwoqiFQTb3vr22732ZTKYRLRw9Vo7tN3rcz",
+      "name": "Baby",
+      "symbol": "BABY",
+      "decimals": 6,
+      "logoURI": "https://photos.pinksale.finance/file/pinksale-logo-upload/1709065389877-8334609f627697b59fa95b3f76dc5f39.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump",
+      "name": "TrendTrader Pro",
+      "symbol": "TTP",
+      "decimals": 6,
+      "logoURI": "https://pump.mypinata.cloud/ipfs/bafkreidgnxxokg4pxy2dhgv3o4rwjp37wixusgtzqaosksdn7r6zgsh5qu",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 199
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+      "name": "michi",
+      "symbol": "$michi",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmTQrP6R7ieRSbKzwzLAy1i8c2U66b7LM6bSUmK1dfYc5b",
+      "extensions": {
+        "rank": 379
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "name": "Infinity",
+      "symbol": "INF",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/CtPUchyfybiHymdCNAA_cDkPZ7p0xZDLmBYvHWOsAkE",
+      "extensions": {
+        "rank": 88
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+      "name": "EbolaVirus",
+      "symbol": "Ebola",
+      "decimals": 6,
+      "logoURI": "https://ebolavirus.site/logo.jpg",
+      "extensions": {
+        "rank": 321
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump",
+      "name": "AgenC",
+      "symbol": "AgenC",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicmlvzw4xvd462mflqxgd65bs4cgpgudnxb3pctdrti2gdzhzd3ve",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 143
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5yxNbU8DgYJZNi3mPD9rs4XLh9ckXrhPjJ5VCujUWg5H",
+      "name": "Fronk",
+      "symbol": "FRONK",
+      "decimals": 5,
+      "logoURI": "https://shdw-drive.genesysgo.net/8tfWzweVe7MAfi8qwiKFnzLq6wuLT7WAPMoQC7DH47Fq/fronk.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+      "name": "PONKE",
+      "symbol": "PONKE",
+      "decimals": 9,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/1b83d1dd220d6670dde58f48b376384dff8b60818f91a39a9692e430422e0971.webp",
+      "extensions": {
+        "rank": 186
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "name": "AI Rig Complex",
+      "symbol": "arc",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+      "extensions": {
+        "rank": 38
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+      "name": "GIGACHAD",
+      "symbol": "GIGA",
+      "decimals": 5,
+      "logoURI": "https://bafybeifiyvpbr3kd6wepax4qxdlxbjrpz2de4lqsuwwuihirvaal6kqwba.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 135
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf",
+      "name": "RIBBIT",
+      "symbol": "RBT",
+      "decimals": 6,
+      "logoURI": "https://bafkreia3t3g3ecvvq7i5mgivvelysuhn5s6hzrulxmbkwgj5tgpsjtufge.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 355
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump",
+      "name": "Xavier: Renegade Angel",
+      "symbol": "xavier",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmebA1sjK6DqbBByZZCKMfNRoLCKMKxSEzFWTTHSCtoMKy",
+      "extensions": {
+        "rank": 300
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "69LjZUUzxj3Cb3Fxeo1X4QpYEQTboApkhXTysPpbpump",
+      "name": "Codec Flow",
+      "symbol": "CODEC",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXibCaGQdyqPrec5TUhv47awcY7pk5v5bBqe4Ez7QNeES",
+      "extensions": {
+        "rank": 139
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+      "name": "American Coin",
+      "symbol": "USA",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/dtscqyai6/image/upload/v1757384415/usacoin_ey7b3d.jpg",
+      "extensions": {
+        "rank": 314
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+      "name": "Vine Coin",
+      "symbol": "VINE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmRtFJu3ZospaS4EAk17iNXZGAJp7gMxzvsZckZxbqZa5r",
+      "extensions": {
+        "rank": 123
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui",
+      "name": "Shark Cat",
+      "symbol": "SC",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYZnjijjtoH2YDCPxUc6advSuSbsCre4gDjtS2YTUfw7P",
+      "extensions": {
+        "rank": 332
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+      "name": "Threshold Bitcoin",
+      "symbol": "TBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+      "extensions": {
+        "rank": 350
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6FhVPctYg363pQbs4iSvqyHe2cJzfsvFD96gePy6pump",
+      "name": "Exfil.fun",
+      "symbol": "EXFIL",
+      "decimals": 6,
+      "logoURI": "https://imagedelivery.net/WL1JOIJiM_NAChp6rtB6Cw/coin-image/6FhVPctYg363pQbs4iSvqyHe2cJzfsvFD96gePy6pump/600x600?alpha=true",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 148
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6FrrzDk5mQARGc1TDYoyVnSyRdds1t4PbtohCD6p3tgG",
+      "name": "USX",
+      "symbol": "USX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Thomas-Solstice/usx-metadata/refs/heads/main/usx.png",
+      "extensions": {
+        "rank": 64
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "name": "STONK",
+      "symbol": "STONK",
+      "decimals": 9,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/12b7823a6dffc95fa3f846621da55ac12f116e9605ef16f914ed231cc7e780e4.webp",
+      "extensions": {
+        "rank": 11
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6MQpbiTC2YcogidTmKqMLK82qvE9z5QEm7EP3AEDpump",
+      "name": "catwifmask",
+      "symbol": "MASK",
+      "decimals": 6,
+      "logoURI": "https://image2url.com/r2/default/images/1772012611932-19f5a6ac-7b20-478c-8dfd-637045f7923f.jpg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6NX2MWBuJM2Fn63K4hUgMPivLXHV8pwsU1yTdmjKpump",
+      "name": "SoQuBit",
+      "symbol": "pSOQ",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmS6RM42wfWxaa4UMctVyDXvnKJhV4X7j5T8UYeyxTM47C",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 289
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump",
+      "name": "Cupsey",
+      "symbol": "Cupsey",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPXxffmpwSqdVFckNvmdxQSPBige24vjgMD32v5GF3Luo",
+      "extensions": {
+        "rank": 127
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6SUryVEuDz5hqAxab6QrGfbzWvjN8dC7m29ezSvDpump",
+      "name": "Jason Derulo",
+      "symbol": "JASON",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qma6oqZnWWzdSywJ78F3cxYJkE7cL55QNJiejuj51KKr1K"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6SjVTj1VGwFSXn7wEjwFm77LvACeTqB7sQUebYKX8Ds5",
+      "name": "Solrouter",
+      "symbol": "ROUTER",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/openserv-launchpad-bucket/project-69f363c5cb04bf6b66678a68/logo-1777558469568.png",
+      "extensions": {
+        "rank": 230
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6UpQcMAb5xMzxc7ZfPaVMgx3KqsvKZdT5U718BzD5We2",
+      "name": "Wrapped XRP",
+      "symbol": "wXRP",
+      "decimals": 6,
+      "logoURI": "https://cdn.prod.website-files.com/61a0a50381fdccb6c37927e5/692521b55b7c02a5da964dc3_wXRP-token-logo.svg",
+      "extensions": {
+        "rank": 70
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr",
+      "name": "NearKat",
+      "symbol": "NEARKAT",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/da683527ea815782ba01f2536c4be036086dc7dd2d75887f2f8329c90d81dbc3.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 104
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6VHL2vMKgrF1YQFSv29Rs1pj9VCRK29bD11NtDqerqHA",
+      "name": "SSHIB",
+      "symbol": "$SSHIB",
+      "decimals": 5,
+      "logoURI": "https://gateway.irys.xyz/3pwcTcBUEAE9nHRmiN1gyHvnSAaiqEP4PmIs9tZu1yQ"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+      "name": "Chintai",
+      "symbol": "CHEX",
+      "decimals": 8,
+      "logoURI": "https://chintai.io/images/icon.png",
+      "extensions": {
+        "rank": 280
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6dX5M8DY6VTFtVRX5yzWn9RE4MkJTyoAVbAodk6cpump",
+      "name": "GEOM",
+      "symbol": "GEOM",
+      "decimals": 6,
+      "logoURI": "https://pump.mypinata.cloud/ipfs/bafkreiazcb3ndyhlobqrsymlixfwk53rf2qcitw55rbqwaak5lyn6fli64",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 191
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6iFUKWGDksVvmnSYJUGYnsu168xstni8xJkTF7QrpPAu",
+      "name": "Candle Cat",
+      "symbol": "CANDLE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmbZRtksXcwZsRyt6hat5oiSQJLgme3YqeA6Q2o8xnQn1t"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6n7Janary9fqzxKaJVrhL9TG2F61VbAtwUMu1YZscaQS",
+      "name": "Ansem's Cat",
+      "symbol": "Hobbes",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmccykK3PtscEH8QpkR54CStmcfpazK4nrf8t167gqML99",
+      "extensions": {
+        "rank": 380
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6nR8wBnfsmXfcdDr1hovJKjvFQxNSidN6XFyfAFZpump",
+      "name": "ClashProject",
+      "symbol": "Clash",
+      "decimals": 6,
+      "logoURI": "https://clashproject.ai/images/clash-project-logo.png",
+      "extensions": {
+        "rank": 220
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+      "name": "RETARDIO",
+      "symbol": "RETARDIO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.filebase.io/ipfs/QmTWd41E9u7f6aUjUnucP4S88TCZLJ9sJRM1Kj5EAKfivt",
+      "extensions": {
+        "rank": 277
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "name": "OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw",
+      "extensions": {
+        "rank": 13
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6qdzMx4c9rL2X3Ns3SwZ8uEo4zReDPjdXpAEmpo7pump",
+      "name": "Baby Troll",
+      "symbol": "BABYTROLL",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmQ1YYarULMZMwqZ6JWkPGwDpBFZSDf1nqq5BfEZQu8UU9",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 333
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6",
+      "name": "Chudjak",
+      "symbol": "Chud",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXRB5ujAAVNERmTPcmPT5aZaySVgNeAWVuXQNShWW2d37",
+      "extensions": {
+        "rank": 238
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg",
+      "name": "Gorbagana",
+      "symbol": "GOR",
+      "decimals": 6,
+      "logoURI": "https://upward-sport-headed.quicknode-ipfs.com/ipfs/QmQAtMVZPjsfaTJM9QErBdVqHi1bD9FCBZDr5uzGV96zhU",
+      "extensions": {
+        "rank": 285
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "71mfKdePwyWXtiF1mqu2aaCdMKnKuN664z2vEM2Xpump",
+      "name": "Meme Liquid",
+      "symbol": "LIQUID",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeihxegnolochxyezkflvkofrsuw5xyboyvtafr3vmmn73n7zrjmmaa",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "72QvBVwpxqmheEPfaCwWSWqEFsUy3rhWt6JhQBMNTwD1",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/pIih7vHnV7Wzv5N3y6Vk8mP5nRp9caKW-XprHZXFfrA",
+      "extensions": {
+        "rank": 85
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump",
+      "name": "clawpump.tech",
+      "symbol": "CLAW",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmfN6XKWnb2bJizSoaZwNqwpDLT5iZRgkitCvDjNkkDo8g",
+      "extensions": {
+        "rank": 128
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "73xsLcBnLnc9bh81cqVKqj8uEyiarXng5ZwJuTbnVebG",
+      "name": "Wuffi",
+      "symbol": "WUF",
+      "decimals": 4,
+      "logoURI": "https://ipfs.io/ipfs/QmPyfiqUWpeb2VpuKAoJph7mfoeJ3uoGVt6KgRZdUwoncA"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+      "name": "swarms",
+      "symbol": "swarms",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+      "extensions": {
+        "rank": 113
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
+      "name": "Unmigrated Slerf",
+      "symbol": "Old Slerf",
+      "decimals": 9,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/6f43abd0ed3d46732e02f2a5f15610beed2b25d0d25fac7aa4ca113d6f45012f?width=64&height=64&fit=crop&quality=95&format=auto",
+      "extensions": {
+        "rank": 286
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7C94RweVKZtBhA291WpXW7pkYEnbqhGvCFTU8nPoBTFY",
+      "name": "Botify",
+      "symbol": "BOTIFY",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/yonpdgah/image/upload/f_auto,q_auto/Botify_Main_Green",
+      "extensions": {
+        "rank": 154
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7DGJnYfJrYiP5CKBx6wpbu8F5Ya1swdFoesuCrAKCzZc",
+      "name": "Melon Dog",
+      "symbol": "MELON",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/5VQtSLt9kwn-FlP4ulK9DjuowQZnLm2zarHqda2MhPI"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs",
+      "name": "Silly Dragon",
+      "symbol": "SILLY",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/quusRf1O-_WcCbrFwHkbIZ26vxQ1xJZeQdsaKRITVNQ"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/A1etRNMKxhlNGTf-gNBtJ75QJJ4NJtbKh_UXQTlLXzI",
+      "extensions": {
+        "rank": 79
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+      "name": "Geodnet Token",
+      "symbol": "GEOD",
+      "decimals": 9,
+      "logoURI": "https://www.geodnet.com/metadataimg/GEODNET.svg",
+      "extensions": {
+        "rank": 68
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3",
+      "name": "DarkSwap",
+      "symbol": "DARK",
+      "decimals": 6,
+      "logoURI": "https://sumo-ipfs.quicknode-ipfs.com/ipfs/QmWwo2JKns7482juHj9kEhhmeGhv3FV15m6n3esfTMgnXi",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 81
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7NQSHjuEGENZDWfSvPZz7oP2D6c5Jc3LjFC6uh179ufr",
+      "name": ":moyai:(MOAI)",
+      "symbol": "MOAI",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/z-DMnyxOt4FgHKdQq-05tIJOyarmt7Tg1QUqUeEOdew"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "name": "JPOOL Solana Token",
+      "symbol": "JSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg",
+      "extensions": {
+        "rank": 360
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7XdCaKpqLmKE2K7yr9xaeWB1H2CVZ1oGwxB6hmd9pump",
+      "name": "Smoking Wizard",
+      "symbol": "WIZARD",
+      "decimals": 6,
+      "logoURI": "https://api.vortexdeployer.com/image/1bb327c3-3a4b-4412-bb8c-e6fb2d31ade3.webp",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump",
+      "name": "DerekMercer",
+      "symbol": "DRMR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/adron02/drmr-token/main/drmr.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 141
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
+      "name": "Dogelon (Portal)",
+      "symbol": "ELON",
+      "decimals": 4,
+      "logoURI": "https://assets.coingecko.com/coins/images/14962/thumb/6GxcPRo3_400x400.jpg?1696514622",
+      "extensions": {
+        "rank": 386
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1",
+      "name": "catwifhat",
+      "symbol": "$CWIF",
+      "decimals": 2,
+      "logoURI": "https://bafkreigmg552j5o5qv5ra6hvg4by4qzjjichzsyaljhmyvwe5qkjphgxoi.ipfs.nftstorage.link",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+      "name": "Lido Staked SOL",
+      "symbol": "stSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
+      "extensions": {
+        "rank": 149
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7ga6rtE9qSb3wdEiDCpTu2kHqoGVfT52jD8ign1rYTvx",
+      "name": "Hylo Leveraged HYPE",
+      "symbol": "xHYPE",
+      "decimals": 6,
+      "logoURI": "https://hylo-token-metadata.s3.us-east-2.amazonaws.com/xHYPE/icon.png",
+      "extensions": {
+        "rank": 91
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo",
+      "name": "SCOTT WU",
+      "symbol": "DEVIN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWahTWTpUKTfsx7cBYM3QS1upQq3jXeVxMr1EGfmCqhtj",
+      "extensions": {
+        "rank": 397
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+      "name": "GMT",
+      "symbol": "GMT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+      "extensions": {
+        "rank": 326
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "name": "UXD Stablecoin",
+      "symbol": "UXD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/uxd-icon-black.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7mmXL6Et4SbpDs2iXoZQ3oPEeXeAiyETxh1QjDNi5qnV",
+      "name": "OmniCat (Wormhole)",
+      "symbol": "OMNI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/33917/thumb/omnicatlogo.png?1717544778"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump",
+      "name": "had to take profits sir",
+      "symbol": "https",
+      "decimals": 6,
+      "logoURI": "https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmbG1LuZeK4W6FaodSxREjrfj4AdjiSrGEq6Rhg9Ejx8iV",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 287
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "name": "Ether (Portal)",
+      "symbol": "ETH",
+      "decimals": 8,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/c575a248bb3d2411cfcf5483e768987eac04333b8ccf4ddf1ab11ca1970fa28b.webp",
+      "extensions": {
+        "rank": 10
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+      "name": "Samoyed Coin",
+      "symbol": "SAMO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png",
+      "extensions": {
+        "rank": 330
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "7ypCq2CJ4fnbtS3z2B1W1UT2he5E3u7Md6Gy1ri7uGrQ",
+      "name": "AntMiner",
+      "symbol": "ANT",
+      "decimals": 6,
+      "logoURI": "https://assets.galile0x.com/ant-pixel-logo.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 204
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "82Rc22mnyHrmBGwj15rhYhFzVrU3bgFkjNtV3iHjpump",
+      "name": "Neuracat",
+      "symbol": "NCAT",
+      "decimals": 6,
+      "logoURI": "https://cf-ipfs.com/ipfs/Qme52pZKgBFzksdepVCDLfhxGB3icqvS5x85oxPJaX2RwE"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "name": "Wormhole Token",
+      "symbol": "W",
+      "decimals": 6,
+      "logoURI": "https://wormhole.com/token.png",
+      "extensions": {
+        "rank": 74
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg",
+      "name": "Rizzmas",
+      "symbol": "Rizzmas",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/4KejFFTPvFjxc0NkqOCADL7BVZ9xzgh2FNPunMadZrQ",
+      "extensions": {
+        "rank": 276
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46",
+      "name": "HABIBI",
+      "symbol": "HABIBI",
+      "decimals": 6,
+      "logoURI": "https://bafybeidxe4hbr3vn7cy7m3tcvxvrmzzc4cl6dcbmkqdb4yg7wgxli4iwyi.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8CkiSHHJDHJV4LUoiRMLUhqG58cUkbyJRtcP4Z3mCXNf",
+      "name": "POWSCHE",
+      "symbol": "POWSCHE",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmWdNyavXiBW5jQPgEt7SR5c5AWSDSQGiUcKeuCS6KTStB"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8D1nUMJQam54o34Kj2knFhSTaWoehEr4mBc7LfiDdCqq",
+      "name": "Sharbi",
+      "symbol": "SHARBI",
+      "decimals": 8,
+      "logoURI": "https://bafkreigwjy43gzwjqlfpottif2pmn3i5fyk7z6p5txvtoceljr4iqxvozq.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8FA3TPf84h9gEZAxDhiLkMN4vvZcdEUZxmGadbo12auh",
+      "name": "SCALES",
+      "symbol": "SCALES",
+      "decimals": 5,
+      "logoURI": "https://bafkreid7dzkdnfpjmg6lb3dfyrfa4xrvhurj5amgmdcgm254tq3gckrmra.ipfs.nftstorage.link",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
+      "name": "Uniswap (Portal)",
+      "symbol": "UNI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36/logo.png",
+      "extensions": {
+        "rank": 371
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+      "name": "COPE",
+      "symbol": "COPE",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump",
+      "name": "Wojak ",
+      "symbol": "WOJAK",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreighazhzw7kijsyhff77vvjgwbeonhq7fua7lpic4df7qjcajiykcm",
+      "extensions": {
+        "rank": 172
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8Jx8AAHj86wbQgUTjGuj6GTTL5Ps3cqxKRTvpaJApump",
+      "name": "Nietzschean Penguin",
+      "symbol": "PENGUIN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeieukfwe5dz5m7d7pocyogm2sd3bzr6ajxefav7mcvpbf53yl3cn6u",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 221
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+      "name": "LOCK IN",
+      "symbol": "LOCKIN",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/Qmc2SJQW4K7UYYVLdoKSf4cGVZbuFGTF4dZiAdRtivNkpX",
+      "extensions": {
+        "rank": 301
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump",
+      "name": "Wealth Coin",
+      "symbol": "WEALTH",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeics2flrkrfszkb57rvsex3tl76xetj2nodn7k5aqt3s34ug2aq7z4",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8NH3AfwkizHmbVd83SSxc2YbsFmFL4m2BeepvL6upump",
+      "name": "TOP G",
+      "symbol": "TOPG",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmSoStGEqkQ3oRJtChNoqiLH7iBBmSv5xZFfrYcJvmG3Fr"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8Nd3TZJfxt9yYKiPiPmYp6S5DhLftG3bwSqdW3KJwArb",
+      "name": "Spodermen",
+      "symbol": "SPOODY",
+      "decimals": 6,
+      "logoURI": "https://bafkreiezay3rd6ywyibp2ulerxzr5xyzig2j2qpvika7t6jfu5nyqglx7a.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump",
+      "name": "Percolator",
+      "symbol": "Percolator",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreih5dhwat3y3azcoe5d4c2ct2l6rpkuexrthn6jaufrojusc7nh4pm",
+      "extensions": {
+        "rank": 169
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+      "name": "KNOTS",
+      "symbol": "KNOTS",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/d9a0524dcb4c3716db97e431e9e895f910cb0ed9c3ca4cb8e0d91eb171d69c82.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 86
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8SMMso8Muv8d6i4WmMDthKt6TN1ysN6937sx3DKLXZqB",
+      "name": "Rhea Finance",
+      "symbol": "RHEA",
+      "decimals": 9,
+      "logoURI": "https://ref-new-1.s3.amazonaws.com/token/b557c77b3a292b94d1ca7713b58ab6ea.png",
+      "extensions": {
+        "rank": 156
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk",
+      "name": "GAME OF MEMES",
+      "symbol": "GOME",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmRf3hwySTcY257EbqmLNZMqyBwY6dPhQodAuHXjEutDYK"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
+      "name": "MemeCoinDAOai",
+      "symbol": "MEMES",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/hb9M20acG4rA6SFess40tLnhJ6RZkd0EmluNwzh11Wc?ext=png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+      "name": "Infinite Money Glitch",
+      "symbol": "GLITCH",
+      "decimals": 6,
+      "logoURI": "https://glitchonsol.com/kit/glitch-pfp-1024.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 182
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+      "name": "alon",
+      "symbol": "ALON",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmavnBN2FbwW8o43KYBEQSnjYyGrRZKXbEN6N598dkFCLz",
+      "extensions": {
+        "rank": 109
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
+      "name": "GARY",
+      "symbol": "$GARY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/gary-giraffe.jpg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8doS8nzmgVZEaACxALkbK5fZtw4UuoRp4Yt8NEaXfDMb",
+      "name": "WAFFLES ",
+      "symbol": "$WAFFLES",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmNykfpiTcSM692rpcvfSs1KczefHbUthAmc6xKqy4r9db",
+      "extensions": {
+        "rank": 352
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8gHPxqgHj6JQ2sQtMSghQYVN5qRP8wm5T6HNejuwpump",
+      "name": "RefundYourSOL",
+      "symbol": "RYS",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiacevdu7jdbn5d5a2du52x6bnkfw6anuh672727wuy63k77bcghhi",
+      "extensions": {
+        "rank": 403
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8sWe4GzK1YqG3vyzKHf8ZyB1WB5asofw2o6TqgFePtPo",
+      "name": "Loadout",
+      "symbol": "LOAD",
+      "decimals": 6,
+      "logoURI": "https://d19mfdzkkbqg6b.cloudfront.net/projects/08560c93-e0b2-4e3d-a8f5-c82e9a1749ef/1790261710795-token-image.png",
+      "extensions": {
+        "rank": 101
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8vCAUbxejdtaxn6jnX5uaQTyTZLmXALg9u1bvFCAjtx7",
+      "name": "ZACK MORRIS",
+      "symbol": "ZACK",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPe1csXRHKPF7Yn5PGzrGk9EXi9yNs1keB2c7sqsHkHNN"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8vGr1eX9vfpootWiUPYa5kYoGx9bTuRy2Xc4dNMrpump",
+      "name": "Fapcoin",
+      "symbol": "Fapcoin",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreih62x2y2m36rle6duztxrym3xmkgysrx5skcivosgilo4gtbwpgri"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
+      "name": "GameStop",
+      "symbol": "GME",
+      "decimals": 9,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeiddrzeyne4n2hi7qkhyhqorc4jbs4565pset7fc3ifwvhvxfdrt7q/gamestop-logo.jpeg",
+      "extensions": {
+        "rank": 244
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8wxkvAfEns76yBzu4MnbV7VnXWjg3iDPA9uwAQ6cpump",
+      "name": "SolAngeles",
+      "symbol": "SOLANGELES",
+      "decimals": 6,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/pi8udfIf51qcX95D?width=64&height=64&fit=crop&quality=95&format=auto",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 232
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+      "name": "zerebro",
+      "symbol": "ZEREBRO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
+      "extensions": {
+        "rank": 43
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "947tEoG318GUmyjVYhraNRvWpMX7fpBTDQFBoJvSkSG3",
+      "name": "Solchat",
+      "symbol": "CHAT",
+      "decimals": 9,
+      "logoURI": "https://bafybeigqw6dl5tiexa7utfhcsgldalhrelvjnea23jckqsgo65i2uoln5i.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 382
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "96egraTCizRpzNx4WvMMhPJf7TKS7W5kUHeenmd1XfuN",
+      "name": "XFee",
+      "symbol": "XFEE",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/Cohq3DBWZr4k5AM3tvKyq55MksbGiW3wrm9faDndc5a6",
+      "extensions": {
+        "rank": 211
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+      "name": "Paid",
+      "symbol": "PAID",
+      "decimals": 6,
+      "logoURI": "https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmfUMmXdXkJ4oyV2NGbgiKkh7qhnhmUZ1toN2kQKD4UDxM",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 42
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g",
+      "name": "HYPE",
+      "symbol": "HYPE",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/QBRdRop8wI4PpScSRTKyibv-fQuYBua-WOvC7tuJyJo",
+      "extensions": {
+        "rank": 9
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "99ouK5YUK3JPGCPX9joNtHsMU7NPpU7w91JN4kdQ97po",
+      "name": "AI",
+      "symbol": "AI",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/HnDwG54RZvJhTD2PX-mmrD2jwC9MIdxKjW2hL3M8jQc"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump",
+      "name": "The Official 67 Coin",
+      "symbol": "67",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/docckv172/image/upload/v1769120594/photo_2026-01-08_16-58-47_msfbpr.jpg",
+      "extensions": {
+        "rank": 151
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "name": "Fartcoin",
+      "symbol": "Fartcoin",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+      "extensions": {
+        "rank": 33
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9EYScpiysGnEimnQPzazr7Jn9GVfxFYzgTEj85hV9L6U",
+      "name": "tooker kurlson",
+      "symbol": "tooker",
+      "decimals": 9,
+      "logoURI": "file:///C:/Users/skooa/Downloads/tooker2.jpg",
+      "extensions": {
+        "rank": 406
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9JK2U7aEkp3tWaFNuaJowWRgNys5DVaKGxWk73VT5ray",
+      "name": "Nummus Aeternitas",
+      "symbol": "NUMMUS",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeia53j2phukbytqc4xrw3p3botrcqgkts532dr3diqnqxyzsfv2k3e",
+      "extensions": {
+        "rank": 342
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+      "name": "Audius (Portal)",
+      "symbol": "AUDIO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM/logo.png",
+      "extensions": {
+        "rank": 224
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+      "name": "HeyAnon",
+      "symbol": "Anon",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmZDXjdV3fDssQeXVhgUFWi8Uv7FBSCUzZHnfupgTGsi27",
+      "extensions": {
+        "rank": 228
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9Pfync3ejPC9eHqVzq3nYQJAhyhjqpnB9UsaSfLxpump",
+      "name": "KET",
+      "symbol": "KET",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdPDHowv48jptDxaNTs4kL4y1H9pXtxpok8oKCLPpPrLf",
+      "extensions": {
+        "rank": 153
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+      "name": "DogWifJob",
+      "symbol": "JOB",
+      "decimals": 6,
+      "logoURI": "https://sumo-ipfs.quicknode-ipfs.com/ipfs/Qmc6hJFNBg2aBjoAho7zWyuB2p4GKHqSD95UV8SyWQUobj",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 132
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9RjwNo6hBPkxayWHCqQD1VjaH8igSizEseNZNbddpump",
+      "name": "StupidCoin",
+      "symbol": "Stupid",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmQnRqSSD9E3Ripqoy3b3BNfxomfSbXjBKwDihVhsDWmk5",
+      "extensions": {
+        "rank": 347
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+      "name": "SelfieDogCoin",
+      "symbol": "SELFIE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmcrXYhDD6mcCWziAZfmMp9zwv1RvMAXaShBHEQzQjpaRj",
+      "extensions": {
+        "rank": 357
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9aqmJjCnnMQv42TXLk921ceUkN35nea2QP969n1caqjj",
+      "name": "Super Intelligence",
+      "symbol": "SI",
+      "decimals": 6,
+      "logoURI": "https://axiomtrading-v2.axiom-cdn.io/DtFkKBC3Cmi9j3SxBGRUd8gvBLw7nAasrvUJFB69yubM.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 84
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "name": "The Black Bull",
+      "symbol": "ANSEM",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/510af3dbeae5584cb642ce07f7ffd3cb856999e54df4dad0182944e898687d51.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 25
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9ckR7pPPvyPadACDTzLwK2ZAEeUJ3qGSnzPs8bVaHrSy",
+      "name": "USDu",
+      "symbol": "USDu",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/Hg7LLjvsm2KKRu9Br33gZ6veVhxAby57iXDRgtwH3DCo",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 246
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9dLuVbJMd4ZpTpFgmaFHAGSsFwVjtcnzFWaLAA1expHg",
+      "name": "HeeeHeee",
+      "symbol": "HEEHEE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmbG7449yCDTYfw8b4WyYkNaQcmUwSoJoSAM1sGuJkJCo2",
+      "extensions": {
+        "rank": 391
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+      "name": "Binance Coin (Portal)",
+      "symbol": "BNB",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
+      "extensions": {
+        "rank": 140
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9gwTegFJJErDpWJKjPfLr2g2zrE3nL1v5zpwbtsk3c6P",
+      "name": "A Gently Used 2001 Honda Civic",
+      "symbol": "USEDCAR",
+      "decimals": 9,
+      "logoURI": "https://bafkreigfuq6m47yvyysphjuzziegrxaxeeyfm2bv25tsrxqddreenfss44.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9h5AzEQzYu9CV5K6uLtFRMD1KcbxZSFNxZEgBTNfw5Na",
+      "name": "Stonk Cats",
+      "symbol": "STONKCATS",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/4hmTbSyA46UDqNoKqr4cnUoXsgaCFkNKj4Mx7qaPGNkg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 192
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9kwT8gUEMKQhnmc4mVb2iUAybfjzvVMM5LwffKFcpump",
+      "name": "AFK Heroes Idle RPG",
+      "symbol": "AFKHERO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibyivqckf5vaps5sriwhhm6ghvtloe6n6yepgizpnnt2g25pvwptm",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 334
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9mV4WUukVsva5wYcYW4veo34CNDiF44sh3Ji65JNdvh5",
+      "name": "Elephant Money Stable (Wormhole)",
+      "symbol": "TRUNK",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39568/thumb/trunk-logo.png?1722929241",
+      "extensions": {
+        "rank": 317
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "name": "Wrapped Bitcoin (Sollet)",
+      "symbol": "soBTC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "extensions": {
+        "rank": 155
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9pPE1q9EW1bMQWbHmffrzUCfRr7S82UoxNUFfA6mAZC6",
+      "name": "Keyboard Cat",
+      "symbol": "KEYCAT",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/gPWZhA_-N9MDXGbZzGsh1vhFrP1d_UBbqU8KYQzMt-4"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "name": "UST (Portal)",
+      "symbol": "UST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "9vrGUHwsC8LyLjQoh3zJb9S53x7A88u49La63qPB6F5t",
+      "name": "Lil Pump",
+      "symbol": "lilpump",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZgQ76Ckgxe4FQvxmXPC9dfdvEkZ5JX498m9yRb1wAERg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump",
+      "name": "The Toad Pepe",
+      "symbol": "TOAD",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeieqj4yflnjsrld7flroapyq6pixzi4qyifiotnqddq7edoa2hn4sq",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 110
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 6,
+      "logoURI": "https://hq3wjgefwtje2kue7bvqlevhns2udaharnibucrgui3lhgy4aniq.arweave.net/PDdkmIW00k0qhPhrBZKnbLVBgOCLUBoKJqI2s5scA1E",
+      "extensions": {
+        "rank": 212
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A2khRbhRJNrAEHj95htivC4cR4VbJwfssDH5FPPbP4m9",
+      "name": "duk",
+      "symbol": "duk",
+      "decimals": 6,
+      "logoURI": "https://bafkreidfel55dm3bvwm4kx4qkutiiwmixsebetskzn7fqrxzkm7r3ilkwy.ipfs.nftstorage.link/"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+      "name": "Peng",
+      "symbol": "PENG",
+      "decimals": 6,
+      "logoURI": "https://bafkreibmv7tbmuqqhm2foemzuy4o4bxqd677r3obw6igrtlmpe5k3j4oge.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A5gVj5j16U4vCTMXQYYrhkmWgx6gej4nAeZRNQMLUAfy",
+      "name": "DJCAT",
+      "symbol": "DJCAT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXmQYeiTDSFQghdf1mZZuSaKAhQJFekKbAEkaBWjKf4Xw"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "decimals": 8,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/5ee583f3a90e08b9daab08fb05bf0a1b86e6c7692eb876ef9f0ea10bf684ae39.webp",
+      "extensions": {
+        "rank": 7
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+      "name": "FWOG",
+      "symbol": "FWOG",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmQ4H6Y23dSEjn9LKB85M7KpVFiDu6KfDNZAcrqiCwFQQH",
+      "extensions": {
+        "rank": 201
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+      "name": "USD Coin (Portal from Ethereum)",
+      "symbol": "USDCet",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AAqZ6CECabwnYLm3FDqPrVQotXLPGQ3BJSfecYmXeJU5",
+      "name": "GOTM",
+      "symbol": "GOTM",
+      "decimals": 9,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/c8a82f80c3880a9ef713f71d81c129e4e4839db78a67b92f16f8d1a573634999.webp"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ACeWC77UeW2DBZMe7YBsuXoxLvk4dHMnPzneApau1Au6",
+      "name": "Any Inu (Wormhole)",
+      "symbol": "AI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/34126/thumb/anyinulogo200.png?1704174269"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ACpzkGJV3DDU8HXy8yjab7RL9qNmDGym2GwLkzNppump",
+      "name": "Are Ya Winning, Son?",
+      "symbol": "SON",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiex7tnnvtalrnuanc5bpgjvagtaoz6mam6sppf24nwxgdgkw37s6i",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 304
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ACtfUWtgvaXrQGNMiohTusi5jcx5RJf5zwu9aAxkpump",
+      "name": "unc",
+      "symbol": "unc",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibm2rehj36ekplu7ilfmu5npmpmn5vdl3izlat2dkobhthzvfo2fm",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 237
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
+      "name": "Realy Token",
+      "symbol": "REAL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/21448/thumb/2SIFWp0b_400x400.jpg?1696520811"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+      "name": "GST",
+      "symbol": "GST",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
+      "extensions": {
+        "rank": 298
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AGi2s9zPRPHs3zEDPhPTroumTEXK5ufymYSfEFndCSSW",
+      "name": "Leveraged Cat",
+      "symbol": "LEVERCAT",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/6a3a1d18f9b19d1a72a3ec2808b9d7e18bf513d03b775630c4c336e41ab435e4.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 161
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AMjzRn1TBQwQfNAjHFeBb7uGbbqbJB7FzXAnGgdFPk6K",
+      "name": "SolCex ",
+      "symbol": "SOLCEX",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/YN1yUMM.png",
+      "extensions": {
+        "rank": 261
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "APoM2sXUzdRHTkUjXSsdUheX1wPPdP4HFLotmtRNMU8P",
+      "name": "brainrot",
+      "symbol": "rot",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmea5bQBRfTU2ZAhQrYL59kpobLjCiYqk8xAXXDDYWWA7t",
+      "extensions": {
+        "rank": 398
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+      "name": "Arcium",
+      "symbol": "ARX",
+      "decimals": 9,
+      "logoURI": "https://static.arcium.com/arx/icon.png",
+      "extensions": {
+        "rank": 146
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AT79ReYU9XtHUTF5vM6Q4oa9K8w7918Fp5SU7G1MDMQY",
+      "name": "SpiderSwap",
+      "symbol": "SPDR",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/PAVQPYRQzq2g4O2X7hDzOniW4aBE9PJ19U56MRVpIfA"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+      "name": "Star Atlas",
+      "symbol": "ATLAS",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
+      "extensions": {
+        "rank": 275
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ATRLuHph8dxnPny4WSNW7fxkhbeivBrtWbY6BfB4xpLj",
+      "name": "Artrade Token",
+      "symbol": "ATR",
+      "decimals": 9,
+      "logoURI": "https://artrade.app/logo.png",
+      "extensions": {
+        "rank": 322
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+      "name": "Aurory",
+      "symbol": "AURY",
+      "decimals": 9,
+      "logoURI": "https://images.cdn.aurory.io/logo/ico_blanc_small.png",
+      "extensions": {
+        "rank": 383
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr",
+      "name": "Solama",
+      "symbol": "SOLAMA",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/UoPHSd2rbj9krhwHfR4Vk94JnzgwbDs8SW92_Z90YUM",
+      "extensions": {
+        "rank": 390
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AYABiqKuTh9Va5Aqc6AujFevHwDGmECGQiFmKW5g3K4Z",
+      "name": "Nobiko Coin",
+      "symbol": "LONG",
+      "decimals": 5,
+      "logoURI": "https://bafkreiayokuebuh72owe7axyonjlea2o7kfnjnftzoidyvghlql4igxpea.ipfs.nftstorage.link/"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
+      "name": "Guacamole",
+      "symbol": "GUAC",
+      "decimals": 5,
+      "logoURI": "https://bafkreiajgw65o4ryczf7cadb43rzptvb62z4msoqr3c4625hdbdbntcydq.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 335
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AaEhFTX4naHSWSXz9TVe5QgLbtSLT8ZqYJGZzDDcoroh",
+      "name": "Jupiter Cat",
+      "symbol": "JUPCAT",
+      "decimals": 6,
+      "logoURI": "https://jupcatsolana.com/jupcat-logo.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 241
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AavE1kKKnesPw4MuRJmJ9jZs9QzEE8CPxQ3ViczUDfc1",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 8,
+      "logoURI": "https://arweave.net/a1RHlEizdwipsW3liDLWqzg5omSZvBc5wiFGa7O0Y6I",
+      "extensions": {
+        "rank": 138
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AbrMJWfDVRZ2EWCQ1xSCpoVeVgZNpq1U2AoYG98oRXfn",
+      "name": "Cheese",
+      "symbol": "Cheese",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmVWsz9nDL7Rsie2JEjkJFKCyMeRm2u76NzvWWepP5vBkq"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Adq3wnAvtaXBNfy63xGV1YNkDiPKadDT469xF9uZPrqE",
+      "name": "What in Tarnation?",
+      "symbol": "WIT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmeqEFthErkc4E5r758Uc3X7hLEyB9S83iWc5ZjcW1C9M3"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Afo4NumBNHDXc7m7p6qjZ1pF3LbqYfG5k1CNrGve8rVu",
+      "name": "FalconX",
+      "symbol": "FALX",
+      "decimals": 9,
+      "logoURI": "https://purple-causal-bass-212.mypinata.cloud/ipfs/QmSoDedAeG3CMHL89FGgZrCwH9ubEtUm2w9WRUtnrBz4Rr"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AhhdRu5YZdjVkKR3wbnUDaymVQL2ucjMQ63sZ3LFHsch",
+      "name": "VNX Swiss Franc",
+      "symbol": "VCHF",
+      "decimals": 9,
+      "logoURI": "https://vnx.li/wp-content/uploads/2025/04/VCHF-256x256-1.png",
+      "extensions": {
+        "rank": 215
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
+      "name": "CyberLeek",
+      "symbol": "CYBERLEEK",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/sie0Whs274GBUHWPblwGcglFr9Wd5rt9RrxTd1k8OlU",
+      "extensions": {
+        "rank": 39
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG",
+      "name": "BEER",
+      "symbol": "$BEER",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/VLGzUkx9E4TBr3rGWehMfR_f42xa92VxA-JvkAIqzw0"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Av6qVigkb7USQyPXJkUvAEm4f599WTRvd75PUWBA9eNm",
+      "name": "Costco Hot Dog",
+      "symbol": "COST",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmSqddq1svm7VpaLCcSQzCea58J8xRo8vhHuVJgdRPUw1J",
+      "extensions": {
+        "rank": 407
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
+      "name": "Syrup USDC",
+      "symbol": "syrupUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/maple-labs/maple-metadata/refs/heads/main/assets/syrupUSDC.svg",
+      "extensions": {
+        "rank": 28
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AviKHWoXAHcpRnCX3cH38fHtjjn11aL9Pqjid3sZpump",
+      "name": "zazu",
+      "symbol": "zazu",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreighhzol4ozazcfkank4wp2zbcqjfmu57om5qh6f562rcxec6sku34",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Ax8PSfCXxmxb8C8kYTzN5CPpTe6PyeZfFf8rrXNCjupx",
+      "name": "Milk Money",
+      "symbol": "MM",
+      "decimals": 6,
+      "logoURI": "https://static-create.jup.ag/images/Ax8PSfCXxmxb8C8kYTzN5CPpTe6PyeZfFf8rrXNCjupx-1dae54be-2a7e-47d1-bb34-6d914d39438b.jpg",
+      "extensions": {
+        "rank": 283
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AyrQpt5xsVYiN4BqgZdd2tZJAWswT9yLUZmP1jKqpump",
+      "name": "buy instead of getting a job",
+      "symbol": "jobcoin",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmeu35hXZM66AbATWZW5x5dc9nWRUrGkq9ucvZATicSxLF"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "AzeNfRi7DX5HndH7dUgCxMD5sQPV7FPFH1cwDkoqpump",
+      "name": "Knight Core",
+      "symbol": "KNIGHT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmb7BupzANKYb5bMAp3kMXXTksDfFiUmHFSDUJHhErhvRf",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "B5WTLaRwaUQpKk7ir1wniNB6m5o8GgMrimhKMYan2R6B",
+      "name": "Pepe",
+      "symbol": "Pepe",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+      "extensions": {
+        "rank": 263
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BANKJmvhT8tiJRsBSS1n2HryMBPvT5Ze4HU95DUAmeta",
+      "name": "Avici",
+      "symbol": "AVICI",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/metaDAOproject/futarchy/refs/heads/develop/scripts/assets/AVICI/AVICI.png",
+      "extensions": {
+        "rank": 346
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BANXbTpN8U2cU41FjPxe2Ti37PiT5cCxLUKDQZuJeMMR",
+      "name": "Banx",
+      "symbol": "BANX",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/5QRitQGPVjPwpjt43Qe_WISmys4dWwLMqQqQDT0oshg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BBKPiLM9KjdJW7oQSKt99RVWcZdhF6sEHRKnwqeBGHST",
+      "name": "GhostwareOS",
+      "symbol": "GHOST",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/Ku6pbA57kzk-tyxlZP9NEOaA2SYAZtYl8bCSYTRlxjU",
+      "extensions": {
+        "rank": 265
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin",
+      "name": "BCGame Coin",
+      "symbol": "BC",
+      "decimals": 6,
+      "logoURI": "https://crimson-brilliant-marmoset-627.mypinata.cloud/ipfs/bafkreiftax7mcya5x5bp24o54g6jvxc66j2o3rjhrj7zqkljax5icpm7re",
+      "extensions": {
+        "rank": 144
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
+      "name": "Manifesting",
+      "symbol": "MANIFEST",
+      "decimals": 6,
+      "logoURI": "https://www.manifesting.meme/logo.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 73
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
+      "name": "WOMAN YELLING AT CAT",
+      "symbol": "WYAC",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPC48TdRtFuYSkBWxE7E5D93x7aDNFdECF5tkngxwYU7p",
+      "extensions": {
+        "rank": 362
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BFgdzMkTPdKKJeTipv2njtDEwhKxkgFueJQfJGt1jups",
+      "name": "Uranus",
+      "symbol": "URANUS",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/1957748374339272704/qQwzXYmw_400x400.jpg",
+      "extensions": {
+        "rank": 288
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BLVxek8YMXUQhcKmMvrFTrzh5FXg8ec88Crp6otEaCMf",
+      "name": "Believe",
+      "symbol": "BELIEVE",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiadp3asuncuej2pzmvbrmzs2slrxyqbb6wpht4bizjixoz4uijiyu",
+      "extensions": {
+        "rank": 165
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+      "name": "Blaze",
+      "symbol": "BLZE",
+      "decimals": 9,
+      "logoURI": "https://solblaze.org/assets/blze.png?v=2",
+      "extensions": {
+        "rank": 389
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
+      "name": "Binance Staked SOL",
+      "symbol": "BNSOL",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy",
+      "name": "Backpack",
+      "symbol": "BP",
+      "decimals": 9,
+      "logoURI": "https://trek-labs.github.io/heart-metadata/bp/bp.png",
+      "extensions": {
+        "rank": 29
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BQ3F72yt9FVRgYrqCVCG3YohyBesDZ9bTuhGdmQ7GNEF",
+      "name": "Grok",
+      "symbol": "GROK",
+      "decimals": 9,
+      "logoURI": "https://imageupload.io/ib/buy0hGfs0Eq69TN_1699677473.jpg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BRZ5aeJCDuruA42V1CntqKvofa2G7DS3yyxx1pZEpump",
+      "name": "moonkey",
+      "symbol": "moonkey",
+      "decimals": 6,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/7AEIMCfNtjnGJ9u-?width=128&height=128&fit=crop&quality=95&format=auto",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 187
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn",
+      "name": "Hades",
+      "symbol": "HADES",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/dvKu5BgpSo6j-iGzQOyVXYZ8OU7iyfhHNpkkJ_8qkkQ"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BZFYNPeQAEW3HWQ4DNsTVahC1n4ZjTgn6jB2nnBbB96W",
+      "name": "Sapling",
+      "symbol": "SAPLING",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiabgef5lumlqu57ndpkneexqhbfe6ikvnv6yqg6cdtz44os6e4mim",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 118
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+      "name": "IO",
+      "symbol": "IO",
+      "decimals": 8,
+      "logoURI": "https://bafkreicnqsbhpzxiasdm5esr7fqi3vcjvcbfefo4sq4y3ff747rfqf7w7i.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 170
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BcHEaaTCvycPwwsJ9yQTXdHP9X2gCLkznDbZ8VySpump",
+      "name": "Jotchua",
+      "symbol": "Jotchua",
+      "decimals": 6,
+      "logoURI": "https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmWZUwFQEKzpmSbNTu7rUTiDoZRpXGzZHfCoNTzVSAPg2e",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 160
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
+      "name": "Non-Playable Coin (Wormhole)",
+      "symbol": "NPC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/31193/thumb/NPC_200x200.png?1696530021",
+      "extensions": {
+        "rank": 181
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BgJW7U1u2RY5XJk9uYb5AqFRzjMtqE7pw3kaf9iw9Ntz",
+      "name": "PELFORT",
+      "symbol": "$PELF",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/yamitora0/pelfort/main/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD",
+      "name": "Decimated",
+      "symbol": "DIO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Bm3dgkZrjH7eaz1GBH1R2ZHkp7nZUoPNJhjekoxepump",
+      "name": "MYRO",
+      "symbol": "MYRO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYHaBLAPU7pACYMHCtkza7gFKqnUtLKUfRgn8LsEjDq2r",
+      "extensions": {
+        "rank": 293
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BoZoQQRAmYkr5iJhqo7DChAs7DPDwEZ5cv1vkYC9yzJG",
+      "name": "BOZO",
+      "symbol": "$BOZO",
+      "decimals": 5,
+      "logoURI": "https://arweave.net/QN7RFzy_OqPO_cAbBtBUzcUwObkDuvkRLS16oxJI-s0"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "name": "Bonk SOL",
+      "symbol": "bonkSOL",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
+      "extensions": {
+        "rank": 295
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52",
+      "name": "Only Possible On Solana",
+      "symbol": "OPOS",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+      "name": "FLOAT",
+      "symbol": "FLOAT",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/5996bcff68622a9f116b3c7e04b1e08c8665f6ef237bca90e5a36cf53009b9e5.webp"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Bz7Nx1F3Mti1BVS7ZAVDLSKGEaejufxvX2DPdjpf8PqT",
+      "name": "FISH N CHIPS",
+      "symbol": "CHIPPY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdiHcE6Fr6H8qsyPtxcodUTvdsfJVS5iG29ysGzNsbKLe",
+      "extensions": {
+        "rank": 375
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C1MHyoTJpRTeS9AQCyspNVu2EWAYCZwmJ1jNkEArFP1f",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 9,
+      "logoURI": "https://crimson-acceptable-cow-17.mypinata.cloud/ipfs/bafkreicayywfovvxkqslgjsnb52iib2sdgagzzxaa4wijnzq6b6x2mcqiq",
+      "extensions": {
+        "rank": 208
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
+      "name": "Hooked",
+      "symbol": "HOOKED",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/3dd73c21ed1b525127f2527037f408eb1ecc5190e18d9fa4cd62f6027b9ecb0d.webp",
+      "extensions": {
+        "rank": 46
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C2omVhcvt3DDY77S2KZzawFJQeETZofgZ4eNWWkXpump",
+      "name": "Bullish Degen",
+      "symbol": "BULLISH",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeicmplvwizbeaoijncqhvftkmh575vz364govjx6sgvmuighvx5vb4",
+      "extensions": {
+        "rank": 279
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C3JX9TWLqHKmcoTDTppaJebX2U7DcUQDEHVSmJFz6K6S",
+      "name": "Bazinga",
+      "symbol": "Bazinga",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmbDCXdtVwhn8HBB8XtNNj9qPiCf31Fg55PrFP9j5z7Yfe"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+      "name": "Collaterize",
+      "symbol": "$COLLAT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmSjmKW7is3qdpbev4TUyiquJWXahKekyzrSGq4fsxWdoi",
+      "extensions": {
+        "rank": 323
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "C8cNX2D1y3jqKpMFkQhP1gGbfvTEdeckZXLBKSN5z5KF",
+      "name": "SolMail",
+      "symbol": "Mail",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmcAtxKADTdcZvZxZj3Gkc5YR4Ket1TDodrwzhHt49u3Bn"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/534911ccb30a062cb36fe0e4bc6a6156096fbac3daae922136b2519784339ada.webp",
+      "extensions": {
+        "rank": 16
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CARSsxWPkpQWvfyRBwfGMGvysJBHdHGfE46X5MNgmeta",
+      "name": "Rip Cars",
+      "symbol": "CARS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/metaDAOproject/futarchy/refs/heads/develop/scripts/assets/CARS/CARS.png",
+      "extensions": {
+        "rank": 235
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH",
+      "name": "CASH",
+      "symbol": "CASH",
+      "decimals": 6,
+      "logoURI": "https://token-metadata.bridge.xyz/images/cash.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 15
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+      "name": "unstable coin",
+      "symbol": "USDUC",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmQw4DQjdWp3G8TuMCykG8SVSwtFwkxvTyxEWNMuAVYU4q",
+      "extensions": {
+        "rank": 183
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CFNRDaxFcvRwRSNnA5cHrCCr6AHhk9dNkHWpRUjNupFL",
+      "name": "Raydium Cat",
+      "symbol": "RAYCAT",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/B77x6QzyvAbwR6RXZyQajSN6TppjKsRxTa5YfVqCss5W",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 310
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CFYhdWXsYfS7swnJgHRwb5toTHMEQD7Ljd5gGwKLpump",
+      "name": "Kilroy was here",
+      "symbol": "KILROY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicpqlgh4a7mfnuukirsngkcctpcdsth3plvfyv3kcf4tw2xomwtcm"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump",
+      "name": "Burnie Senders",
+      "symbol": "BURNIE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeiet7ko4w3nk2aeh2m7bsrbnlgs6tqz3vmmfgxu7ieesq75e2pup44",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 173
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks",
+      "name": "Gari",
+      "symbol": "GARI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks/logo.png",
+      "extensions": {
+        "rank": 384
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo",
+      "name": "BonkEarn",
+      "symbol": "BERN",
+      "decimals": 5,
+      "logoURI": "https://i.imgur.com/nd9AVZ4.jpeg",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+      "name": "Sanctum",
+      "symbol": "SANC",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/N7vCgQdgQ-fab28zEB4m8QRLMwI91_KcXI-Gtr151gg",
+      "extensions": {
+        "rank": 147
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CPjDhhBpwEsLygNuczKcNwBPgMeni1xLomD48x51MyYU",
+      "name": "Taylor Swift's Cat",
+      "symbol": "BENJI",
+      "decimals": 9,
+      "logoURI": "https://bafkreidr7yjxj75ollxohlgmrvix6dpwgy4y5r3wp2bzz6mrgi3tnuhkuy.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC",
+      "name": "Stanley Cup Coin",
+      "symbol": "STAN",
+      "decimals": 5,
+      "logoURI": "https://arweave.net/urnvj3NcnKmwEWNLDQJetp2OFP_nu3tB8HPdXwSFg7U",
+      "extensions": {
+        "rank": 378
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CQbXk942c6GPcRwtZ2WMFP5JcQ9NqbXtb8jUewBi7GoT",
+      "name": "BAKED",
+      "symbol": "BAKED",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZZsLE67KsFdyFRpCHwK6CTg4T1ShV6fmUfyYGQLp83bM"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CREDBHvVqREBCAxMihzr8D1nepHMr2gmQoZWpmgGmeta",
+      "name": "Credible Finance",
+      "symbol": "CRED",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/metaDAOproject/programs/refs/heads/develop/scripts/assets/CRED/CRED.png",
+      "extensions": {
+        "rank": 207
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CRWNYkqdgvhGGae9CKfNka58j6QQkaD5bLhKXvUYqnc1",
+      "name": "Crowny token",
+      "symbol": "CRWNY",
+      "decimals": 6,
+      "logoURI": "https://cdn.crowny.dev/app-icon-min.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
+      "name": "apeonfone",
+      "symbol": "fone",
+      "decimals": 6,
+      "logoURI": "https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmcYPwSR9zrWY4D7GLcWLw2AzdBUTVJSY9CnWuncGAei3P",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 49
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
+      "name": "HarryPotterObamaSonic (Wormhole)",
+      "symbol": "BITCOIN",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/dwabqjws2/image/upload/v1753687603/hpos10i_logo_casino_night-twitter_oywvay.png",
+      "extensions": {
+        "rank": 219
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt",
+      "name": "AntFun",
+      "symbol": "ANTFUN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifoqhlalk2dppfyedcn5elcpbsu4mnqo2zn6sn7lbq5hdt4i3s7xu",
+      "extensions": {
+        "rank": 31
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CcLd8HTAKLWtQHatqPwBQjtuCA72FNB9E1ckRTEzpump",
+      "name": "ALTSEASON",
+      "symbol": "ALTSZN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidkp4zqn2peh2ony67l67d3qexf5qovmjfmui3n2e47k5arxpwppu",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 196
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+      "name": "NotInEmploymentEducationTraining",
+      "symbol": "neet",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmXVKWN3i56vyh4Xot9sTb3XsCu92ihypcArFJLujuwzoS",
+      "extensions": {
+        "rank": 67
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump",
+      "name": "Buttcoin",
+      "symbol": "Buttcoin",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiftg7kl6h2aflu3i6je2vdsdnrtbxiyuxr6n6pk6txpkigbz7cmvq",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 97
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+      "name": "PWEASE",
+      "symbol": "pwease",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmboNoCSu87DLgnqqf3LVWCUF2zZtzpSE5LtAa3tx8hUUG",
+      "extensions": {
+        "rank": 213
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CrAr4RRJMBVwRsZtT62pEhfA9H5utymC2mVx8e7FreP2",
+      "name": "Monad",
+      "symbol": "MON",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/I_t8rg_V_400x400.jpg/public",
+      "extensions": {
+        "rank": 133
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CtzPWv73Sn1dMGVU3ZtLv9yWSyUAanBni19YWDaznnkn",
+      "name": "OKX Wrapped BTC",
+      "symbol": "xBTC",
+      "decimals": 8,
+      "logoURI": "https://static.coinall.ltd/cdn/oksupport/common/20250512-095503.72e1f41d9b9a06.png",
+      "extensions": {
+        "rank": 125
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CvB1ztJvpYQPvdPBePtRzjL4aQidjydtUz61NWgcgQtP",
+      "name": "Epics Token",
+      "symbol": "EPCT",
+      "decimals": 6,
+      "logoURI": "https://bafybeibal7k2hz6frznyjbl4qcnzcwlsuzxmquatrsaly6ttmuppgmdvwe.ipfs.dweb.link/EpicsCoin.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+      "name": "Moby AI",
+      "symbol": "MOBY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdyG2c35DTLen5Etr77cmgYQ8qH8yXZSzDQY6koymp8Ux",
+      "extensions": {
+        "rank": 193
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CyUgNnKPQLqFcheyGV8wmypnJqojA7NzsdJjTS4nUT2j",
+      "name": "kith gil",
+      "symbol": "gil",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYjnAgqAY4MTWdaBJTUHorQB7LABcsnEmu49AhKTzZBkp",
+      "extensions": {
+        "rank": 394
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+      "name": "Goatseus Maximus",
+      "symbol": "GOAT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmapAq9WtNrtyaDtjZPAHHNYmpSZAQU6HywwvfSWq4dQVV",
+      "extensions": {
+        "rank": 111
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "D1YZZg9dBZ7AbfknZVbaeVLto36eySwoFYEVhZrD4F4n",
+      "name": "LESGO",
+      "symbol": "GO",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/EXjhzURGxHshmutUsJNWv5p1aiBZ351wiXafEBDpFJQQ",
+      "extensions": {
+        "rank": 152
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "D8r8XTuCrUhLheWeGXSwC3G92RhASficV3YA7B2XWcLv",
+      "name": "catwifbag",
+      "symbol": "BAG",
+      "decimals": 9,
+      "logoURI": "https://bafkreia7awreq43ql7fa6y5sfpt55vweautbp56gxbqzvbbdobxwtdgdt4.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+      "name": "deBridge",
+      "symbol": "DBR",
+      "decimals": 6,
+      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
+      "extensions": {
+        "rank": 119
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DDti34vnkrCehR8fih6dTGpPuc3w8tL4XQ4QLQhc3xPa",
+      "name": "Liquid Solana Derivative 42069",
+      "symbol": "LSD",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/1Um8TkH4NHOQCkplHNhS-tgYKh5Vsz7rF0fR7NjBJuA"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DEJqUhPTarcaNqhT7c6fktUszcJWN6skqyWSxXchpJNm",
+      "name": "MattleFun",
+      "symbol": "MATTLE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmaBUC3sD24PHeg4A59FSH2S4qakQRfBv42QLvPHYtmXzG",
+      "extensions": {
+        "rank": 364
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+      "name": "Super Inu",
+      "symbol": "SI",
+      "decimals": 6,
+      "logoURI": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/7ovByu4CKE2ogdbYTRx8o9z1XarkNMA3hXyxThWamoon.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 26
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/qeSnRm_FIyp_khPfmg8o1zQeGO4AczDaEKe8jEUOzL4",
+      "extensions": {
+        "rank": 17
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
+      "name": "DeFi Land",
+      "symbol": "DFL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DLUNTKRQt7CrpqSX1naHUYoBznJ9pvMP65uCeWQgYnRK",
+      "name": "SolCard",
+      "symbol": "SOLC",
+      "decimals": 6,
+      "logoURI": "https://bafybeidyzyh3wmstgqsdyhbz4a2im4dx3qw6sveet2tvd2vch62vonnb2y.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 353
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DMXBsVBwfuzc5axa2vz6Ba2BzAxcUmn6V7ZtsJFEpump",
+      "name": "Poet Toads",
+      "symbol": "TOADS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176481/standard/jimwiqg4x1c3xcmhl796afzf9mgn.?1787890765=",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 260
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DNhQZ1CE9qZ2FNrVhsCXwQJ2vZG8ufZkcYakTS5Jpump",
+      "name": "zauthx402",
+      "symbol": "ZAUTH",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreib23vtffeavvpg4uelnkzyhafga66kd7i3lrjw2ork6abxyptnkg4",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 252
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DQnkBM4eYYMnVE8Qy2K3BB7uts1fh2EwBVktEz6jpump",
+      "name": "DOWGE",
+      "symbol": "DJI6930",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeic4lupxyxjdzqr5vdvq6j4f3toceacxw2tovubvyiqzevnzyr6uhu",
+      "extensions": {
+        "rank": 194
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM",
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/standcoin/stdc_assets/refs/heads/main/images/dusd.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 236
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ",
+      "name": "DUST Protocol",
+      "symbol": "DUST",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb5qNLPhR8fJaz5MN1W55iSCXdNgMMSdWn94Z9oiFjw3o"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DZvFAebHx4tGwchGmF2uSDhD21s88uNG1JPGKnrnoRhB",
+      "name": "WORLDS OLDEST ANIMAL",
+      "symbol": "JONATHAN",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmVBM8Fn5oyfpDtr9Qt1EDJMtEX2SuCEu57F3wDstG2n2r"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DeaKMzAeZja3Mh5okZE6WUvygLP3Lfuvm6Rg78HqXTz9",
+      "name": "Solnic",
+      "symbol": "SOLNIC",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/y0Hlgi1BbUfWCfJ2a407UrlViwN0Fa3cjLikgrVCpWI",
+      "extensions": {
+        "rank": 339
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "name": "Bonk",
+      "symbol": "Bonk",
+      "decimals": 5,
+      "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+      "extensions": {
+        "rank": 59
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmaFy59TMnLb4jGgL6LpquyXSxTRXKR4mEfSobUSsPoR46",
+      "extensions": {
+        "rank": 106
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+      "name": "Pippin",
+      "symbol": "pippin",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+      "extensions": {
+        "rank": 93
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+      "name": "Housecoin",
+      "symbol": "House",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/durc13eeg/image/upload/v1756713170/housecoin_logo_cy7q2d.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DmcqxT7WXgXhq2LHURQ2h8GA5PeCBuMTLeyaj6MXhf3p",
+      "name": "DeLorean",
+      "symbol": "DMC",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/Akm9_PuGGwf5MGFg2AkXw-rdYZ29Z2Luy7A7Z3SSQm8",
+      "extensions": {
+        "rank": 367
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+      "name": "Tether USD (Portal from Ethereum)",
+      "symbol": "USDTet",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dnb9dLSXxAarXVexehzeH8W8nFmLMNJSuGoaddZSwtog",
+      "name": "Cat Own Kimono",
+      "symbol": "COK",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/1792570983183781889/-jLe-2lo_400x400.jpg",
+      "extensions": {
+        "rank": 385
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "name": "Drift",
+      "symbol": "DRIFT",
+      "decimals": 6,
+      "logoURI": "https://metadata.drift.foundation/drift.png",
+      "extensions": {
+        "rank": 256
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+      "name": "Drift Staked SOL",
+      "symbol": "dSOL",
+      "decimals": 9,
+      "logoURI": "https://drift-public.s3.eu-central-1.amazonaws.com/dSOL.svg",
+      "extensions": {
+        "rank": 358
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+      "name": "aura",
+      "symbol": "aura",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmSBgFtpXnxLMeyU1Czs1PW5Zv7nFjy8ZXe5ZDhA8fyyPD",
+      "extensions": {
+        "rank": 126
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+      "name": "elizaOS",
+      "symbol": "elizaOS",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmdGdHmnxytA7GxWKXCxUMweuUCiaJSFYX9GMPJvAQLtDU/elizaOS.png",
+      "extensions": {
+        "rank": 198
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/OqHnpGf36DiprL5YIC4xJHG8zRsWFV2FsZcNTfVgAPg",
+      "extensions": {
+        "rank": 78
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dx2bQe2UPv4k3BmcW8G2KhaL5oKsxduM5XxLSV3Sbonk",
+      "name": "Hosico",
+      "symbol": "Hosico",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmYherhSQLsHQiguCzHM5Li4tG49hZ8eJYkmar8gvttP9W",
+      "extensions": {
+        "rank": 299
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "DxtssVdyYe4wWE5f5zEgx2NqtDFbVL3ABGY62WCycHWg",
+      "name": "Brett",
+      "symbol": "BRETT",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/Lc1vGYEY45eezP3nJcHDbUFOpn0jEQeTvoJ8akpRkXQ"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "name": "USELESS COIN",
+      "symbol": "USELESS",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreihsdoqkmpr5ryebaduoutyhj3nxco6wdp4s4743l2qrae4sz4hqrm",
+      "extensions": {
+        "rank": 21
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "E1kvzJNxShvvWTrudokpzuc789vRiDXfXG3duCuY6ooE",
+      "name": "Dither",
+      "symbol": "DITH",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/zciYhKJKvlB74GvxQFZylFRqhIrjm5DkGq98VZLf0KY",
+      "extensions": {
+        "rank": 311
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "E43qU77tnWDwN11o7TtaGMNpxCAqz8RZEZ7PcTCUXSim",
+      "name": "SmoLanO",
+      "symbol": "SLO",
+      "decimals": 9,
+      "logoURI": "https://img.fotofolio.xyz/?url=https%3A%2F%2Farweave.net%2F2SMzEgv4IqPaiTkKe09CLodbOWbiC2rmIKRzgkFsFNs"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "E5ZVeBMazQAYq4UEiSNRLxfMeRds9SKL31yPan7j5GJK",
+      "name": "Voodoo",
+      "symbol": "LDZ",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/5QGtUB5S2RKa2QyXYcEaXnoDEDN1VswZ5YZkgZ8Zf81S/FB062705-73CE-42C7-9C6F-4C7679DAF01A.jpeg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "E6UU5M1z4CvSAAF99d9wRoXsasWMEXsvHrz3JQRXtm2X",
+      "name": "Dogelana",
+      "symbol": "DGLN",
+      "decimals": 9,
+      "logoURI": "https://www.dogelana.com/images/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz",
+      "name": "CatSolHat",
+      "symbol": "SOLCAT",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/6dJWbbL.jpeg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EATGZHJViJsk7nEKkrdJicwNbfpkJfAtmrEmrjXR8NBj",
+      "name": "PopDog",
+      "symbol": "POPDOG",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/dsknxrxol/image/upload/v1760033457/IMG_2135_wjmrov.jpg",
+      "extensions": {
+        "rank": 404
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+      "extensions": {
+        "rank": 100
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump",
+      "name": "Justice for HeeHaw",
+      "symbol": "HeeHaw",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZHpuC7SAjx2Q3n8aLzMyWRoigSo8aWQ4ZJj31dhgNecZ",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 69
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "name": "dogwifhat",
+      "symbol": "$WIF",
+      "decimals": 6,
+      "logoURI": "https://bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 55
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EN2nnxrg8uUi6x2sJkzNPd2eT6rB9rdSoQNNaENA4RZA",
+      "name": "Pod the Squire",
+      "symbol": "SQUIRE",
+      "decimals": 6,
+      "logoURI": "https://dweb.link/ipfs/QmTPou8YT6Xs1UEk1MmtbxWHE5YKRwwxCzHg6LRYmS5mM6",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 177
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+      "name": "Basic Attention Token (Portal)",
+      "symbol": "BAT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz/logo.png",
+      "extensions": {
+        "rank": 312
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/6c4e5669d2a438653105399865445682e4a6cb51e19e1e61dc97578cd27bb9b2.webp",
+      "extensions": {
+        "rank": 2
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs",
+      "name": "Media Network",
+      "symbol": "MEDIA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EWgq2xUb6eVCApeQombkPxd6uFjM8j9zRUXFS9MjKTiv",
+      "name": "CTO",
+      "symbol": "CTO",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/16043154f712b59edba483e5d674ddec498a8c2e4ecd342f3a370bfc1a09590c.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 245
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az",
+      "name": "Walken",
+      "symbol": "WLKN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az/logo.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+      "name": "Bonfida",
+      "symbol": "FIDA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp/logo.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EfPoo4wWgxKVToit7yX5VtXXBrhao4G8L7vrbKy6pump",
+      "name": "Dexter AI",
+      "symbol": "DEXTER",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreihc3q4fa42wwz56lqfzbw3tz4mrztjmr54scqes35hst3hhwph7pi",
+      "extensions": {
+        "rank": 316
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Eg2ymQ2aQqjMcibnmTt8erC6Tvk9PVpJZCxvVPJz2agu",
+      "name": "PUMPCADE",
+      "symbol": "PUMPCADE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreidzq3j3vg6grhoqx2ejfwk6tkordeickhbe5uqlcgfo3suj5d5iny",
+      "extensions": {
+        "rank": 115
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Eh1fXbAipe4k7CYR9UMb2bbWmBcpU3HcyX3LWuRVFBLz",
+      "name": "Flowmatic",
+      "symbol": "FM",
+      "decimals": 4,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeighw6z7wdbk73tezruawliwt622xic6r43wmzgpk22rsnmqvjvkrm/Brando_logo_of_F_on_a_black_background_in_the_style_of_light_te_42b8cbea-cc40-4c9f-a098-62c381d624df.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EhzVcKKmGjLk6pD5gLT6ZrTg62bMgPgTSCXXmANnSyQA",
+      "name": "SANTA",
+      "symbol": "SANTA",
+      "decimals": 9,
+      "logoURI": "https://plum-defeated-quokka-675.mypinata.cloud/ipfs/QmS1fmHFw7uRXFpGpoQpx8RimUDJcgDFE3g8VGR6o3z77K",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 290
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EjmDTt8G3T725eFSV7oWmGD8J848guo3LZ1EB3RfwGSw",
+      "name": "harold",
+      "symbol": "harold",
+      "decimals": 9,
+      "logoURI": "https://bafkreihx4kdgg6floepe6xbb23n2ksjsqeuwtg2fajg2enorvxyu735wku.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EjzzyCSiLqjFDprpZj8e1zjXmcTG5HPGFRSEoWcJWHh9",
+      "name": "INBRED CAT",
+      "symbol": "INBRED",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/iVf74QkkM6G7JfKjwkl37xbFEq0FCU4o5PLGH3--i2o"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump",
+      "name": "SLOPCORE",
+      "symbol": "SLOPCORE",
+      "decimals": 6,
+      "logoURI": "https://edge.uxento.io/image/62rpE4EhLDYmersUHarKo8KugAcSKdjLKVf4UyRCFWq9",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 129
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EkHr62PC6Y1axrLS7cR8YC4BZeW19mtHxQLCLMrf9vnq",
+      "name": "You Looked",
+      "symbol": "CIRCLE",
+      "decimals": 3,
+      "logoURI": "https://gateway.irys.xyz/gcHO4HXSSGvzSMKMnXmMmkK5Brmy4iUOmW6Wjz0Wr_E"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EmcxFTNVDqyLHp11NvwvLZ4D7LKGbG9i7B8RF7dwpump",
+      "name": "c0mpute",
+      "symbol": "ZERO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeicwofjcasp6knvu6fywdc7gg4mnplm5w2gqeugybmf5gk26ku7mji",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 254
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EpXtn6xGoZ4Y45vRjiDUHSCGbBoJD5FaEqZbF98YswH1",
+      "name": "SelfMade by SP3ND",
+      "symbol": "MADE",
+      "decimals": 6,
+      "logoURI": "https://images.pump.fun/coin-image/EpXtn6xGoZ4Y45vRjiDUHSCGbBoJD5FaEqZbF98YswH1?variant=600x600&ipfs=bafkreih5e67m3pdjngcphcrurlz53aeuej45fcaqn6vyhifsuwxz2d3j3u&src=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafkreih5e67m3pdjngcphcrurlz53aeuej45fcaqn6vyhifsuwxz2d3j3u",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 108
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/36574a5ee2cd469e059d070180985e59fbd57c82a54ea95763fab39973174100.webp",
+      "extensions": {
+        "rank": 3
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "EswgBj2hZKdgovX2ihWSUDnuBg9VNbGmSGoH5yjNsPRa",
+      "name": "Physis",
+      "symbol": "PHY",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@main/phy/orb-ti-trans-256.png",
+      "extensions": {
+        "rank": 376
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "F2k82EcxLtzekq1bfoGVdgp6EXZ5dLT1jE7g3LvQpump",
+      "name": "PETRO PENGUINS",
+      "symbol": "PENGO",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreihqkjxfkyl7kkg4w63u5k7vh4yspbb7kfhj47tdrdawekbp6blgwa",
+      "extensions": {
+        "rank": 297
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "F3nefJBcejYbtdREjui1T9DPh5dBgpkKq7u2GAAMXs5B",
+      "name": "ALL ART",
+      "symbol": "AART",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/22012/thumb/all-art.PNG?1696521359",
+      "extensions": {
+        "rank": 400
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "F47vvwFYuLioQsqEVAjqdY6Yihc8wVRiUcfHGcBR9XUs",
+      "name": "el gato",
+      "symbol": "ELGATO",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/xyIdQP0U06GdDqfHtopnLEUyC-rCY7d3PddvN62sDQw"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "F6qoefQq4iCBLoNZ34RjEqHjHkD8vtmoRSdw9Nd55J1k",
+      "name": "shibwifhat",
+      "symbol": "SHIB",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/6CMeW5c.jpg",
+      "extensions": {
+        "rank": 337
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+      "name": "LUNA (Portal)",
+      "symbol": "LUNA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FLUXBmPhT3Fd1EDVFdg46YREqHBeNypn1h4EbnTzWERX",
+      "name": "FluxBot",
+      "symbol": "FLUXB",
+      "decimals": 5,
+      "logoURI": "https://bafybeiakyhwwesdvxpikjn4kyqddira3hjpjfcn26ycrrezt65bfa7r3gm.ipfs.nftstorage.link",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX",
+      "name": "NATIX Network",
+      "symbol": "NATIX",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/W_syfUW9S-nKlssn1CMgZ4_r3tLsIsa2FRSeGxCSu9E",
+      "extensions": {
+        "rank": 222
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FS66v5XYtJAFo14LiPz5HT93EUMAHmYipCfQhLpU4ss8",
+      "name": "Smog",
+      "symbol": "SMOG",
+      "decimals": 6,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXXiyBNz4PWiP73JicWvQBPvsKJG2uwsvF5obyNvUvL9h"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv",
+      "name": "doland tremp",
+      "symbol": "tremp",
+      "decimals": 9,
+      "logoURI": "https://bafkreia5oynseyky72us6y7uzbas2uxoosujxvbnnuvscozetprbdinmey.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 396
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+      "name": "Melania Meme",
+      "symbol": "MELANIA",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiduq5c43xdbcbhzx3plcdtz2jwkjpzlm2hwkoxhjgmnmqbl6otyfu",
+      "extensions": {
+        "rank": 162
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FV56CmR7fhEyPkymKfmviKV48uPo51ti9kAxssQqTDLu",
+      "name": "walter",
+      "symbol": "WALTER",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmaoBQEGY7A8C9otkK3rt7tLRo2MtYTm7yBxTcgR7m8HFz",
+      "extensions": {
+        "rank": 366
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FViMp5phQH2bX81S7Yyn1yXjj3BRddFBNcMCbTH8FCze",
+      "name": "Toad",
+      "symbol": "$TOAD",
+      "decimals": 4,
+      "logoURI": "https://gateway.irys.xyz/8EbQG_YdWY3Cs8_qilR0PpawQp4OEiozQ6miwzMvuYI",
+      "extensions": {
+        "rank": 365
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FYa25XnBsXQXAdTnsyKBKd5gZ1VZhChBRF57CqfRxJZX",
+      "name": "monkeyhaircut",
+      "symbol": "monk",
+      "decimals": 6,
+      "logoURI": "https://bafybeifx7lchopsihh6qhw5nvq4tjbwl4wf2wy745mugvhdq5krk2bwsmi.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FZnSMd1hPu5MVgttmtfDZUPN5gcuexvrh3CB67UuQshb",
+      "name": "StareCat",
+      "symbol": "HELIA",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWJGdJLF9GwYCsJfP81SvnCbZaso8aqokA3ZEQRigieyq"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw",
+      "name": "LandWolf",
+      "symbol": "$WOLF",
+      "decimals": 8,
+      "logoURI": "https://gateway.irys.xyz/JSXuG95LDJy9ZBqeXaiFc8ksbny4zioTT_miK3SAc8E"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FaxYQ3LVXP51rDP2yWGLWVrFAAHeSdFF8SGZxwj2dvor",
+      "name": "swag coin",
+      "symbol": "SWAG",
+      "decimals": 2,
+      "logoURI": "https://i.degencdn.com/ipfs/bafybeiafqs7fdyxsg2dx2yhkvmwaqiieywskmjg22ttnequoth6gbue7vy"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+      "name": "HARAMBE",
+      "symbol": "HARAMBE",
+      "decimals": 9,
+      "logoURI": "https://bafkreiae6jhnm6fnankuwimzwwjumpdqnpk5jvlnwpxe2quprgvswzgipq.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 331
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FeKmTunVrXDKEoDJbuTwZi8vfFFw3MHzpPB79JD8ARYU",
+      "name": "777FuckIlluminatiWorldwide",
+      "symbol": "FIW",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/L6E7LMN7Trvj-Iv4EzvkDqL205JVxGOHoY67LUr8Ytg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
+      "name": "three.ws",
+      "symbol": "three",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeihe22b5sxr3ihnxt7pregfieyteqvubqhik3j3y4bbx243xlqjw3q",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 184
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win",
+      "name": "1win Token",
+      "symbol": "1WIN",
+      "decimals": 8,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/a7b683721a7f14074631c1ef9a2ba31dcee31975eb6e56f125bdb727c16a0d3a.webp",
+      "extensions": {
+        "rank": 90
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FoRGERiW7odcCBGU1bztZi16osPBHjxharvDathL5eds",
+      "name": "FORGE",
+      "symbol": "FORGE",
+      "decimals": 9,
+      "logoURI": "https://assets.blocksmithlabs.io/forge_200x200.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq",
+      "name": "Famous Fox Federation",
+      "symbol": "FOXY",
+      "decimals": 0,
+      "logoURI": "https://dens.famousfoxes.com/foxy.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FsA54yL49WKs7rWoGv9sUcbSGWCWV756jTD349e6H2yW",
+      "name": "KOALA AI",
+      "symbol": "KOKO",
+      "decimals": 6,
+      "logoURI": "https://bafkreiclwey3of4ceeskastusikjw73ybmtddrvsky5jxaspusaxjhtyuy.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "FvER7SsvY5GqAMawf7Qfb5MnUUmDdbPNPg4nCa4zHoLw",
+      "name": "The First Youtube Cat",
+      "symbol": "PAJAMAS",
+      "decimals": 9,
+      "logoURI": "https://bafkreia764fqo3jcdjod4vfd5q4vfavrx4dy5fbyyowvdvehqaspzdp2tq.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "G1jonmoSEbMJSwEg1AmgDAJq2utmuBSZct8oqttBf9rT",
+      "name": "GRAMS",
+      "symbol": "GRAMS",
+      "decimals": 6,
+      "logoURI": "https://gateway.irys.xyz/73m8K1NP9ot7oMKzERYPe7E58nhGCppRqAodtMsBJ11N",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 217
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "G7iK3prSzAA4vzcJWvsLUEsdCqzR7PnMzJV61vSdFSNW",
+      "name": "Ninja Squad Token (Wormhole)",
+      "symbol": "NST",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/22248/thumb/nst-logo-200x200.png?1711559985",
+      "extensions": {
+        "rank": 259
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+      "name": "Moonbirds",
+      "symbol": "BIRB",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/images/asset-icon/G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG.svg",
+      "extensions": {
+        "rank": 34
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG",
+      "name": "CROWN Token",
+      "symbol": "CROWN",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/AwJ6W2rRaYCGXimceFuLm5td14fhN1VFEfSYg566RxMD/image.png",
+      "extensions": {
+        "rank": 381
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+      "name": "daoSOL Token",
+      "symbol": "daoSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+      "name": "Act I : The AI Prophecy",
+      "symbol": "ACT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmUfrHNLqia7NmqgbzHYGF4rtX75nEwukPFFU1YscKKquL",
+      "extensions": {
+        "rank": 114
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GJgHsc1HU4ibmzW6oWQr8L2RRT95ATc1BoNuLkp94AwU",
+      "name": "White Boy Summer",
+      "symbol": "WBS",
+      "decimals": 9,
+      "logoURI": "https://bafkreidj6mokshjwyykli4zxn74ah4o6udof5hyrqehopcn2z6vjdq6puu.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GKboyzRdB93iEpfr6Gjs8A2wXe7Tp4kVD5WwkNfepump",
+      "name": "Tangibles",
+      "symbol": "TANG",
+      "decimals": 6,
+      "logoURI": "https://tangibles.fun/apple-touch-icon.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 328
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk",
+      "name": "1 coin can change your life",
+      "symbol": "1",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreieuq6tf4rlyrwsn6t5kls47upegkmyhdobgoiq7i7u3yemws2znpm",
+      "extensions": {
+        "rank": 271
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GNE6oDS6jHrfaV3GQVVCCp37fDnT7PiPuewMKBj2bqNm",
+      "name": "Hastra AUTO",
+      "symbol": "AUTO",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hastra-cdn-prod/spl/autotoken.png",
+      "extensions": {
+        "rank": 102
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GRFKaABC518SqXMvBpAVYUZtVT3Nj4mYk7E7xU4gA5Rg",
+      "name": "Silly Goose",
+      "symbol": "GOO",
+      "decimals": 9,
+      "logoURI": "https://bafkreiaorhiyiwevs2h6qnm4vdku64r6yjc7avbzwmdszgxcikcynjaknu.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GSp4qePZUHBtt5f4gE6AsRC9JUUqeZEJLeN2JZxLpump",
+      "name": "Veilbound",
+      "symbol": "VEIL",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/profile_images/2066897030392283137/UIBtkrFC_400x400.jpg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 274
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+      "name": "Jean Phil",
+      "symbol": "JEANPHIL",
+      "decimals": 6,
+      "logoURI": "https://images.pump.fun/coin-image/GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 44
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GTH3wG3NErjwcf7VGCoXEXkgXSHvYhx5gtATeeM5JAS1",
+      "name": "Whales Market",
+      "symbol": "WHALES",
+      "decimals": 6,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreic6gboxk4nlhhzzuoqakj55s23y37qzwb7yzykczfxbwj7kafy75i"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GbbesPbaYh5uiAZSYNXTc7w9jty1rpg3P9L4JeN4LkKc",
+      "name": "TRON",
+      "symbol": "TRX",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/aO9owy2SUH92KGJ2CH3BFowep6XFAoYjjpRyDKObkww",
+      "extensions": {
+        "rank": 56
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GdbyLsNKHKLXTZVEo8QrGKVmrexEeZUYvhpSfuZ9TdkC",
+      "name": "ROD.AI",
+      "symbol": "RODAI",
+      "decimals": 5,
+      "logoURI": "https://www.rodai.meme/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "name": "Jimothy The Raccoon",
+      "symbol": "Jimothy",
+      "decimals": 6,
+      "logoURI": "https://axiomtrading-v2.axiom-cdn.io/A3NqdmPtu9Qa6nRqcZWJ969ePUWNA1Fb4SgmQ7Ldpump.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 77
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "decimals": 6,
+      "logoURI": "https://sumo-ipfs.quicknode-ipfs.com/ipfs/QmSVA5pv2ga8Sdhx1mEXP9tkak5rVdDK5VwifgJS9Jzn57",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 164
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
+      "name": "Ginnan Doge's Sister",
+      "symbol": "GINNAN",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/7cny9RwsBTSiwEQnhhN0jO9wVMrMfCLv-qvEDv-tsIg",
+      "extensions": {
+        "rank": 267
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Gk2kRrwNMBU4Dn9JhC1Dks8G5X9nqi4ZE5jMvK6bdgEd",
+      "name": "PepeTrump",
+      "symbol": "$PTRUMP",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdoaYNbk1LpCZZYFPDEDPh3uUQA5uLg4n9qAtUcxz6ZpA"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
+      "name": "Chill House",
+      "symbol": "CHILLHOUSE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmU5D2LBjkriYD4wqL5cEVwv1x1xqj2LCQAPKC79cVGd34",
+      "extensions": {
+        "rank": 174
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GodL6KZ9uuUoQwELggtVzQkKmU1LfqmDokPibPeDKkhF",
+      "name": "GODL",
+      "symbol": "GODL",
+      "decimals": 11,
+      "logoURI": "https://www.godl.supply/icons/godl.png",
+      "extensions": {
+        "rank": 248
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GpmmQBjXxoppbELykD2PGQ4wwVR74o5sSZXVW6hVpump",
+      "name": "Eyed Exchange",
+      "symbol": "EYED",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifbuiobjti6lynsgssocoixysgbvvgd36jojl6mfwmu3th2socxqe",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 329
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "decimals": 9,
+      "logoURI": "https://static.grassfoundation.io/grass-logo.png",
+      "extensions": {
+        "rank": 47
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GvV7sFu6FHJsSVXfpG7xqFnWar3c7YkcC74rqe7Bpump",
+      "name": "Rage Guy",
+      "symbol": "RAGEGUY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYeMVuxjfrHZUeVJQ1tasRHCdrG1nVLMGvziHsrzRSCMq",
+      "extensions": {
+        "rank": 242
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "GvcNXdSehfNSNyhDVDj27kc459LzFqWozt9CSJywMy6r",
+      "name": "Crodie",
+      "symbol": "CRODIE",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/s1WSRMI9z06trgN6PLpggkUvfP69vrLPJvE--6eBJJM"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
+      "name": "Myra",
+      "symbol": "MYRA",
+      "decimals": 9,
+      "logoURI": "https://bafkreieakw6eo745t2l46h2lii3n4sych5jl4v4ldumngslnjph53r6m5y.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump",
+      "name": "Shoggoth",
+      "symbol": "Shoggoth",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWYkyCNMPfDqsBUQXDmYSon4fam8WUtLeiajmbDHnx6zk",
+      "extensions": {
+        "rank": 308
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
+      "name": "MXM",
+      "symbol": "MXM",
+      "decimals": 6,
+      "logoURI": "https://assets.mixmob.io/images/MXM_Token.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H74CYmXgMkYHYuSRsZt6RJb4NYp2u72Vw8BS5huApump",
+      "name": "LMAO!",
+      "symbol": "LMAO!",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreic2k6vq5rorto4kll3gtpux6yfllmioipbrt3uebwaovghmjajr5m",
+      "extensions": {
+        "rank": 92
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+      "name": "GUMMY",
+      "symbol": "GUMMY",
+      "decimals": 9,
+      "logoURI": "https://bafkreih3pz2wklsnoae5zuyfvascdm3phyffimvyxbsi34rjnqzkjldopu.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+      "name": "The Spirit of Gambling",
+      "symbol": "Tokabu",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicrdi3icewusvj5ff53uwnlzng53dmkk3llrmdbn35eb2ozamnhpq",
+      "extensions": {
+        "rank": 202
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
+      "name": "Purple Pepe",
+      "symbol": "PURPE",
+      "decimals": 1,
+      "logoURI": "https://arweave.net/WEugkglBC5LeA8TAuvOv8x2_7wSGDUN2I81_nYp2B-A",
+      "extensions": {
+        "rank": 266
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW",
+      "name": "StarLaunch",
+      "symbol": "STARS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HHjoYwUp5aU6pnrvN4s2pwEErwXNZKhxKGYjRJMoBjLw",
+      "name": "PIP",
+      "symbol": "PIP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHjoYwUp5aU6pnrvN4s2pwEErwXNZKhxKGYjRJMoBjLw/logo.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HJ39rRZ6ys22KdB3USxDgNsL7RKiQmsC3yL8AS3Suuku",
+      "name": "What’s Updog?",
+      "symbol": "UPDOG",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/utcdLmTdNHmyD02oMfQn9Yc5L4UbwrtCtka3gpQQas4"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HKJHsYJHMVK5VRyHHk5GhvzY9tBAAtPvDkZfDH6RLDTd",
+      "name": "READY!",
+      "symbol": "READY",
+      "decimals": 9,
+      "logoURI": "https://cdn.bravoready.com/token/READY!-coin-logo-256x256.png",
+      "extensions": {
+        "rank": 178
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HLnTNCG5RD7jYVduFc1pMCHiuApoWGn9LveqEFanQFZb",
+      "name": "TREN",
+      "symbol": "TREN",
+      "decimals": 9,
+      "logoURI": "https://bafkreifiuo2ciqowl57a7hkzs2cjq5zikwczbhh3wr4h2ub3xyhsjtnb6u.ipfs.nftstorage.link/"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9",
+      "name": "Duko",
+      "symbol": "DUKO",
+      "decimals": 6,
+      "logoURI": "https://bafkreicncfoowhhwrvtkajpivg6lbi5qsktrsfhs3x264k4kgdil5hv26q.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 372
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+      "name": "Alchemist AI",
+      "symbol": "ALCH",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYqwkPV1p4DraqN5TfLZVhyrAusSkHfvFDZMJAWALZJxj",
+      "extensions": {
+        "rank": 94
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HQ7DaoiUxzC2K1Dr7KXRHccNtXvEYgNvoUextXe8dmBh",
+      "name": "Slothana",
+      "symbol": "SLOTH",
+      "decimals": 6,
+      "logoURI": "https://aqua-junior-shark-690.mypinata.cloud/ipfs/QmaS7F1Bvu4LkbV66gowPUYtho2HuvsNYM9M721HAcU21g",
+      "extensions": {
+        "rank": 341
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HRw8mqK8N3ASKFKJGMJpy4FodwR3GKvCFKPDQNqUNuEP",
+      "name": "TrumpCoin",
+      "symbol": "DJT",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/htS9z8BK/image.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
+      "name": "Hubra staked SOL",
+      "symbol": "raSOL",
+      "decimals": 9,
+      "logoURI": "https://rofhoha4x5vjghkxetrvnog7pxe2xjnslpc3q52hkr6pxmsluz6a.arweave.net/i4p3HBy_apMdVyTjVrjffcmrpbJbxbh3R1R8-7JLpnw"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "decimals": 6,
+      "logoURI": "https://meta.huma.finance/huma.svg",
+      "extensions": {
+        "rank": 150
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
+      "name": "Pax Dollar",
+      "symbol": "USDP",
+      "decimals": 6,
+      "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/USDPLOGO.png",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HXkbUADfocGyz2WrzJpjEfry8qyNDm5Kwiiq3Mz3tTi1",
+      "name": "Retire on Sol",
+      "symbol": "$RETIRE",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/k1zkuJa.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "decimals": 6,
+      "logoURI": "https://pyth.network/token.svg",
+      "extensions": {
+        "rank": 45
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
+      "name": "MAGA (Wormhole)",
+      "symbol": "TRUMP",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/37326/thumb/MAGA-Memecoin-Logo-200px.png?1722795342"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
+      "name": "TARS AI",
+      "symbol": "TAI",
+      "decimals": 9,
+      "logoURI": "https://coffee-important-lizard-419.mypinata.cloud/ipfs/Qmf19J2Teszt5ZgqrzQFuWk64xvQzfZFfEEn8ntzpbz36W",
+      "extensions": {
+        "rank": 233
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump",
+      "name": "Frank Ashford",
+      "symbol": "Frank",
+      "decimals": 6,
+      "logoURI": "https://pbs.twimg.com/media/HT5pWWfXEAEb0hH?format=jpg&name=large",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 116
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "decimals": 9,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/f05a850f20be1ca05b5db5367bc7cb1d0f9d974037174f1e350917ecb5c05766.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 50
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+      "name": "ai16z",
+      "symbol": "ai16z",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 309
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HeeBovJNKd27tQ6xkeP1dfSyTr8LyLwhJz9wfFTbPLEX",
+      "name": "HEEBOO",
+      "symbol": "HEEBOO",
+      "decimals": 6,
+      "logoURI": "https://www.heeboo.com/logo.png",
+      "extensions": {
+        "rank": 231
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HfMbPyDdZH6QMaDDUokjYCkHxzjoGBMpgaUvpLWGbF5p",
+      "name": "Purple Bitcoin",
+      "symbol": "PBTC",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/sSkCiLfqIwenQhAwaM-Yjfct9U1AkQpzALh4zk4oaZ8",
+      "extensions": {
+        "rank": 264
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
+      "name": "Cryowar Token",
+      "symbol": "CWAR",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/20227/thumb/CWAR_round_200_200.png?1696519636"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+      "name": "Bertram The Pomeranian",
+      "symbol": "Bert",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeihinfs2izlk7o2b7ncmrn6o5xuy3qlylmhzkvgtrrwe7orol335z4",
+      "extensions": {
+        "rank": 158
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump",
+      "name": "Veil",
+      "symbol": "VEIL",
+      "decimals": 6,
+      "logoURI": "https://i.ibb.co/Q3SbvD5n/Veil-Logo-Lilac-1024.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 80
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HgcxVs6kJhPAaGqnPNGaa7zYgNT49hJrLufiqcNMuYZT",
+      "name": "Feels Good Man",
+      "symbol": "FEELSGOOD",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/ad9a45cf3d80173862517e7befcbd58c0267689110f373211cfb5d0a622f70c0.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 136
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump",
+      "name": "HODL",
+      "symbol": "HODL",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmWZy1zRNaV3B6Vg637yVZ5Hm7aWq2CERhi4wqxczPmP6w",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 209
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
+      "name": "Kamala Horris",
+      "symbol": "KAMA",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/QmdJNxUnG6CoavHwCeVHLgCyzLnunL2ChVKr6GqkZoRhbT",
+      "extensions": {
+        "rank": 368
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HqLRjru6pD6GFGnQ7TwSSGQRuPhF8UZNey9T4yCsZzuq",
+      "name": "SIZE",
+      "symbol": "SIZE",
+      "decimals": 6,
+      "logoURI": "https://bafybeidjk54m3p4mvfrvvgsyx6uszovxszwlvucupxfjbso3t3u2kfalja.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HrLx8MLKegpbmbmWePZiuvf3AbJNx1CJyjBwUHwicEgW",
+      "name": "Nyxia Coin",
+      "symbol": "NYXC",
+      "decimals": 7,
+      "logoURI": "https://arweave.net/8R0NLx5h7o-ZT6ZlHkxdJd6gakjJ7CxVx-11dObFFg0"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz",
+      "name": "STRK",
+      "symbol": "STRK",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/3VN1M6rIFYFKvOhOcEd8esMOmjwTbThaXzzstpdiOgI",
+      "extensions": {
+        "rank": 57
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk",
+      "name": "Kori The Pom",
+      "symbol": "KORI",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeiavavhxgnownmgwtkuqc6t5gufrob55lvckjb5put3ftrf4cxvdae",
+      "extensions": {
+        "rank": 247
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HuAXPyDWDaMYFKuwQHpqL1oPnj93zdzWmtvFGzCeCUa7",
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/d6275b86966fab28087b95ddd522d17809fb4f505ed29bd01b0e59c289c0b955.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 54
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+      "name": "Hxro (Portal)",
+      "symbol": "HXRO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "https://www.circle.com/eurc-icon",
+      "extensions": {
+        "rank": 40
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "name": "Jito Staked SOL",
+      "symbol": "JitoSOL",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+      "extensions": {
+        "rank": 22
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J2LWsSXx4r3pYbJ1fwuX5Nqo7PPxjcGPpUb2zHNadWKa",
+      "name": "DePlan",
+      "symbol": "DPLN",
+      "decimals": 6,
+      "logoURI": "https://jprwutcw237zskmqfiyq72df2gx3o4r3imjdd2dx4ygfvyt524ua.arweave.net/S-NqTFbW_5kpkCoxD-hl0a-3cjtDEjHod-YMWuJ91yg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+      "name": "SPX6900 (Wormhole)",
+      "symbol": "SPX",
+      "decimals": 8,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/e4ee7d1a003285378a2fd01cb53c3fed5c4456abfac42865d38e1b5464cd05e4.webp",
+      "extensions": {
+        "rank": 48
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J4ywFdm8H7hjwKzCaEQujhkDRfCnRviVnHMvFNDAoLNQ",
+      "name": "Soul Scanner",
+      "symbol": "SOUL",
+      "decimals": 6,
+      "logoURI": "https://bafkreifwlzwmmrnt2pjp2w4frbdzkbv7ml224ukuv3uiuhahgqinqtluii.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
+      "name": "DoubleZero",
+      "symbol": "2Z",
+      "decimals": 8,
+      "logoURI": "https://i.ibb.co/CpkQG6C1/img.jpg",
+      "extensions": {
+        "rank": 95
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump",
+      "name": "Tung Tung Tung Sahur",
+      "symbol": "TripleT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicawa6mpcpotae2va2b5ru43kssdaxoaiildlovfrhaxh7dd67t4e",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 82
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J8cKU4pD2NTSovvV5XghWHQiJy5TTEzgSyozorxz6ax8",
+      "name": "Solordi",
+      "symbol": "$SOLO",
+      "decimals": 9,
+      "logoURI": "https://bafkreigqmkl7y7vqt55imq7tejyft2ppnjzrrfqywjvjp3dgkdblkc6fjq.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",
+      "name": "International Stable Currency",
+      "symbol": "ISC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/theISCTeam/isc_meta/master/logo.png",
+      "extensions": {
+        "rank": 343
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/12254fdd34fa9a0ad62075bd3872df61e28584f9519fe00c744b71b514d4c3d7.webp",
+      "extensions": {
+        "rank": 20
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD",
+      "name": "Jupiter USD",
+      "symbol": "JupUSD",
+      "decimals": 6,
+      "logoURI": "https://static.jup.ag/jupUSD/icon.png",
+      "extensions": {
+        "rank": 18
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "JxxWsvm9jHt4ah7DT9NuLyVLYZcZLUdPD93PcPQ71Ka",
+      "name": "mockJUP",
+      "symbol": "mockJUP",
+      "decimals": 9,
+      "logoURI": "https://i.pinimg.com/originals/cb/87/f6/cb87f6e8152961be45a5642ef72c391f.jpg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+      "name": "test griffain.com",
+      "symbol": "GRIFFAIN",
+      "decimals": 6,
+      "logoURI": "https://griffain.com/logo.png",
+      "extensions": {
+        "rank": 65
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "decimals": 6,
+      "logoURI": "https://cdn.kamino.finance/kamino.svg",
+      "extensions": {
+        "rank": 23
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp",
+      "name": "Lifinity",
+      "symbol": "LFNTY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp/logo.svg",
+      "extensions": {
+        "rank": 392
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+      "name": "Liquid Staking Token",
+      "symbol": "LST",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/static-marginfi/lst.png",
+      "extensions": {
+        "rank": 320
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "LinkhB3afbBKb2EQQu7s7umdZceV3wcvAUJhQAfQ23L",
+      "name": "Chainlink Token",
+      "symbol": "LINK",
+      "decimals": 9,
+      "logoURI": "https://d2f70xi62kby8n.cloudfront.net/LINK.svg",
+      "extensions": {
+        "rank": 203
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+      "name": "Lantern Staked SOL",
+      "symbol": "lanternSOL",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/juI8rxciTff6pljaDiXMEq5klSOngQol_8lvyokGGwY",
+      "extensions": {
+        "rank": 325
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/hhifTzaEDnPKnYNi4aAhkZTUkNLoK6d3nMiQPAjByn4",
+      "extensions": {
+        "rank": 171
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "METADDFL6wWMWEoKTFJwcThTbUmtarRJZjRpzUvkxhr",
+      "name": "META",
+      "symbol": "META",
+      "decimals": 9,
+      "logoURI": "https://6hgaiayuroxlfrn3djpb7mx4ocwielgo2ovpj4ka4v47jsxj2p2a.arweave.net/8cwEAxSLrrLFuxpeH7L8cKyCLM7TqvTxQOV59Mrp0_Q?ext=png",
+      "extensions": {
+        "rank": 369
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+      "name": "Metaplex Token",
+      "symbol": "MPLX",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/aa247fe581e28f54e285d4a37fb4f6ebba675a60067e43083d63d88bbcf149f0.webp",
+      "extensions": {
+        "rank": 41
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+      "name": "MetaDAO",
+      "symbol": "META",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/metaDAOproject/futarchy/refs/heads/develop/scripts/assets/META/META.png",
+      "extensions": {
+        "rank": 130
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+      "name": "Meteora",
+      "symbol": "MET",
+      "decimals": 6,
+      "logoURI": "https://assets.meteora.ag/met-token.svg",
+      "extensions": {
+        "rank": 24
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+      "name": "cat in a dogs world",
+      "symbol": "MEW",
+      "decimals": 5,
+      "logoURI": "https://bafkreidlwyr565dxtao2ipsze6bmzpszqzybz7sqi2zaet5fs7k53henju.ipfs.nftstorage.link/",
+      "extensions": {
+        "rank": 62
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+      "name": "Marinade",
+      "symbol": "MNDE",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/dfsfiedf9/image/upload/v1755612757/c1_enn0xo.png",
+      "extensions": {
+        "rank": 273
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+      "name": "Mango",
+      "symbol": "MNGO",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/token.png",
+      "extensions": {
+        "rank": 354
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump",
+      "name": "OTC",
+      "symbol": "OTC",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/0f81f09e4708db4c58cdbd69202bf6a6a36f2615b6826600b3ff82f71e6be206.webp",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 53
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+      "name": "Blockasset",
+      "symbol": "BLOCK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk/logo.png",
+      "extensions": {
+        "rank": 401
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump",
+      "name": "パンチ",
+      "symbol": "Punch",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/2bdeaaa04102010231a5f1fa1bad71bc4c3df0484cf6034cc10f59b629ffc55f.webp",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+      "name": "Neon EVM",
+      "symbol": "NEON",
+      "decimals": 9,
+      "logoURI": "https://neonevm.org/neon_token/neon_token.png",
+      "extensions": {
+        "rank": 103
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "PAYmo6moDF3Ro3X6bU2jwe2UdBnBhv8YjLgL1j4DxGu",
+      "name": "PayAI",
+      "symbol": "PAYAI",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafkreigzy6bogqrsipcde76i6piyri2esm6ci2dfxa6ttuxxysqczgal5u",
+      "extensions": {
+        "rank": 176
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "PEAQjk7SRS6rXHVFFmpRr7zrC4g5ZuEebpwTxvaLr3b",
+      "name": "peaq",
+      "symbol": "PEAQ",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/GRDbV2NikfCG0oCaG9nZ-uSs_MbCCCVTQQGF6L6wdLA",
+      "extensions": {
+        "rank": 122
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
+      "name": "PRISM",
+      "symbol": "PRISM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/logo.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta",
+      "name": "Umbra",
+      "symbol": "UMBRA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/metaDAOproject/futarchy/refs/heads/develop/scripts/assets/UMBRA/UMBRA.png",
+      "extensions": {
+        "rank": 302
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "PerPsCe2SJ7Q25CN4R5TTX4fmBdmknE2hQmqCt96fHL",
+      "name": "perpspad",
+      "symbol": "PERPSPAD",
+      "decimals": 6,
+      "logoURI": "https://fgtzvbsabiokypvnbmfi.supabase.co/storage/v1/object/public/token-images/ed9273cb-74f1-4826-9906-1872491b01a2.jpg",
+      "extensions": {
+        "rank": 142
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "QUESTP8xKMfot3ErcdfWXsHbG3kN9mutieAqrVNw74s",
+      "name": "Critters Quest",
+      "symbol": "QUEST",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/870Gvy_Cx_edX9O0_0bRKlgBSjKJdt48m81EPtIQWok",
+      "extensions": {
+        "rank": 315
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SATqS9DYpLQsM2z51P4QCoqJRHa5wboV4qjJerJRUSH",
+      "name": "Sat Rush",
+      "symbol": "RUSH",
+      "decimals": 9,
+      "logoURI": "https://static.satrush.io/rush.png",
+      "extensions": {
+        "rank": 105
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SCSuPPNUSypLBsV4darsrYNg4ANPgaGhKhsA3GmMyjz",
+      "name": "Solcasino Token",
+      "symbol": "SCS",
+      "decimals": 5,
+      "logoURI": "https://files.solcasino.io/logo.png",
+      "extensions": {
+        "rank": 327
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+      "name": "Send",
+      "symbol": "SEND",
+      "decimals": 6,
+      "logoURI": "https://tgnrqry5tpxb5imfstlqu2mdqpm3zwmmaxrrakjxuinvpwhkanca.arweave.net/mZsYRx2b7h6hhZTXCmmDg9m82YwF4xApN6IbV9jqA0Q"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SHARKSYJjqaNyxVfrpnBN9pjgkhwDhatnMyicWPnr1s",
+      "name": "Sharky",
+      "symbol": "SHARK",
+      "decimals": 6,
+      "logoURI": "https://shdw-drive.genesysgo.net/2F9tju1WHwocrTHj2iRoLhhVqbgQJusdUgkYNL84wKf4/$SHARK_logo_round.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+      "name": "Shadow Token",
+      "symbol": "SHDW",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/FDcC9gn12fFkSU2KuQYH4TUjihrZxiTodFRWNF4ns9Kt/250x250_with_padding.png",
+      "extensions": {
+        "rank": 344
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
+      "name": "Seeker",
+      "symbol": "SKR",
+      "decimals": 6,
+      "logoURI": "https://r2.solanamobiledappstore.com/skr/seeker.png",
+      "extensions": {
+        "rank": 83
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
+      "name": "Solend",
+      "symbol": "SLND",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+      "name": "Solstice",
+      "symbol": "SLX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Solstice-Labs-Official/slx-metadata/refs/heads/main/slx.png",
+      "extensions": {
+        "rank": 243
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SNS8DJbHc34nKySHVhLGMUUE72ho6igvJaxtq9T3cX3",
+      "name": "Solana Name Service",
+      "symbol": "SNS",
+      "decimals": 5,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/559625409c66d581390c161f2bcbae882c8881f576750da31be3d12bc26289d0.webp",
+      "extensions": {
+        "rank": 370
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "name": "Serum",
+      "symbol": "SRM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
+      "extensions": {
+        "rank": 349
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
+      "name": "Streamflow",
+      "symbol": "STREAM",
+      "decimals": 6,
+      "logoURI": "https://static.streamflow.finance/stream/logo.png",
+      "extensions": {
+        "rank": 319
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
+      "name": "Saros",
+      "symbol": "SAROS",
+      "decimals": 6,
+      "logoURI": "https://rapid.coin98.com/Currency/saros.png",
+      "extensions": {
+        "rank": 250
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "So11111111111111111111111111111111111111112",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "WSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "rank": 1
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SoLo9oxzLDpcq1dpqAgMwgce5WqkRDtNXK7EPnbmeta",
+      "name": "Solomon",
+      "symbol": "SOLO",
+      "decimals": 6,
+      "logoURI": "https://solomonlabs.org/assets/solo.png",
+      "extensions": {
+        "rank": 318
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+      "name": "SONIC",
+      "symbol": "SONIC",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/599UDQd5YAUfesAJCTNZ-4ELWLHX5pbid-ahpoJ-w1A",
+      "extensions": {
+        "rank": 345
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+      "name": "Step",
+      "symbol": "STEP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+      "name": "Tensor",
+      "symbol": "TNSR",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/beGAyeIzjV_UkyjFtxbkZyi_YqfOBWayiQ0B6wqWygY",
+      "extensions": {
+        "rank": 270
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "TUNAfXDZEdQizTMTh3uEvNvYqJmqFHZbEJt8joP4cyx",
+      "name": "DefiTuna",
+      "symbol": "TUNA",
+      "decimals": 6,
+      "logoURI": "https://metadata.defituna.com/tuna.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "TVvnJTedD3WgAPede2xUmRjweJqNdhCEgyjtKv3rCq4",
+      "name": "The Sheeple Flock",
+      "symbol": "SHEEPLE",
+      "decimals": 6,
+      "logoURI": "https://www.thesheepleflock.com/token/logo.jpg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 291
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "Tqj8yFmagrg7oorpQkVGYR52r96RFTamvWfth9bpump",
+      "name": "Kintara",
+      "symbol": "KINS",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafybeicincod6gebb2wkef7mtlibmz6scduj25lxjlk75qv3o4mpxwdfau",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 189
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ULwSJmmpxmnRfpu6BjnK6rprKXqD5jXUmPpS1FxHXFy",
+      "name": "Hege",
+      "symbol": "HEGE",
+      "decimals": 9,
+      "logoURI": "https://bafybeichi75y3vdwt2hml4ccypddx5tou4yfhpy42z3k4lhj64vj2hinoa.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 338
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "UPTx1d24aBWuRgwxVnFmX4gNraj3QGFzL3QqBgxtWQG",
+      "name": "UPROCK",
+      "symbol": "UPT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/uprockcom/token/main/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+      "name": "World Liberty Financial USD",
+      "symbol": "USD1",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/worldliberty/usd1-metadata/refs/heads/main/logo.png",
+      "extensions": {
+        "rank": 19
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "name": "USDH Hubble Stablecoin",
+      "symbol": "USDH",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "name": "USDS",
+      "symbol": "USDS",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+      "extensions": {
+        "rank": 75
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "USDvUSpnhCr9yBgj3UyVrD239HRUv4RsHwH2FxsWuMk",
+      "name": "Solomon USDv",
+      "symbol": "USDv",
+      "decimals": 6,
+      "logoURI": "https://soletechltd.org/assets/usdv.png",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 195
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "VNo7EjR3XVzvbjUgQrFAXNwSms34fHwHBt1Xoaopump",
+      "name": "chudhouse",
+      "symbol": "chudhouse",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreid7xd6nfxa33iucjikn4aj5oeh2swhx53tkhz3uutmn4h5yxihae4",
+      "extensions": {
+        "isToken2022": true
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "VP9UaBXLM4KYRvyjisu65rz8BU5xNAbewU7LVmyU2x4",
+      "name": "Vibing Cat",
+      "symbol": "VCAT",
+      "decimals": 9,
+      "logoURI": "https://bafybeial7nesuvpbffl6mvptgf33abr762iojb634ig3p6o6cdo2mlwe6a.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "name": "Wen",
+      "symbol": "WEN",
+      "decimals": 5,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/solana/WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk.png?size=lg&key=ad6a9a",
+      "extensions": {
+        "rank": 225
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/worldliberty/usd1-metadata/refs/heads/main/wlfi-logo.png",
+      "extensions": {
+        "rank": 218
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
+      "name": "Wingbits",
+      "symbol": "WINGS",
+      "decimals": 6,
+      "logoURI": "https://prod-token-metadata.s3.eu-west-1.amazonaws.com/icon2.svg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 281
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "XSTuo1fV7HHMhs4BYiwtrWSLsMCJNrooH2AssWTYZqP",
+      "name": "XST",
+      "symbol": "XST",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmfNKc99pKqPzb8vBJ5sbuRx4VA7pH3YbdakiUm6NkTzj7",
+      "extensions": {
+        "rank": 157
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "XkeTXo1125vz5H9svJpGiw4JvLbN8VmMu9cmMvspump",
+      "name": "Dragon's Egg",
+      "symbol": "DREGG",
+      "decimals": 6,
+      "logoURI": "https://github.com/emberian/dregg/blob/main/glowing-pfp.png?raw=true",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 175
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "decimals": 6,
+      "logoURI": "https://blznujiyxatc2qyysynmwqqqoreckcg2aolugfgoflsqqaiztuiq.arweave.net/CvLaJRi4Ji1DGJYay0IQdEglCNoDl0MUzirlCAEZnRE",
+      "extensions": {
+        "rank": 89
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+      "name": "ZEUS",
+      "symbol": "ZEUS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo-v2.png",
+      "extensions": {
+        "rank": 131
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
+      "name": "Zeta",
+      "symbol": "ZEX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/zetamarkets/brand/master/assets/zeta.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
+      "name": "Allbridge",
+      "symbol": "ABR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump",
+      "name": "The White Whale",
+      "symbol": "WhiteWhale",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreid36cgjpa6wm7rvczq2odx4i3y45cqj3nmq5fecxzsaetjumwxaqi",
+      "extensions": {
+        "rank": 179
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "name": "BlazeStake Staked SOL (bSOL)",
+      "symbol": "bSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png",
+      "extensions": {
+        "rank": 99
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
+      "name": "BIO",
+      "symbol": "BIO",
+      "decimals": 9,
+      "logoURI": "https://crimson-fantastic-mouse-567.mypinata.cloud/ipfs/bafkreih3c2fcuob3h3vvv6s7sdvgglqgyc6tqu6tphaceciuonz2h4cagi",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 253
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "bobaM3u8QmqZhY1HwAtnvze9DLXvkgKYk3td3t8MLva",
+      "name": "Boba Oppa",
+      "symbol": "BOBAOPPA",
+      "decimals": 6,
+      "logoURI": "https://bafkreicrn3j6ausiwrw66jg22xxbrkypcgkjkux6xeaacw2wcxtj6t3lji.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+      "extensions": {
+        "rank": 5
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "chiPiQTvkQ7oPtAD7YLQaEeHmPqXCa2wcRQdwFNneTe",
+      "name": "chipi",
+      "symbol": "CHIPI",
+      "decimals": 9,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/solana/chiPiQTvkQ7oPtAD7YLQaEeHmPqXCa2wcRQdwFNneTe.png?size=lg&key=d4255f"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "coqRkaaKeUygDPhuS3mrmrj6DiHjeQJc2rFbT2YfxWn",
+      "name": "BLACK COQINU",
+      "symbol": "BCOQ",
+      "decimals": 5,
+      "logoURI": "https://arweave.net/nU1lZL13C5Kf4nTGqUYsqdWy43mXP9WeP7eOag61ZK4"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "dTzEP9JU2NRDPuWtM32gaVKip2fTHBqjheU1APBpump",
+      "name": "The Bitcoin Mascot",
+      "symbol": "BITTY",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmSwb5WxRYv9N4cWiszj6MoejgJkEnY6m7jWxNP8EX1exN",
+      "extensions": {
+        "rank": 278
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "dekNoN3D8mXa4JHLwTbVXz8aPAyJUkk443UjcSpJKi4",
+      "name": "peanie",
+      "symbol": "peanie",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmbVGwrBoJDGZgCac25iySvMo2mjPhefvUFvirQMiKoJf7"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
+      "name": "DOG (Bitcoin)",
+      "symbol": "DOG",
+      "decimals": 5,
+      "logoURI": "https://metadata.runemine.com/doggotothemoon.jpg",
+      "extensions": {
+        "rank": 197
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+      "name": "Unicorn Fart Dust",
+      "symbol": "UFD",
+      "decimals": 6,
+      "logoURI": "https://static.datapi.jup.ag/images/asset-icon/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump.png",
+      "extensions": {
+        "rank": 216
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
+      "name": "Edgevana Staked SOL",
+      "symbol": "edgeSOL",
+      "decimals": 9,
+      "logoURI": "https://srv.edgevana.com/img/edgesol.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "euro5sNHrZC2wu2RoLvy6xxoVMc3Qnd1vjxoWf4MftA",
+      "name": "EURØP",
+      "symbol": "EUROP",
+      "decimals": 6,
+      "logoURI": "https://bafkreihgdtkjdpuck4mquass2qz5ty4qjizehoacxcg3g42oohmejdk45q.ipfs.dweb.link",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 124
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "fESbUKjuMY6jzDH9VP8cy4p3pu2q5W2rK2XghVfNseP",
+      "name": "CatFrogDogShark",
+      "symbol": "SOLANA",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmVB3D2Cm19FKUL6sKwoGLxYRggwGV56p66gehhAepWewC"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "name": "Helius Staked SOL",
+      "symbol": "hSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.png",
+      "extensions": {
+        "rank": 163
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "hf34pZHnV4entu9bdp4pFEmeKpivEUeSUhASgWopump",
+      "name": "Mumu the Bull",
+      "symbol": "MUMU",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmZ5TvRbEk4guyrwqytQfthVQroiCMZfccc9XgXbS1WQE6",
+      "extensions": {
+        "rank": 294
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+      "name": "Helium Network Token",
+      "symbol": "HNT",
+      "decimals": 8,
+      "logoURI": "https://entities.nft.helium.io/v2/assets/hnt.png",
+      "extensions": {
+        "rank": 107
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "hy1oXYgrBW6PVcJ4s6s2FKavRdwgWTXdfE69AxT7kPT",
+      "name": "Hylo Staked SOL",
+      "symbol": "hyloSOL",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/HLG36LGrodTAn39hAQ7mfCs4Zbvec2wPiH2wMWfSHsFC",
+      "extensions": {
+        "rank": 214
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "iotEVVZLEywoTn1QdwNPddxPWszn3zFhEot3MfL9fns",
+      "name": "Helium IOT",
+      "symbol": "IOT",
+      "decimals": 6,
+      "logoURI": "https://entities.nft.helium.io/v2/assets/iot.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+      "name": "JITO",
+      "symbol": "JTO",
+      "decimals": 9,
+      "logoURI": "https://metadata.jito.network/token/jto/image",
+      "extensions": {
+        "rank": 63
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "name": "Jupiter Staked SOL",
+      "symbol": "JupSOL",
+      "decimals": 9,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/f65f73e25b3eadcdd65ac25be847bf9d2766822164fb118b37bb3824ee3cb69b.webp",
+      "extensions": {
+        "rank": 36
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+      "name": "KIN",
+      "symbol": "KIN",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
+      "extensions": {
+        "rank": 399
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "name": "Marinade staked SOL (mSOL)",
+      "symbol": "mSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+      "extensions": {
+        "rank": 66
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+      "name": "Helium Mobile",
+      "symbol": "MOBILE",
+      "decimals": 6,
+      "logoURI": "https://shdw-drive.genesysgo.net/6tcnBSybPG7piEDShBcrVtYJDPSvGrDbVvXmXKpzBvWP/mobile.png",
+      "extensions": {
+        "rank": 348
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "moonThZEkkTVoNB7v6YVCQiT56JYDZ1oN185ba3WizL",
+      "name": "Moonwalk Fitness",
+      "symbol": "MF",
+      "decimals": 4,
+      "logoURI": "https://mdubpub.s3.us-east-1.amazonaws.com/mw.png",
+      "extensions": {
+        "rank": 359
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "n54ZwXEcLnc3o7zK48nhrLV4KTU5wWD4iq7Gvdt5tik",
+      "name": "Peepo",
+      "symbol": "PEEP",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/QA7H--VOnRLJnj96IleDWsYJht_RRiA6SWommUMroJ4"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+      "name": "Nosana",
+      "symbol": "NOS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7/logo.png",
+      "extensions": {
+        "rank": 98
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "octo82drBEdm8CSDaEKBymVn86TBtgmPnDdmE64PTqJ",
+      "name": "Octokn",
+      "symbol": "OTK",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/the-octos-nfts/icon-otk-big-filled.png",
+      "extensions": {
+        "rank": 255
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "onoyC1ZjHNtT2tShqvVSg5WEcQDbu5zht6sdU9Nwjrc",
+      "name": "onocoy",
+      "symbol": "ONO",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/jmxW-kIJxhlApv4RhNTou3hyltp7lZgSslmSqcnloqg",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 363
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "name": "Orca",
+      "symbol": "ORCA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
+      "extensions": {
+        "rank": 30
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "oreoU2P8bN6jkk3jbaiVxYnG1dCXcYxwhwyK9jSybcp",
+      "name": "ORE",
+      "symbol": "ORE",
+      "decimals": 11,
+      "logoURI": "https://static.datapi.jup.ag/token-icons/59b26424e6d3fba9e7aa6d2e24f4dba306740163d3a00e73f87ffd1689ebd056.webp",
+      "extensions": {
+        "rank": 51
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL",
+      "name": "Phantom Staked SOL",
+      "symbol": "PSOL",
+      "decimals": 9,
+      "logoURI": "https://assets.phantom.app/assets/metadata/PSOL.png",
+      "extensions": {
+        "rank": 87
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+      "name": "Star Atlas DAO",
+      "symbol": "POLIS",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
+      "extensions": {
+        "rank": 305
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "name": "Pump",
+      "symbol": "PUMP",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibyb3hcn7gglvdqpmklfev3fut3eqv3kje54l3to3xzxxbgpt5wjm",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 6
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "remiG7sGaHWgrY7o6SXJW5CYi5A7kmKutyJz6x6hUsp",
+      "name": "remilio",
+      "symbol": "REMILIO",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/NsC-eIEVyKfXDJ7JPtZzTJ4BMrkQNkmLDseP2IgeDZo"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+      "name": "Render Token",
+      "symbol": "RENDER",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11636/standard/rndr.png?1696511529",
+      "extensions": {
+        "rank": 71
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+      "name": "Solayer SOL",
+      "symbol": "sSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/logo.jpg",
+      "extensions": {
+        "rank": 324
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
+      "name": "Sonar Watch",
+      "symbol": "SONAR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+      "name": "Stronghold LST",
+      "symbol": "strongSOL",
+      "decimals": 9,
+      "logoURI": "https://strongsol.s3.us-east-2.amazonaws.com/stronghold.png",
+      "extensions": {
+        "rank": 402
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP",
+      "name": "Larpcheck",
+      "symbol": "LARPCHECK",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreie6vxbts23b7irciuie7jw4qappwvnsod6535i4l6ag3afgv45sxu",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 145
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+      "name": "BOOK OF MEME",
+      "symbol": "BOME",
+      "decimals": 6,
+      "logoURI": "https://bafkreihztk5poge7f2lz6logfjmhc7h7u6shvgacoktnuezks5oblmieue.ipfs.nftstorage.link",
+      "extensions": {
+        "rank": 37
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "utLyQQCPvjuCc6zeaXdsFeEC3JNdxKS3vxaZWoGdoge",
+      "name": "The Original Doge",
+      "symbol": "OGDOGE",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiehbpfgronbmzour2tx7dhh363qhhy2a2f73agakett4klh5eubfq"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "name": "The Vault",
+      "symbol": "vSOL",
+      "decimals": 9,
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+      "extensions": {
+        "rank": 185
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP",
+      "name": "WeatherXM",
+      "symbol": "WXM",
+      "decimals": 9,
+      "logoURI": "https://bafybeicqkide5bkqq4aqxtdaru2ne2mczye4x2eothuiis5hfoiml4vflm.ipfs.dweb.link/"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "x95HN3DWvbfCBtTjGm587z8suK3ec6cwQwgZNLbWKyp",
+      "name": "Hachiko",
+      "symbol": "$HACHI",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/dpbxw0qbd/image/upload/v1764259420/Hachiko.png",
+      "extensions": {
+        "rank": 239
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+      "name": "Solanium",
+      "symbol": "SLIM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "y1AZt42vceCmStjW4zetK3VoNarC1VxJ5iDjpiupump",
+      "name": "FARTBOY",
+      "symbol": "FARTBOY",
+      "decimals": 9,
+      "logoURI": "https://gateway.irys.xyz/Qksj4SsRL_Ru36Nu4UvL-F_c1apJ1_Cb4h5Hm_7_qM4",
+      "extensions": {
+        "rank": 180
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "yso11zxLbHA3wBJ9HAtVu6wnesqz9A2qxnhxanasZ4N",
+      "name": "Synatra Staked SOL",
+      "symbol": "ySOL",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/76HCWYyF9Sps1TnRdZB1CtHbj5Ji7trzqi4tnxfCabXE/ysol-logo.png"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+      "name": "zBTC",
+      "symbol": "zBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
+      "extensions": {
+        "rank": 234
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "zGh48JtNHVBb5evgoZLXwgPD2Qu4MhkWdJLGDAupump",
+      "name": "The Last Play",
+      "symbol": "retire",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmYG14Rrj2STV4ww9jKWierD2QVndSvDLEFkEyufBAxNC2",
+      "extensions": {
+        "rank": 229
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "zZRRHGndBuUsbn4VM47RuagdYt57hBbskQ2Ba6K5775",
+      "name": "greg16676935420",
+      "symbol": "GREG",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmdAvLi21aQXB1oUU1vkiamSUCiKLZMbm5U2Rn4EUm13ZS"
+    },
+    {
+      "chainId": 1000000001,
+      "address": "zj1jpp7QMveWHLs61vL9KMZf254KvW7j4AAmBF8ry2k",
+      "name": "Bullshit Coin",
+      "symbol": "BULLSHIT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/bafkreiaxj5rl4uuy7wlhggy4bs2rtxdvrzndvuu75w6adiudb54nfzz3pu",
+      "extensions": {
+        "rank": 137
+      }
+    },
+    {
+      "chainId": 1000000001,
+      "address": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh",
+      "name": "Infinite Money Glitch",
+      "symbol": "IMG",
+      "decimals": 6,
+      "logoURI": "https://i.degencdn.com/ipfs/bafkreicqucnhm3saac3uyzniegpnqlf2ioxufyanlmcwfbxfqfmq3jqgxm",
+      "extensions": {
+        "isToken2022": true,
+        "rank": 374
+      }
+    }
+  ]
+}

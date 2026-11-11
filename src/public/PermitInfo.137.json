@@ -1,0 +1,4199 @@
+{
+  "0x0294d8eb7857d43feb1210db72456d41481f9ede": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Axelar Wrapped Lqdr"
+  },
+  "0x06737d16ad9c1e41aa44fee2a952b26723b20673": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "GT3 finance"
+  },
+  "0x078f358208685046a11c85e8ad32895ded33a249": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon WBTC"
+  },
+  "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "yieldwatch"
+  },
+  "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "RealToken Ecosystem Governance"
+  },
+  "0x0e98c977b943f06075b2d795794238fbfb9b9a34": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "TOMB"
+  },
+  "0x131409b31bf446737dd04353d43dacada544b6fa": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Classic USD"
+  },
+  "0x14913815bcfde78baead2111f463d038ac9c2949": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "eUSD"
+  },
+  "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Gelato Network Token"
+  },
+  "0x162539172b53e9a93b7d98fb6c41682de558a320": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "GONE"
+  },
+  "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Route"
+  },
+  "0x191c10aa4af7c30e871e70c95db0e4eb77237530": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon LINK"
+  },
+  "0x1a13f4ca1d028320a707d99520abfefca3998b7f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Matic Market USDC"
+  },
+  "0x1a3acf6d19267e2d3e7f898f42803e90c9219062": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Frax Share"
+  },
+  "0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wrapped Ixs Token"
+  },
+  "0x1bc8bf18256d8b45d8367aac50fe2e24fc6aa8ca": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VESTATE"
+  },
+  "0x1d1498166ddceee616a6d99868e1e0677300056f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "xSpace Token"
+  },
+  "0x200c234721b5e549c3693ccc93cf191f90dc2af9": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "METAL"
+  },
+  "0x221743dc9e954be4f86844649bf19b43d6f8366d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "OBORTECH"
+  },
+  "0x231878d973c09fbcc0ca2239fffb717795402cb4": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "RUSK"
+  },
+  "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Polygon tBTC v2"
+  },
+  "0x24c80d7f032bc8d308f10d59e20d5a65b90b7334": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "PHILCOIN"
+  },
+  "0x2598c30330d5771ae9f983979209486ae26de875": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Any Inu"
+  },
+  "0x25ed22a5b6804cd1fbf750f005d5c4c80763c0fb": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Fanpla"
+  },
+  "0x27842334c55c01ddfe81bf687425f906816c5141": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Veloce"
+  },
+  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "USD Coin (PoS)"
+  },
+  "0x27f6c8289550fce67f6b50bed1f519966afe5287": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "tGBP"
+  },
+  "0x2bc07124d8dac638e290f401046ad584546bc47b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "TOWER"
+  },
+  "0x2c92a8a41f4b806a6f6f1f7c9d9dec78dcd8c18e": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "99Starz"
+  },
+  "0x306ee01a6ba3b4a8e993fa2c1adc7ea24462000c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "NEOPIN Token"
+  },
+  "0x34f380a4e3389e99c0369264453523bbe5af7fab": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Kangal"
+  },
+  "0x38f9bf9dce51833ec7f03c9dc218197999999999": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Nya"
+  },
+  "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "xDollar Stablecoin"
+  },
+  "0x3a9a81d576d83ff21f26f325066054540720fc34": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Streamr"
+  },
+  "0x3c12f8829041bf99deaa2965014e01b750f87905": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "TTAJ"
+  },
+  "0x3c1bb39bb696b443a1d80bb2b3a3d950ba9dee87": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wall Street Games"
+  },
+  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": {
+    "type": "eip-2612",
+    "version": "2",
+    "name": "USD Coin"
+  },
+  "0x3f94618ad346f34f43e27f0cf46decbb0d396b1b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Flicker"
+  },
+  "0x40445993b0122456ec9e5c679f4f0485e1a5b474": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "FDrive Coin"
+  },
+  "0x41084fdc569099d9e527ccf126e12d9c7c688ec3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "IQ Protocol Token"
+  },
+  "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "JPY Coin"
+  },
+  "0x433cde5a82b5e0658da3543b47a375dffd126eb6": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "GOON"
+  },
+  "0x444444444444c1a66f394025ac839a535246fcc8": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Genius"
+  },
+  "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Frax"
+  },
+  "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Layer3"
+  },
+  "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "United States Permissionless Dollar"
+  },
+  "0x4a506181f07da5ddfda4ca4c2fa4c67001db94b4": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Dyl"
+  },
+  "0x4a7b9a4589a88a06ca29f99556db08234078d727": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "NFTmall GEM Token"
+  },
+  "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Edgeware"
+  },
+  "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "IceToken"
+  },
+  "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Jarvis Synthetic Euro"
+  },
+  "0x4e78011ce80ee02d2c3e649fb657e45898257815": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Klima DAO"
+  },
+  "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Glo Dollar"
+  },
+  "0x51707dc661630f8fd624b985fa6ef4f1d4d919db": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Unvest"
+  },
+  "0x524d524b4c9366be706d3a90dcf70076ca037ae3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "RMRK"
+  },
+  "0x564906ec1df8399f00e4ad32c0ecac0404a27a1c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Ambire Wallet"
+  },
+  "0x56633733fc8baf9f730ad2b6b9956ae22c6d4148": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "CoinCollect Token"
+  },
+  "0x570a42849ac23e3fdc45d8c31ddf7c09283e702d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Xauras token"
+  },
+  "0x57211299bc356319ba5ca36873eb06896173f8bc": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Super Useless Token"
+  },
+  "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wrapped Mountain Protocol USD"
+  },
+  "0x59d9356e565ab3a36dd77763fc0d87feaf85508c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Mountain Protocol USD"
+  },
+  "0x5c067c80c00ecd2345b05e83a3e758ef799c40b5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BRL1"
+  },
+  "0x5d47baba0d66083c52009271faf3f50dcc01023c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "ApeSwapFinance Banana"
+  },
+  "0x5e817f2abccb9095585d26c2a3ce234a440574fc": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Frontier Stable Token"
+  },
+  "0x5fcb9de282af6122ce3518cde28b7089c9f97b26": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "DeHive.finance"
+  },
+  "0x625e7708f30ca75bfd92586e17077590c60eb4cd": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon USDC"
+  },
+  "0x644192291cc835a93d6330b24ea5f5fedd0eef9e": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "AllianceBlock Nexera Token"
+  },
+  "0x68727e573d21a49c767c3c86a92d9f24bd933c99": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Telcoin MXN"
+  },
+  "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Anyswap"
+  },
+  "0x6ab707aca953edaefbc4fd23ba73294241490620": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon USDT"
+  },
+  "0x6bd10299f4f1d31b3489dc369ea958712d27c81b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Art De Finance Token"
+  },
+  "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aipocalypto"
+  },
+  "0x6cd6cb131764c704ba9167c29930fbdc38901ab7": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "xWIN Token"
+  },
+  "0x6d1fdbb266fcc09a16a22016369210a15bb95761": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Staked Frax Ether"
+  },
+  "0x6e4e624106cb12e168e6533f8ec7c82263358940": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Axelar"
+  },
+  "0x70c006878a5a50ed185ac4c87d837633923de296": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "REVV"
+  },
+  "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Axelar Wrapped USDC"
+  },
+  "0x764a726d9ced0433a8d7643335919deb03a9a935": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Pocket Network"
+  },
+  "0x7790dd69aa10ed3f1271e41cd7222d2a7d2d5948": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Parallel Governance Token"
+  },
+  "0x78445485a8d5b3be765e3027bc336e3c272a23c9": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Ubuntu"
+  },
+  "0x78b1aa5c9b37c52695c93448ad0c64560edb9c4d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Food Coin"
+  },
+  "0x79103b27fc21c81f7c6cb5caff78901b45a972d5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Bitcoin.ℏ"
+  },
+  "0x7cd017ca5ddb86861fa983a34b5f495c6f898c41": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Worldwide USD"
+  },
+  "0x81382e9693de2afc33f69b70a6c12ca9b3a73f47": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "DOSE"
+  },
+  "0x820802fa8a99901f52e39acd21177b0be6ee2974": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "EUROe Stablecoin"
+  },
+  "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon DAI"
+  },
+  "0x8497842420cfdbc97896c2353d75d89fc8d5be5d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VersaGames"
+  },
+  "0x85931ad37af0a3bb892086d13030330e93eac9df": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Tx24"
+  },
+  "0x8708cceb45b218e93a4d2cfc95eb8250ab13fa9d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "DIVO Global Platform"
+  },
+  "0x87bdfbe98ba55104701b2f2e999982a317905637": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Coinnekt+"
+  },
+  "0x87d6f8edeccbcca766d2880d19b2c3777d322c22": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Miracleplay Token"
+  },
+  "0x8a16d4bf8a0a716017e8d2262c4ac32927797a2f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "ViciCoin"
+  },
+  "0x8d60fb5886497851aac8c5195006ecf07647ba0d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "W3GG Token"
+  },
+  "0x9111d6446ac5b88a84cf06425c6286658368542f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "ForLootAndGlory"
+  },
+  "0x93890f346c5d02c3863a06657bc72555dc72c527": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Route"
+  },
+  "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BetSwirl v2"
+  },
+  "0x9a06db14d639796b25a6cec6a1bf614fd98815ec": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "$ZKP Token"
+  },
+  "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BUSD Token"
+  },
+  "0x9de41aff9f55219d5bf4359f167d1d0c772a396d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "CAD Coin"
+  },
+  "0x9f1e8f87c6321b84bad7dda7dfb86d5115a47605": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "RIZE"
+  },
+  "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Multichain"
+  },
+  "0xa1388e73c51b37383b1ab9dce8317ef5a0349cc5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Shibaverse"
+  },
+  "0xa25610a77077390a75ad9072a084c5fbc7d43a0d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Monsoon Finance"
+  },
+  "0xa2c638b78783e9afe26a16ec8b11de54eb169360": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Pay it Now"
+  },
+  "0xac0f66379a6d7801d7726d5a943356a172549adb": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Geodnet Token"
+  },
+  "0xac63686230f64bdeaf086fe6764085453ab3023f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Universal Store of Value"
+  },
+  "0xadbe0eac80f955363f4ff47b0f70189093908c04": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "MetalSwap"
+  },
+  "0xafb755c5f2ea2aadbae693d3bf2dc2c35158dc04": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Morkie Token"
+  },
+  "0xaff41da975501e5b71848c975834341777d1a473": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BlockchainSpace"
+  },
+  "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "LightSpeed"
+  },
+  "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BOB"
+  },
+  "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Request"
+  },
+  "0xb291996477504506bf5f583102b5b5ea5d1e40e0": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Quantoz USDQ"
+  },
+  "0xb7042c40de76cfc607ac05e68f9c28a778f0c8a6": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wistaverse"
+  },
+  "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "xZoomerCoin"
+  },
+  "0xbab4286b2bf88e070da0aae411a168059b040e7f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Star"
+  },
+  "0xbbe2b016271c22d3de3f961480af2941a0c4d067": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Shuffle"
+  },
+  "0xbc024abd1e72e2b5f9f73de13ace4ac68fe73e62": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "ASTROS"
+  },
+  "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "CheesecakeSwap Token"
+  },
+  "0xbd1463f02f61676d53fd183c2b19282bff93d099": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Jarvis Synthetic Swiss Franc"
+  },
+  "0xc10358f062663448a3489fc258139944534592ac": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Blockchain Monster Coin"
+  },
+  "0xc3a9a54c043f348027fffaac0f2f996123a19bf4": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Ethos Reserve Note"
+  },
+  "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Hop"
+  },
+  "0xc6920888988caceea7acca0c96f2d65b05ee22ba": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Ethernity CLOUD"
+  },
+  "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VNX Gold"
+  },
+  "0xcaf5191fc480f43e4df80106c7695eca56e48b18": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "DinoX Coin"
+  },
+  "0xcdb3867935247049e87c38ea270edd305d84c9ae": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VNX Franc"
+  },
+  "0xceed2671d8634e3ee65000edbbee66139b132fbf": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Axelar Wrapped USDT"
+  },
+  "0xd125443f38a69d776177c2b9c041f462936f8218": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "FireBotToken"
+  },
+  "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "THAT"
+  },
+  "0xd3144ff5f388d36c0a445686c08540296d8b209b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wolf Works DAO"
+  },
+  "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Quantoz EURQ"
+  },
+  "0xd687759f35bb747a29246a4b9495c8f52c49e00c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aussie Dollar Token"
+  },
+  "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Governance OHM"
+  },
+  "0xdbf31df14b66535af65aac99c32e9ea844e14501": {
+    "type": "dai-like",
+    "version": "1",
+    "name": "renBTC"
+  },
+  "0xdcb72ae4d5dc6ae274461d57e65db8d50d0a33ad": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "DappRadar"
+  },
+  "0xdfffe0c33b4011c4218acd61e68a62a32eaf9a8b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Axelar Wrapped REGEN"
+  },
+  "0xe0aea583266584dafbb3f9c3211d5588c73fea8d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Monerium EURe"
+  },
+  "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wrapped Banano"
+  },
+  "0xe4095d9372e68d108225c306a4491cacfb33b097": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VNX Euro"
+  },
+  "0xe4feab21b42919c5c960ed2b4bdffc521e26881f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "MUT"
+  },
+  "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon WETH"
+  },
+  "0xe613a914bbb433855378183c3ab13003285da40a": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Bit2Me"
+  },
+  "0xe6a537a407488807f0bbeb0038b79004f19dddfb": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "BRLA Token"
+  },
+  "0xe6b9d092223f39013656702a40dbe6b7decc5746": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "FevrToken"
+  },
+  "0xe78aee6ccb05471a69677fb74da80f5d251c042b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "TakiToken"
+  },
+  "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "JPY Coin"
+  },
+  "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "NASDEX Token"
+  },
+  "0xe9c21de62c5c5d0ceacce2762bf655afdceb7ab3": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Arkreen Token"
+  },
+  "0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Longinus"
+  },
+  "0xec38621e72d86775a89c7422746de1f52bba5320": {
+    "type": "dai-like",
+    "version": "1",
+    "name": "Davos.xyz USD"
+  },
+  "0xee327f889d5947c1dc1934bb208a1e792f953e96": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Frax Ether"
+  },
+  "0xeec2e29ff5cd4cecea61de09e9f28fae74c70ddd": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "AITTCOIN"
+  },
+  "0xeee3371b89fc43ea970e908536fcddd975135d8a": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "The Doge NFT"
+  },
+  "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Elk"
+  },
+  "0xf1815bd50389c46847f0bda824ec8da914045d14": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "XAUt0"
+  },
+  "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa": {
+    "type": "eip-2612",
+    "version": "2",
+    "name": "MXNB"
+  },
+  "0xf59036caebea7dc4b86638dfa2e3c97da9fccd40": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Aave Polygon wstETH"
+  },
+  "0xf868939ee81f04f463010bc52eab91c0839ef08c": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Attack"
+  },
+  "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Synapse"
+  },
+  "0xfafa220145dfa5c3ec85b6fa8a75aee2451cde5e": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "ROOBEE"
+  },
+  "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Stable Coin"
+  },
+  "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Folks Finance"
+  },
+  "0xffa188493c15dfaf2c206c97d8633377847b6a52": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "WeFi"
+  },
+  "0xffb89d7637cf4860884ed48b57ae5562bf64e10f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "PIKA"
+  },
+  "0x0000000000000000000000000000000000001010": {
+    "type": "unsupported",
+    "name": "Polygon Ecosystem Token"
+  },
+  "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+    "type": "unsupported",
+    "name": "AUSD"
+  },
+  "0x0000206329b97db379d5e1bf586bbdb969c63274": {
+    "type": "unsupported",
+    "name": "USDA"
+  },
+  "0x0052074d3eb1429f39e5ea529b54a650c21f5aa4": {
+    "type": "unsupported",
+    "name": "RetaStake"
+  },
+  "0x00e5646f60ac6fb446f621d146b6e1886f002905": {
+    "type": "unsupported",
+    "name": "Rai Reflex Index (PoS)"
+  },
+  "0x01288e04435bfcd4718ff203d6ed18146c17cd4b": {
+    "type": "unsupported",
+    "name": "Magic Internet Money (PoS)"
+  },
+  "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7": {
+    "type": "unsupported",
+    "name": "Neutrino USD"
+  },
+  "0x01b317bc5ed573faa112ef64dd029f407cecb155": {
+    "type": "unsupported",
+    "name": "Charged Particles - IONX (PoS)"
+  },
+  "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1": {
+    "type": "unsupported",
+    "name": "Rocket Pool ETH (PoS)"
+  },
+  "0x0308a3a9c433256ad7ef24dbef9c49c8cb01300a": {
+    "type": "unsupported",
+    "name": "GoldPesa Option"
+  },
+  "0x034b2090b579228482520c589dbd397c53fc51cc": {
+    "type": "unsupported",
+    "name": "Vision Token (PoS)"
+  },
+  "0x039d2e8f097331278bd6c1415d839310e0d5ece4": {
+    "type": "unsupported",
+    "name": "Linda"
+  },
+  "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd": {
+    "type": "unsupported",
+    "name": "Wrapped liquid staked Ether 2.0 (PoS)"
+  },
+  "0x03b92ebf0615d44d8c782c209e4405b74cb77d1d": {
+    "type": "unsupported",
+    "name": "Multi Universe Central"
+  },
+  "0x03c2f6808502ffd4ab2787ad1a98ec13dbd5718b": {
+    "type": "unsupported",
+    "name": "ClinTex CTI"
+  },
+  "0x03cf5d93ca7c70ce0a21a09f4d70779d2c66b25a": {
+    "type": "unsupported",
+    "name": "JumpToken"
+  },
+  "0x04429fbb948bbd09327763214b45e505a5293346": {
+    "type": "unsupported",
+    "name": "Allbridge"
+  },
+  "0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126": {
+    "type": "unsupported",
+    "name": "Safle"
+  },
+  "0x04bea9fce76943e90520489ccab84e84c0198e29": {
+    "type": "unsupported",
+    "name": "AirSwap Token (PoS)"
+  },
+  "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0": {
+    "type": "unsupported",
+    "name": "Dragon Master Token (PoS)"
+  },
+  "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b": {
+    "type": "unsupported",
+    "name": "Krill"
+  },
+  "0x0566c506477cd2d8df4e0123512dbc344bd9d111": {
+    "type": "unsupported",
+    "name": "MyLovelyCoin"
+  },
+  "0x0621d647cecbfb64b79e44302c1933cb4f27054d": {
+    "type": "unsupported",
+    "name": "Amp Token (PoS)"
+  },
+  "0x06ddb3a8bc0abc14f85e974cf1a93a6f8d4909d9": {
+    "type": "unsupported",
+    "name": "8PAY Network v2"
+  },
+  "0x071ac29d569a47ebffb9e57517f855cb577dcc4c": {
+    "type": "unsupported",
+    "name": "GCOIN"
+  },
+  "0x0735fa49eb7d9ddf3e4d9a9f01229627f67632a1": {
+    "type": "unsupported",
+    "name": "Cropto Corn Token"
+  },
+  "0x07ed33a242bd9c08ca3c198e01189e35265024da": {
+    "type": "unsupported",
+    "name": "Wagmi"
+  },
+  "0x08158a6b5d4018340387d1a302f882e98a8bc5b4": {
+    "type": "unsupported",
+    "name": "Plasma (PoS)"
+  },
+  "0x08e175a1eac9744a0f1ccaeb8f669af6a2bda3ce": {
+    "type": "unsupported",
+    "name": "Energy8"
+  },
+  "0x09c5a4bca808bd1ba2b8e6b3aaf7442046b4ca5b": {
+    "type": "unsupported",
+    "name": "VesperToken (PoS)"
+  },
+  "0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54": {
+    "type": "unsupported",
+    "name": "Oshi Token"
+  },
+  "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d": {
+    "type": "unsupported",
+    "name": "iZUMi Bond USD"
+  },
+  "0x0aab8dc887d34f00d50e19aee48371a941390d14": {
+    "type": "unsupported",
+    "name": "PowerLedger (PoS)"
+  },
+  "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf": {
+    "type": "unsupported",
+    "name": "Golem Network Token (PoS)"
+  },
+  "0x0b3eaead748facdb9d943d3407011f16eb17d0cf": {
+    "type": "unsupported",
+    "name": "Primex Finance"
+  },
+  "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a": {
+    "type": "unsupported",
+    "name": "SushiToken (PoS)"
+  },
+  "0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9": {
+    "type": "unsupported",
+    "name": "Unagi Token"
+  },
+  "0x0ba8a6ce46d369d779299dedade864318097b703": {
+    "type": "unsupported",
+    "name": "JUSD Stable Token"
+  },
+  "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41": {
+    "type": "unsupported",
+    "name": "Playermon"
+  },
+  "0x0bf519071b02f22c17e7ed5f4002ee1911f46729": {
+    "type": "unsupported",
+    "name": "Numeraire (PoS)"
+  },
+  "0x0c47298beee5203358e7bc30b9954b584361eab5": {
+    "type": "unsupported",
+    "name": "BlackStallion"
+  },
+  "0x0c705862f56cd8ec70337f5f5184fea4158a3c00": {
+    "type": "unsupported",
+    "name": "AWT"
+  },
+  "0x0c7304fbaf2a320a1c50c46fe03752722f729946": {
+    "type": "unsupported",
+    "name": "Smooth Love Potion (PoS)"
+  },
+  "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd": {
+    "type": "unsupported",
+    "name": "Wombat"
+  },
+  "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e": {
+    "type": "unsupported",
+    "name": "SWEAT"
+  },
+  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+    "type": "unsupported",
+    "name": "Wrapped Polygon Ecosystem Token"
+  },
+  "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0": {
+    "type": "unsupported",
+    "name": "PolkaBridge"
+  },
+  "0x0da0bd2f57a27a70665d53db4ea71e1f26f77a46": {
+    "type": "unsupported",
+    "name": "Cropto Wheat Token"
+  },
+  "0x0dde4811c4dd68dc740a1d7997f33ff46cd186a9": {
+    "type": "unsupported",
+    "name": "LILLIUS Token"
+  },
+  "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf": {
+    "type": "unsupported",
+    "name": "Automata (PoS)"
+  },
+  "0x0e50bea95fe001a370a4f1c220c49aedcb982dec": {
+    "type": "unsupported",
+    "name": "Ethernity Chain (PoS)"
+  },
+  "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58": {
+    "type": "unsupported",
+    "name": "Ankr Staked MATIC"
+  },
+  "0x0ee392ba5ef1354c9bd75a98044667d307c0e773": {
+    "type": "unsupported",
+    "name": "Orion Protocol (PoS)"
+  },
+  "0x0f09e11501b01b3e9dc77d96db752d1a2ac84b20": {
+    "type": "unsupported",
+    "name": "Noggles (FXERC20)"
+  },
+  "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5": {
+    "type": "unsupported",
+    "name": "SecureChain AI"
+  },
+  "0x101a023270368c0d50bffb62780f4afd4ea79c35": {
+    "type": "unsupported",
+    "name": "Ankr (PoS)"
+  },
+  "0x104592a158490a9228070e0a8e5343b499e125d0": {
+    "type": "unsupported",
+    "name": "Frax (PoS)"
+  },
+  "0x110b25d2b21ee73eb401f3ae7833f7072912a0bf": {
+    "type": "unsupported",
+    "name": "LIF3"
+  },
+  "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6": {
+    "type": "unsupported",
+    "name": "ICHI"
+  },
+  "0x11602a402281974a70c2b4824d58ebede967e2be": {
+    "type": "unsupported",
+    "name": "Beyond Finance (PoS)"
+  },
+  "0x11a819beb0aa3327e39f52f90d65cc9bca499f33": {
+    "type": "unsupported",
+    "name": "ScaleSwapToken"
+  },
+  "0x11a88f949c0592238959142653bb6847c6523d81": {
+    "type": "unsupported",
+    "name": "WEN Token (FXERC20)"
+  },
+  "0x11b37c9388420d79d48e8d531227f43c9bf1bbf1": {
+    "type": "unsupported",
+    "name": "FIT Token"
+  },
+  "0x11cd37bb86f65419713f30673a480ea33c826872": {
+    "type": "unsupported",
+    "name": "Wrapped Ether"
+  },
+  "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7": {
+    "type": "unsupported",
+    "name": "Osaka Protocol"
+  },
+  "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e": {
+    "type": "unsupported",
+    "name": "Pepedex (PoS)"
+  },
+  "0x127e47aba094a9a87d084a3a93732909ff031419": {
+    "type": "unsupported",
+    "name": "Genius Token & NFT Collections"
+  },
+  "0x1280830f690d0e65195b3c61b028244c3a49f26d": {
+    "type": "unsupported",
+    "name": "Axelar Wrapped ETH"
+  },
+  "0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d": {
+    "type": "unsupported",
+    "name": "Tutellus token"
+  },
+  "0x13590c53df63b52e159328c5b4ffb5f6dc5163c0": {
+    "type": "unsupported",
+    "name": "FiNANCiE Token (PoS)"
+  },
+  "0x13646e0e2d768d31b75d1a1e375e3e17f18567f2": {
+    "type": "unsupported",
+    "name": "Nodewaves"
+  },
+  "0x1379e8886a944d2d9d440b3d88df536aea08d9f3": {
+    "type": "unsupported",
+    "name": "Mysterium (PoS)"
+  },
+  "0x13f76eab3ec634c5479cbb0fb705e867b3e469de": {
+    "type": "unsupported",
+    "name": "TRADE MASTER (PoS)"
+  },
+  "0x140a4e80dd8184536acc45f1c452d7540472e6e1": {
+    "type": "unsupported",
+    "name": "POLKER"
+  },
+  "0x14a5f2872396802c3cc8942a39ab3e4118ee5038": {
+    "type": "unsupported",
+    "name": "Backed Tesla Inc"
+  },
+  "0x14af1f2f02dccb1e43402339099a05a5e363b83c": {
+    "type": "unsupported",
+    "name": "Kromatika (PoS)"
+  },
+  "0x14e5386f47466a463f85d151653e1736c0c50fc3": {
+    "type": "unsupported",
+    "name": "RUM Pirates of The Arrland Token"
+  },
+  "0x14eb40fb7900185c01adc6a5b8ac506d8a600e3c": {
+    "type": "unsupported",
+    "name": "EURO Token"
+  },
+  "0x14f74e11f0d9d469a4c9d686cfb18a771b31d94f": {
+    "type": "unsupported",
+    "name": "ON"
+  },
+  "0x1599fe55cda767b1f631ee7d414b41f5d6de393d": {
+    "type": "unsupported",
+    "name": "Milk"
+  },
+  "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30": {
+    "type": "unsupported",
+    "name": "OVR (PoS)"
+  },
+  "0x172370d5cd63279efa6d502dab29171933a610af": {
+    "type": "unsupported",
+    "name": "CRV (PoS)"
+  },
+  "0x176f5ab638cf4ff3b6239ba609c3fadaa46ef5b0": {
+    "type": "unsupported",
+    "name": "Harvest Reward Token"
+  },
+  "0x1796ae0b0fa4862485106a0de9b654efe301d0b2": {
+    "type": "unsupported",
+    "name": "Polychain Monsters"
+  },
+  "0x17c7c74e0cd779f33cb5a6e8ab39de46168e9ef7": {
+    "type": "unsupported",
+    "name": "Crypto Factor"
+  },
+  "0x17d342b29f054030a455b4191f977c3b0aa62fd9": {
+    "type": "unsupported",
+    "name": "Kanga Exchange Token (PoS)"
+  },
+  "0x183070c90b34a63292cc908ce1b263cb56d49a7f": {
+    "type": "unsupported",
+    "name": "Immutable X (PoS)"
+  },
+  "0x189586b5f6317538ae50c20a976597da38984a24": {
+    "type": "unsupported",
+    "name": "ChainPort Token [via ChainPort.io]"
+  },
+  "0x18e73a5333984549484348a94f4d219f4fab7b81": {
+    "type": "unsupported",
+    "name": "Yellow Duckies"
+  },
+  "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6": {
+    "type": "unsupported",
+    "name": "Monerium EUR emoney"
+  },
+  "0x193f4a4a6ea24102f49b931deeeb931f6e32405d": {
+    "type": "unsupported",
+    "name": "TLOS"
+  },
+  "0x19782d3dc4701ceeedcd90f0993f0a9126ed89d0": {
+    "type": "unsupported",
+    "name": "REN (PoS)"
+  },
+  "0x1a3c7d6cb66299f769040e6d4cf0c1945f6a2f32": {
+    "type": "unsupported",
+    "name": "KIATOKEN"
+  },
+  "0x1a7e49125a6595588c9556f07a4c006461b24545": {
+    "type": "unsupported",
+    "name": "Aki Protocol"
+  },
+  "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2": {
+    "type": "unsupported",
+    "name": "TOTEM"
+  },
+  "0x1b599beb7b1f50807dd58fd7e8ffcf073b435e71": {
+    "type": "unsupported",
+    "name": "Blind Boxes Token (PoS)"
+  },
+  "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603": {
+    "type": "unsupported",
+    "name": "Wootrade Network (PoS)"
+  },
+  "0x1b9d40715e757bdb9bdec3215b898e46d8a3b71a": {
+    "type": "unsupported",
+    "name": "Metis Token (PoS)"
+  },
+  "0x1bd9abf284e893705104e64b564b414620b722f1": {
+    "type": "unsupported",
+    "name": "acmFinance"
+  },
+  "0x1bdf71ede1a4777db1eebe7232bcda20d6fc1610": {
+    "type": "unsupported",
+    "name": "WhaleBit"
+  },
+  "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
+    "type": "unsupported",
+    "name": "(PoS) Wrapped BTC"
+  },
+  "0x1c0a798b5a5273a9e54028eb1524fd337b24145f": {
+    "type": "unsupported",
+    "name": "loser coin"
+  },
+  "0x1c15926ea330c394d891fd88f62d37ea6af953c3": {
+    "type": "unsupported",
+    "name": "Affi Network"
+  },
+  "0x1c5ccca2cb59145a4b25f452660cba6436ddce9b": {
+    "type": "unsupported",
+    "name": "Wrapped MIR Token (PoS)"
+  },
+  "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c": {
+    "type": "unsupported",
+    "name": "Kyber Network Crystal v2 (PoS)"
+  },
+  "0x1cca311b786dd7906c07414095fa719eabfd070f": {
+    "type": "unsupported",
+    "name": "PLAY"
+  },
+  "0x1d3c629ca5c1d0ab3bdf74600e81b4145615df8e": {
+    "type": "unsupported",
+    "name": "Preprints.io Token"
+  },
+  "0x1d47e931f82bb9f8d967f0cc3288268449835806": {
+    "type": "unsupported",
+    "name": "Pendle (PoS)"
+  },
+  "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94": {
+    "type": "unsupported",
+    "name": "Stader (PoS)"
+  },
+  "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59": {
+    "type": "unsupported",
+    "name": "Backed CSPX Core S&P 500"
+  },
+  "0x1ed02954d60ba14e26c230eec40cbac55fa3aeea": {
+    "type": "unsupported",
+    "name": "MAKERX"
+  },
+  "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa": {
+    "type": "unsupported",
+    "name": "Wrapped Backed Tesla Inc"
+  },
+  "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2": {
+    "type": "unsupported",
+    "name": "Badger (PoS)"
+  },
+  "0x1fe78e67ad10ba3a9583e672cac0480737d1b9f7": {
+    "type": "unsupported",
+    "name": "Smart Layer Network Token (PoS)"
+  },
+  "0x202655af326de310491cb54f120e02ee0da92b55": {
+    "type": "unsupported",
+    "name": "CRETA TOKEN"
+  },
+  "0x204820b6e6feae805e376d2c6837446186e57981": {
+    "type": "unsupported",
+    "name": "ROND Coin"
+  },
+  "0x2075828cdedc356b5358d79cfd314548842e4a2e": {
+    "type": "unsupported",
+    "name": "BlockChainCoinX "
+  },
+  "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05": {
+    "type": "unsupported",
+    "name": "OrbCity"
+  },
+  "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d": {
+    "type": "unsupported",
+    "name": "SNPIT TOKEN(PoS)"
+  },
+  "0x228b5c21ac00155cf62c57bcc704c0da8187950b": {
+    "type": "unsupported",
+    "name": "Nexus Dubai"
+  },
+  "0x229b1b6c23ff8953d663c4cbb519717e323a0a84": {
+    "type": "unsupported",
+    "name": "BLOK"
+  },
+  "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5": {
+    "type": "unsupported",
+    "name": "FireStarter"
+  },
+  "0x23001ae6cd2f0644c5846e156565998334fc2be3": {
+    "type": "unsupported",
+    "name": "Abyss Fragment"
+  },
+  "0x23001f892c0c82b79303edc9b9033cd190bb21c7": {
+    "type": "unsupported",
+    "name": "LUSD Stablecoin (PoS)"
+  },
+  "0x235737dbb56e8517391473f7c964db31fa6ef280": {
+    "type": "unsupported",
+    "name": "KastaToken"
+  },
+  "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f": {
+    "type": "unsupported",
+    "name": "USD+"
+  },
+  "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c": {
+    "type": "unsupported",
+    "name": "HEX (PoS)"
+  },
+  "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9": {
+    "type": "unsupported",
+    "name": "FABWELT"
+  },
+  "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57": {
+    "type": "unsupported",
+    "name": "Wrapped LUNA Token (PoS)"
+  },
+  "0x24fd25a49627ce2e4be711e76dc22234c83539fe": {
+    "type": "unsupported",
+    "name": "Lily"
+  },
+  "0x255707b70bf90aa112006e1b07b9aea6de021424": {
+    "type": "unsupported",
+    "name": "TETU Reward Token"
+  },
+  "0x25578065bdd4ebd68e7ffeedfc4e6614f3f0057f": {
+    "type": "unsupported",
+    "name": "GameMeteorCoin"
+  },
+  "0x25788a1a171ec66da6502f9975a15b609ff54cf6": {
+    "type": "unsupported",
+    "name": "PoolTogether (PoS)"
+  },
+  "0x25c498781ca536547b147e2199f572e5393d36f0": {
+    "type": "unsupported",
+    "name": "Travel and Tourism token"
+  },
+  "0x262b8aa7542004f023b0eb02bc6b96350a02b728": {
+    "type": "unsupported",
+    "name": "Sway Social Protocol"
+  },
+  "0x263534a4fe3cb249df46810718b7b612a30ebbff": {
+    "type": "unsupported",
+    "name": "PERP (PoS)"
+  },
+  "0x26c80854c36ff62bba7414a358c8c23bbb8dec39": {
+    "type": "unsupported",
+    "name": "CheckDot"
+  },
+  "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf": {
+    "type": "unsupported",
+    "name": "Mynth"
+  },
+  "0x26f5fb1e6c8a65b3a873ff0a213fa16eff5a7828": {
+    "type": "unsupported",
+    "name": "DerivaDAO (PoS)"
+  },
+  "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b": {
+    "type": "unsupported",
+    "name": "Cartesi Token (PoS)"
+  },
+  "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7": {
+    "type": "unsupported",
+    "name": "Metavault Trade"
+  },
+  "0x276c9cbaa4bdf57d7109a41e67bd09699536fa3d": {
+    "type": "unsupported",
+    "name": "Somnium Space Cubes (PoS)"
+  },
+  "0x27ab6e82f3458edbc0703db2756391b899ce6324": {
+    "type": "unsupported",
+    "name": "Reental Utility Token"
+  },
+  "0x27f485b62c4a7e635f561a87560adf5090239e93": {
+    "type": "unsupported",
+    "name": "DFX Token (L2)"
+  },
+  "0x27f8d03b3a2196956ed754badc28d73be8830a6e": {
+    "type": "unsupported",
+    "name": "Aave Matic Market DAI"
+  },
+  "0x280053c54006a624c26989cb8354fa4cb86f14d1": {
+    "type": "unsupported",
+    "name": "Morpheus Infrastructure Node(PoS)"
+  },
+  "0x282d8efce846a88b159800bd4130ad77443fa1a1": {
+    "type": "unsupported",
+    "name": "Ocean Token (PoS)"
+  },
+  "0x2a07461a493b994c2a32f549fd185524f306ab38": {
+    "type": "unsupported",
+    "name": "Aree Shards"
+  },
+  "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e": {
+    "type": "unsupported",
+    "name": "XEN Crypto"
+  },
+  "0x2ab445c24c96db13383bb34678adae50c43b4baa": {
+    "type": "unsupported",
+    "name": "Clay"
+  },
+  "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5": {
+    "type": "unsupported",
+    "name": "ChainGuardians Governance Token (PoS)"
+  },
+  "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
+    "type": "unsupported",
+    "name": "Interport Token"
+  },
+  "0x2b3b16826719bf0b494c8ddebaa5e882093ee37e": {
+    "type": "unsupported",
+    "name": "FIBO"
+  },
+  "0x2b8504ab5efc246d0ec5ec7e74565683227497de": {
+    "type": "unsupported",
+    "name": "Aragon Network Token (PoS)"
+  },
+  "0x2b88ad57897a8b496595925f43048301c37615da": {
+    "type": "unsupported",
+    "name": "PickleToken (PoS)"
+  },
+  "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7": {
+    "type": "unsupported",
+    "name": "Mask Network (PoS)"
+  },
+  "0x2c72d25530191ebd244eb6325e1892480b0e6e28": {
+    "type": "unsupported",
+    "name": "AI Powered Finance"
+  },
+  "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b": {
+    "type": "unsupported",
+    "name": "Avalanche Token"
+  },
+  "0x2d34a748427801e5d3da862bf474e2b28e501624": {
+    "type": "unsupported",
+    "name": "MPOOL"
+  },
+  "0x2db0db271a10661e7090b6758350e18f6798a49d": {
+    "type": "unsupported",
+    "name": "Mobius Token"
+  },
+  "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756": {
+    "type": "unsupported",
+    "name": "TrueUSD (PoS)"
+  },
+  "0x2f3e306d9f02ee8e8850f9040404918d0b345207": {
+    "type": "unsupported",
+    "name": "DOGAMI"
+  },
+  "0x2f4efd3aa42e15a1ec6114547151b63ee5d39958": {
+    "type": "unsupported",
+    "name": "CoW Protocol Token(PoS)"
+  },
+  "0x2f5de51823e514de04475ba8db1eeba5b244ba84": {
+    "type": "unsupported",
+    "name": "USD Token"
+  },
+  "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
+    "type": "unsupported",
+    "name": "StargateToken"
+  },
+  "0x2f800db0fdb5223b3c3f354886d907a671414a7f": {
+    "type": "unsupported",
+    "name": "Base Carbon Tonne"
+  },
+  "0x2f81e176471cc57fdc76f7d332fb4511bf2bebdd": {
+    "type": "unsupported",
+    "name": "Radicle (PoS)"
+  },
+  "0x2fe8733dcb25bfbba79292294347415417510067": {
+    "type": "unsupported",
+    "name": "Exeedme (PoS)"
+  },
+  "0x300211def2a644b036a9bdd3e58159bb2074d388": {
+    "type": "unsupported",
+    "name": "Crosschain IOTX"
+  },
+  "0x3066818837c5e6ed6601bd5a91b0762877a6b731": {
+    "type": "unsupported",
+    "name": "UMA Voting Token v1 (PoS)"
+  },
+  "0x306fd3e7b169aa4ee19412323e1a5995b8c1a1f4": {
+    "type": "unsupported",
+    "name": "Black Agnus"
+  },
+  "0x30ea765d4dda26e0f89e1b23a7c7b2526b7d29ec": {
+    "type": "unsupported",
+    "name": "POLYPAD.com"
+  },
+  "0x311434160d7537be358930def317afb606c0d737": {
+    "type": "unsupported",
+    "name": "Nakamoto.Games"
+  },
+  "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde": {
+    "type": "unsupported",
+    "name": "Poison.Finance Poison"
+  },
+  "0x3235b13708f178af6f110de7177ed5de10c1093d": {
+    "type": "unsupported",
+    "name": "MongolNFT"
+  },
+  "0x324b28d6565f784d596422b0f2e5ab6e9cfa1dc7": {
+    "type": "unsupported",
+    "name": "Kyber Network Crystal (PoS)"
+  },
+  "0x32515ffdc3a84cfbf9ad4db14ef8f0a535c7afd6": {
+    "type": "unsupported",
+    "name": "BakedToken (PoS)"
+  },
+  "0x32dc2dd3c2be453a369625e6fe0e438aed814919": {
+    "type": "unsupported",
+    "name": "SelfKey (FXERC20)"
+  },
+  "0x32dfe9b08826c24296f494ec1831ee7ceb45e4a6": {
+    "type": "unsupported",
+    "name": "NEND"
+  },
+  "0x33b6d77c607ea499ab5db7e2201c5a516a78a5db": {
+    "type": "unsupported",
+    "name": "Aimedis"
+  },
+  "0x34667ed7c36cbbbf2d5d5c5c8d6eb76a094edb9f": {
+    "type": "unsupported",
+    "name": "GenomesDAO (PoS)"
+  },
+  "0x347accafda7f8c5bdec57fa34a5b663cbd1aeca7": {
+    "type": "unsupported",
+    "name": "MATH Token (PoS)"
+  },
+  "0x34c1b299a74588d6abdc1b85a53345a48428a521": {
+    "type": "unsupported",
+    "name": "EASY V2"
+  },
+  "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23": {
+    "type": "unsupported",
+    "name": "RaiderAurum"
+  },
+  "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
+    "type": "unsupported",
+    "name": "USDT"
+  },
+  "0x3558887f15b5b0074dc4167761de14a6dfcb676e": {
+    "type": "unsupported",
+    "name": "NetVRk"
+  },
+  "0x3562ddf1f5ce2c02ef109e9d5a72e2fdb702711d": {
+    "type": "unsupported",
+    "name": "Kaspa"
+  },
+  "0x361a5a4993493ce00f61c32d4ecca5512b82ce90": {
+    "type": "unsupported",
+    "name": "Stake DAO Token (PoS)"
+  },
+  "0x36b77a184be8ee56f5e81c56727b20647a42e28e": {
+    "type": "unsupported",
+    "name": "Quant (PoS)"
+  },
+  "0x36fe11b6d5c9421f68d235694fe192b35e803903": {
+    "type": "unsupported",
+    "name": "Xend Real World Asset"
+  },
+  "0x37c5ebfae4e4da225e9d8042b05063c4a2c94bb6": {
+    "type": "unsupported",
+    "name": "STAU"
+  },
+  "0x38022a157b95c52d43abcac9bd09f028a1079105": {
+    "type": "unsupported",
+    "name": "Dogeverse"
+  },
+  "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17": {
+    "type": "unsupported",
+    "name": "Dubbz"
+  },
+  "0x3809dcdd5dde24b37abe64a5a339784c3323c44f": {
+    "type": "unsupported",
+    "name": "TrustSwap Token (PoS)"
+  },
+  "0x380df89d883776ba04f65569f1d1a6e218bfc2df": {
+    "type": "unsupported",
+    "name": "Awakeborn Token"
+  },
+  "0x381caf412b45dac0f62fbeec89de306d3eabe384": {
+    "type": "unsupported",
+    "name": "DAO Invest (PoS)"
+  },
+  "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7": {
+    "type": "unsupported",
+    "name": "Aavegotchi GHST Token (PoS)"
+  },
+  "0x388d819724dd6d71760a38f00dc01d310d879771": {
+    "type": "unsupported",
+    "name": "JustMoney"
+  },
+  "0x38a536a31ba4d8c1bcca016abbf786ecd25877e8": {
+    "type": "unsupported",
+    "name": "AssetMantle (PoS)"
+  },
+  "0x3962f4a0a0051dcce0be73a7e09cef5756736712": {
+    "type": "unsupported",
+    "name": "Livepeer Token (PoS)"
+  },
+  "0x3a3df212b7aa91aa0402b9035b098891d276572b": {
+    "type": "unsupported",
+    "name": "Fish"
+  },
+  "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4": {
+    "type": "unsupported",
+    "name": "Staked MATIC (PoS)"
+  },
+  "0x3ad707da309f3845cd602059901e39c4dcd66473": {
+    "type": "unsupported",
+    "name": "ETH 2x Flexible Leverage Index"
+  },
+  "0x3ae490db48d74b1bc626400135d4616377d0109f": {
+    "type": "unsupported",
+    "name": "AlphaToken (PoS)"
+  },
+  "0x3af2dd7b91d8faceccc26d21a065267817213d37": {
+    "type": "unsupported",
+    "name": "RibusToken"
+  },
+  "0x3b56a704c01d650147ade2b8cee594066b3f9421": {
+    "type": "unsupported",
+    "name": "Affyn"
+  },
+  "0x3b7e1ce09afe2bb3a23919afb65a38e627cfbe97": {
+    "type": "unsupported",
+    "name": "Dragon Soul Token"
+  },
+  "0x3b9db434f08003a89554cdb43b3e0b1f8734bde7": {
+    "type": "unsupported",
+    "name": "Rari Governance Token (PoS)"
+  },
+  "0x3b9e9100db1389c518d47c635d80a90ad4c4f41b": {
+    "type": "unsupported",
+    "name": "FAN"
+  },
+  "0x3bf668fe1ec79a84ca8481cead5dbb30d61cc685": {
+    "type": "unsupported",
+    "name": "teleBTC"
+  },
+  "0x3c205c8b3e02421da82064646788c82f7bd753b9": {
+    "type": "unsupported",
+    "name": "PureFi Token (PoS)"
+  },
+  "0x3c59798620e5fec0ae6df1a19c6454094572ab92": {
+    "type": "unsupported",
+    "name": "Morpheus.Network (PoS)"
+  },
+  "0x3c69d114664d48357d820dbdd121a8071eac99bf": {
+    "type": "unsupported",
+    "name": "GALAXIS Token(PoS)"
+  },
+  "0x3ce1327867077b551ae9a6987bf10c9fd08edce1": {
+    "type": "unsupported",
+    "name": "SwissCheese Token"
+  },
+  "0x3cef98bb43d732e2f285ee605a8158cde967d219": {
+    "type": "unsupported",
+    "name": "Basic Attention Token (PoS)"
+  },
+  "0x3d09f7f5039567564c3655b4814ea4bf63ce9fd3": {
+    "type": "unsupported",
+    "name": "KARMA"
+  },
+  "0x3d1d2afd191b165d140e3e8329e634665ffb0e5e": {
+    "type": "unsupported",
+    "name": "Deri (PoS)"
+  },
+  "0x3d2bd0e15829aa5c362a4144fdf4a1112fa29b5c": {
+    "type": "unsupported",
+    "name": "Bonsai Token"
+  },
+  "0x3e121107f6f22da4911079845a470757af4e1a1b": {
+    "type": "unsupported",
+    "name": "Frax Share (PoS)"
+  },
+  "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380": {
+    "type": "unsupported",
+    "name": "Flower"
+  },
+  "0x3fb83a9a2c4408909c058b0bfe5b4823f54fafe2": {
+    "type": "unsupported",
+    "name": "bitsCrunch Token(PoS)"
+  },
+  "0x40379a439d4f6795b6fc9aa5687db461677a2dba": {
+    "type": "unsupported",
+    "name": "Real USD"
+  },
+  "0x40d9fc77027a281d85de1fa660c887e645ae26c3": {
+    "type": "unsupported",
+    "name": "MetaTrace"
+  },
+  "0x40f97ec376ac1c503e755433bf57f21e3a49f440": {
+    "type": "unsupported",
+    "name": "CarrieVerse Token"
+  },
+  "0x418a89b177b41e24fa50712a1822f6e6e8c629a1": {
+    "type": "unsupported",
+    "name": "iAI Token"
+  },
+  "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e": {
+    "type": "unsupported",
+    "name": "Nexo (PoS)"
+  },
+  "0x4257ea7637c355f81616050cbb6a9b709fd72683": {
+    "type": "unsupported",
+    "name": "Convex Token (PoS)"
+  },
+  "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda": {
+    "type": "unsupported",
+    "name": "Digital Fitness"
+  },
+  "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4": {
+    "type": "unsupported",
+    "name": "Trace Network"
+  },
+  "0x428fb1055f5a0e7a59ec4b50216db1cdf8e16cc5": {
+    "type": "unsupported",
+    "name": "POPKON"
+  },
+  "0x42d61d766b85431666b39b89c43011f24451bff6": {
+    "type": "unsupported",
+    "name": "ParaSwap (PoS)"
+  },
+  "0x42dbbd5ae373fea2fc320f62d44c058522bb3758": {
+    "type": "unsupported",
+    "name": "Memecoin"
+  },
+  "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c": {
+    "type": "unsupported",
+    "name": "KEEP Token (PoS)"
+  },
+  "0x42f6bdcfd82547e89f1069bf375aa60e6c6c063d": {
+    "type": "unsupported",
+    "name": "Civilization (PoS)"
+  },
+  "0x430ef9263e76dae63c84292c3409d61c598e9682": {
+    "type": "unsupported",
+    "name": "PYR Token"
+  },
+  "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+    "type": "unsupported",
+    "name": "USD Coin"
+  },
+  "0x433ccebc95ad458e74d81837db0d4aa27e30e117": {
+    "type": "unsupported",
+    "name": "UDAO"
+  },
+  "0x438b28c5aa5f00a817b7def7ce2fb3d5d1970974": {
+    "type": "unsupported",
+    "name": "Bluzelle Token (PoS)"
+  },
+  "0x43c73b90e0c2a355784dcf0da12f477729b31e77": {
+    "type": "unsupported",
+    "name": "Soil"
+  },
+  "0x43df9c0a1156c96cea98737b511ac89d0e2a1f46": {
+    "type": "unsupported",
+    "name": "GOVI (PoS)"
+  },
+  "0x440017a1b021006d556d7fc06a54c32e42eb745b": {
+    "type": "unsupported",
+    "name": "G@POL"
+  },
+  "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d": {
+    "type": "unsupported",
+    "name": "Forest Knight"
+  },
+  "0x44acd96620b708162af4a90524f29a6839675533": {
+    "type": "unsupported",
+    "name": "TCGCoin (PoS)"
+  },
+  "0x44e3ae622c1570dc6e492adb8de92d01ca923d26": {
+    "type": "unsupported",
+    "name": "Aryze"
+  },
+  "0x4550003152f12014558e5ce025707e4dd841100f": {
+    "type": "unsupported",
+    "name": "Kaizen.Finance"
+  },
+  "0x4597c8a59ab28b36840b82b3a674994a279593d0": {
+    "type": "unsupported",
+    "name": "Circuits of Value V2"
+  },
+  "0x45c27821e80f8789b60fd8b600c73815d34dda6c": {
+    "type": "unsupported",
+    "name": "API3 (PoS)"
+  },
+  "0x463fae8f3c63af7c40e50df3ba28469bf9942f69": {
+    "type": "unsupported",
+    "name": "Sabai Ecoverse Token (FXERC20)"
+  },
+  "0x465b67cb20a7e8bc4c51b4c7da591c1945b41427": {
+    "type": "unsupported",
+    "name": "League of Kingdoms Arena (PoS)"
+  },
+  "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e": {
+    "type": "unsupported",
+    "name": "ARIANEE (PoS)"
+  },
+  "0x47c52f93a359db9f4509005cf982dfc440790561": {
+    "type": "unsupported",
+    "name": "Orbit Bridge Polygon Empower Token"
+  },
+  "0x47dae46d31f31f84336ac120b15efda261d484fb": {
+    "type": "unsupported",
+    "name": "Bund V2.0"
+  },
+  "0x482bc619ee7662759cdc0685b4e78f464da39c73": {
+    "type": "unsupported",
+    "name": "GMO JPY (PoS)"
+  },
+  "0x4837b18a6d7af6159c8665505b90a2ed393255e0": {
+    "type": "unsupported",
+    "name": "Lympid Token"
+  },
+  "0x483dd3425278c1f79f377f1034d9d2cae55648b6": {
+    "type": "unsupported",
+    "name": "CrowdToken"
+  },
+  "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2": {
+    "type": "unsupported",
+    "name": "AllUnity EUR"
+  },
+  "0x4985e0b13554fb521840e893574d3848c10fcc6f": {
+    "type": "unsupported",
+    "name": "Nectar (PoS)"
+  },
+  "0x4987a49c253c38b3259092e9aac10ec0c7ef7542": {
+    "type": "unsupported",
+    "name": "DUST Protocol"
+  },
+  "0x4b4327db1600b8b1440163f667e199cef35385f5": {
+    "type": "unsupported",
+    "name": "Coinbase Wrapped Staked ETH (FXERC20)"
+  },
+  "0x4c3bf0a3de9524af68327d1d2558a3b70d17d42a": {
+    "type": "unsupported",
+    "name": "dYdX (PoS)"
+  },
+  "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8": {
+    "type": "unsupported",
+    "name": "Minato (PoS)"
+  },
+  "0x4d0def42cf57d6f27cd4983042a55dce1c9f853c": {
+    "type": "unsupported",
+    "name": "DexKit (PoS)"
+  },
+  "0x4df071fb2d145be595b767f997c91818694a6ce1": {
+    "type": "unsupported",
+    "name": "MerchDAO (PoS)"
+  },
+  "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8": {
+    "type": "unsupported",
+    "name": "Orderly Network"
+  },
+  "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5": {
+    "type": "unsupported",
+    "name": "OrbitEdge"
+  },
+  "0x4e830f67ec499e69930867f9017aeb5b3f629c73": {
+    "type": "unsupported",
+    "name": "OddzToken"
+  },
+  "0x4e8dc2149eac3f3def36b1c281ea466338249371": {
+    "type": "unsupported",
+    "name": "Injective Token (PoS)"
+  },
+  "0x4ec203dd0699fac6adaf483cdd2519bc05d2c573": {
+    "type": "unsupported",
+    "name": "Cobak Token (PoS)"
+  },
+  "0x4ed141110f6eeeaba9a1df36d8c26f684d2475dc": {
+    "type": "unsupported",
+    "name": "BRZ Token"
+  },
+  "0x4f7cc8ef14f3dc76ee2fb60028749e1b61cea162": {
+    "type": "unsupported",
+    "name": "BitBoard"
+  },
+  "0x4f800ba0dff2980c5006c6816f7aa3de63ce8087": {
+    "type": "unsupported",
+    "name": "Brilliantcrypto Token"
+  },
+  "0x4fafad147c8cd0e52f83830484d164e960bdc6c3": {
+    "type": "unsupported",
+    "name": "Qawalla Token (PoS)"
+  },
+  "0x4fb71290ac171e1d144f7221d882becac7196eb5": {
+    "type": "unsupported",
+    "name": "BiLira (PoS)"
+  },
+  "0x50858d870faf55da2fd90fb6df7c34b5648305c6": {
+    "type": "unsupported",
+    "name": "ALICE (PoS)"
+  },
+  "0x50b728d8d964fd00c2d0aad81718b71311fef68a": {
+    "type": "unsupported",
+    "name": "Synthetix Network Token (PoS)"
+  },
+  "0x50bcbc40306230713239ae1bddd5eefeeaa273dc": {
+    "type": "unsupported",
+    "name": "ASIA COIN (PoS)"
+  },
+  "0x51540d15957bdc0fdb87d32616c8d658d59f77c6": {
+    "type": "unsupported",
+    "name": "Winter Token (PoS)"
+  },
+  "0x5198e7cc1640049de37d1bd10b03fa5a3afda120": {
+    "type": "unsupported",
+    "name": "Kaby Arena"
+  },
+  "0x51de72b17c7bd12e9e6d69eb506a669eb6b5249e": {
+    "type": "unsupported",
+    "name": "Waves Ducks"
+  },
+  "0x52828daa48c1a9a06f37500882b42daf0be04c3b": {
+    "type": "unsupported",
+    "name": "cNGN"
+  },
+  "0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4": {
+    "type": "unsupported",
+    "name": "Backed IBTA $ Treasury Bond 1-3yr"
+  },
+  "0x5314ba045a459f63906aa7c76d9f337dcb7d6995": {
+    "type": "unsupported",
+    "name": "Fodl (PoS)"
+  },
+  "0x534f39c5f4df9cb13e16b24ca07c7c8c0e2eadb7": {
+    "type": "unsupported",
+    "name": "Safe Haven Token"
+  },
+  "0x53aec293212e3b792563bc16f1be26956adb12e9": {
+    "type": "unsupported",
+    "name": "Keep3rV1 (PoS)"
+  },
+  "0x53df32548214f51821cf1fe4368109ac5ddea1ff": {
+    "type": "unsupported",
+    "name": "Sponge"
+  },
+  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+    "type": "unsupported",
+    "name": "ChainLink Token"
+  },
+  "0x552f4d98f338fbbd3175ddf38ce1260f403bbba2": {
+    "type": "unsupported",
+    "name": "Modern Innovation Network Token"
+  },
+  "0x553d3d295e0f695b9228246232edf400ed3560b5": {
+    "type": "unsupported",
+    "name": "Paxos Gold (PoS)"
+  },
+  "0x554cd6bdd03214b10aafa3e0d4d42de0c5d2937b": {
+    "type": "unsupported",
+    "name": "Rupiah Token"
+  },
+  "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5": {
+    "type": "unsupported",
+    "name": "0x Protocol Token (PoS)"
+  },
+  "0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26": {
+    "type": "unsupported",
+    "name": "Ethereum Meta"
+  },
+  "0x5667dcc0ab74d1b1355c3b2061893399331b57e2": {
+    "type": "unsupported",
+    "name": "Terra Virtua Kolect (PoS)"
+  },
+  "0x5742fe477b2afed92c25d092418bac06cd076cea": {
+    "type": "unsupported",
+    "name": "FURI"
+  },
+  "0x57999936fc9a9ec0751a8d146cce11901be8bed0": {
+    "type": "unsupported",
+    "name": "Virtuswap Token (FXERC20)"
+  },
+  "0x58001cc1a9e17a20935079ab40b1b8f4fc19efd1": {
+    "type": "unsupported",
+    "name": "Ethereum Push Notification Service (PoS)"
+  },
+  "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8": {
+    "type": "unsupported",
+    "name": "Everclear"
+  },
+  "0x58d70ef99a1d22e1a8f8f0e8f27c1babcf8464f3": {
+    "type": "unsupported",
+    "name": "META PLUS TOKEN"
+  },
+  "0x594c984e3318e91313f881b021a0c4203ff5e59f": {
+    "type": "unsupported",
+    "name": "Chroma (PoS)"
+  },
+  "0x59536e645e5f394045049c38ea98ae45b4b0ded2": {
+    "type": "unsupported",
+    "name": "Dongdaemun Token"
+  },
+  "0x598e49f01befeb1753737934a5b11fea9119c796": {
+    "type": "unsupported",
+    "name": "Adshares (PoS)"
+  },
+  "0x5b4cf2c120a9702225814e18543ee658c5f8631e": {
+    "type": "unsupported",
+    "name": "UniLend Finance Token (PoS)"
+  },
+  "0x5b77bca482bd3e7958b1103d123888efccdaf803": {
+    "type": "unsupported",
+    "name": "TrueFi (PoS)"
+  },
+  "0x5b901182b9b2820a713ff5d88519999c550d40e8": {
+    "type": "unsupported",
+    "name": "LFIT"
+  },
+  "0x5c15cdb9d43824dca67fceb1201e5abebe0b2cbc": {
+    "type": "unsupported",
+    "name": "CryptoFarmers"
+  },
+  "0x5d066d022ede10efa2717ed3d79f22f949f8c175": {
+    "type": "unsupported",
+    "name": "CASH"
+  },
+  "0x5d301750cc9719f00872e33ee81f9c37aba242f4": {
+    "type": "unsupported",
+    "name": "Revolt 2 Earn"
+  },
+  "0x5d49c278340655b56609fdf8976eb0612af3a0c3": {
+    "type": "unsupported",
+    "name": "Wrapped BTC"
+  },
+  "0x5dcc7feeefef110419549a4417313876d33d354c": {
+    "type": "unsupported",
+    "name": "Clearpool (PoS)"
+  },
+  "0x5e0294af1732498c77f8db015a2d52a76298542b": {
+    "type": "unsupported",
+    "name": "Orion Money Token"
+  },
+  "0x5eb8d998371971d01954205c7afe90a7af6a95ac": {
+    "type": "unsupported",
+    "name": "Audius (PoS)"
+  },
+  "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc": {
+    "type": "unsupported",
+    "name": "ZED RUN"
+  },
+  "0x5ecba59dacc1adc5bdea35f38a732823fc3de977": {
+    "type": "unsupported",
+    "name": "Ampleforth Governance (PoS)"
+  },
+  "0x5f0197ba06860dac7e31258bdf749f92b6a636d4": {
+    "type": "unsupported",
+    "name": "Flare Token"
+  },
+  "0x5f2f8818002dc64753daedf4a6cb2ccb757cd220": {
+    "type": "unsupported",
+    "name": "Wisdomise"
+  },
+  "0x5f32abeebd3c2fac1e7459a27e1ae9f1c16cccca": {
+    "type": "unsupported",
+    "name": "FARCANA"
+  },
+  "0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
+    "type": "unsupported",
+    "name": "Graph Token (PoS)"
+  },
+  "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8": {
+    "type": "unsupported",
+    "name": "Gnosis Token (PoS)"
+  },
+  "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747": {
+    "type": "unsupported",
+    "name": "izumi Token"
+  },
+  "0x60d55f02a771d515e077c9c2403a1ef324885cec": {
+    "type": "unsupported",
+    "name": "Aave Matic Market USDT"
+  },
+  "0x60ea918fc64360269da4efbda11d8fc6514617c6": {
+    "type": "unsupported",
+    "name": "SUKU (PoS)"
+  },
+  "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417": {
+    "type": "unsupported",
+    "name": "USD DWIN"
+  },
+  "0x6109cb051c5c64093830121ed76272ab04bbdd7c": {
+    "type": "unsupported",
+    "name": "Prosper"
+  },
+  "0x61299774020da444af134c82fa83e3810b309991": {
+    "type": "unsupported",
+    "name": "Render Token"
+  },
+  "0x612d833c0c7a54cdfbe9a4328b6d658020563ec0": {
+    "type": "unsupported",
+    "name": "Pine Token (FXERC20)"
+  },
+  "0x613a489785c95afeb3b404cc41565ccff107b6e0": {
+    "type": "unsupported",
+    "name": "RadioShack Token"
+  },
+  "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff": {
+    "type": "unsupported",
+    "name": "Orbs (PoS)"
+  },
+  "0x61aee582896064ecd5d85d66a32ddeb5574a699d": {
+    "type": "unsupported",
+    "name": "HYVE"
+  },
+  "0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b": {
+    "type": "unsupported",
+    "name": "Axie Infinity Shard (PoS)"
+  },
+  "0x61bf130d973d59c69d3227f1668d534d83119860": {
+    "type": "unsupported",
+    "name": "Trakx Token"
+  },
+  "0x61f95bd637e3034133335c1baa0148e518d438ad": {
+    "type": "unsupported",
+    "name": "MetaShooter"
+  },
+  "0x62414d03084eeb269e18c970a21f45d2967f0170": {
+    "type": "unsupported",
+    "name": "OMGToken (PoS)"
+  },
+  "0x62a872d9977db171d9e213a5dc2b782e72ca0033": {
+    "type": "unsupported",
+    "name": "NEUY (PoS)"
+  },
+  "0x62f594339830b90ae4c084ae7d223ffafd9658a7": {
+    "type": "unsupported",
+    "name": "Sphere Finance"
+  },
+  "0x63400d9586873eb03c84f76755d26ef2a9a2abef": {
+    "type": "unsupported",
+    "name": "Big Time(PoS)"
+  },
+  "0x638df98ad8069a15569da5a6b01181804c47e34c": {
+    "type": "unsupported",
+    "name": "DAFI Token (PoS)"
+  },
+  "0x6396252377f54ad33cff9131708da075b21d9b88": {
+    "type": "unsupported",
+    "name": "NFTBOOKS"
+  },
+  "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+    "type": "unsupported",
+    "name": "Wrapped Frax"
+  },
+  "0x6483de4a2c76a38f288c4922fe2f507b2322ef80": {
+    "type": "unsupported",
+    "name": "Larissa"
+  },
+  "0x649a2da7b28e0d54c13d5eff95d3a660652742cc": {
+    "type": "unsupported",
+    "name": "IDRX"
+  },
+  "0x64ca1571d1476b7a21c5aaf9f1a750a193a103c0": {
+    "type": "unsupported",
+    "name": "Bondly (PoS)"
+  },
+  "0x65517425ac3ce259a34400bb67ceb39ff3ddc0bd": {
+    "type": "unsupported",
+    "name": "Num Finance ARS"
+  },
+  "0x6563c1244820cfbd6ca8820fbdf0f2847363f733": {
+    "type": "unsupported",
+    "name": "Reputation (PoS)"
+  },
+  "0x658cda444ac43b0a7da13d638700931319b64014": {
+    "type": "unsupported",
+    "name": "SMARTMALL TOKEN"
+  },
+  "0x65a05db8322701724c197af82c9cae41195b0aa8": {
+    "type": "unsupported",
+    "name": "FOX (PoS)"
+  },
+  "0x66dc5a08091d1968e08c16aa5b27bac8398b02be": {
+    "type": "unsupported",
+    "name": "Civic (PoS)"
+  },
+  "0x66efb7cc647e0efab02eba4316a2d2941193f6b3": {
+    "type": "unsupported",
+    "name": "LoomToken (PoS)"
+  },
+  "0x6749441fdc8650b5b5a854ed255c82ef361f1596": {
+    "type": "unsupported",
+    "name": "Luchadores.io LUCHA Token"
+  },
+  "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6": {
+    "type": "unsupported",
+    "name": "Giddy Token"
+  },
+  "0x683565196c3eab450003c964d4bad1fd3068d4cc": {
+    "type": "unsupported",
+    "name": "Verida"
+  },
+  "0x6863bd30c9e313b264657b107352ba246f8af8e0": {
+    "type": "unsupported",
+    "name": "BlackPool Token (PoS)"
+  },
+  "0x6899face15c14348e1759371049ab64a3a06bfa6": {
+    "type": "unsupported",
+    "name": "SmarDex Token"
+  },
+  "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309": {
+    "type": "unsupported",
+    "name": "Snook"
+  },
+  "0x68ee0d0aad9e1984af85ca224117e4d20eaf68be": {
+    "type": "unsupported",
+    "name": "Royale"
+  },
+  "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c": {
+    "type": "unsupported",
+    "name": "SMB Token"
+  },
+  "0x692597b009d13c4049a947cab2239b7d6517875f": {
+    "type": "unsupported",
+    "name": "Wrapped UST Token (PoS)"
+  },
+  "0x692ac1e363ae34b6b489148152b12e2785a3d8d6": {
+    "type": "unsupported",
+    "name": "Polytrade (PoS)"
+  },
+  "0x692c44990e4f408ba0917f5c78a83160c1557237": {
+    "type": "unsupported",
+    "name": "Thales DAO Token (PoS)"
+  },
+  "0x695fc8b80f344411f34bdbcb4e621aa69ada384b": {
+    "type": "unsupported",
+    "name": "Nitro (PoS)"
+  },
+  "0x6968105460f67c3bf751be7c15f92f5286fd0ce5": {
+    "type": "unsupported",
+    "name": "Monavale"
+  },
+  "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
+    "type": "unsupported",
+    "name": "LayerZero"
+  },
+  "0x6a6bd53d677f8632631662c48bd47b1d4d6524ee": {
+    "type": "unsupported",
+    "name": "Adventure Gold (PoS)"
+  },
+  "0x6a8ec2d9bfbdd20a7f5a4e89d640f7e7ceba4499": {
+    "type": "unsupported",
+    "name": "MSQUARE"
+  },
+  "0x6ab4e20f36ca48b61ecd66c0450fdf665fa130be": {
+    "type": "unsupported",
+    "name": "Dolz (PoS)"
+  },
+  "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5": {
+    "type": "unsupported",
+    "name": "Swipe (PoS)"
+  },
+  "0x6aca77cf3bab0c4e8210a09b57b07854a995289a": {
+    "type": "unsupported",
+    "name": "Meeds Token (PoS)"
+  },
+  "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c": {
+    "type": "unsupported",
+    "name": "JPY Coin (PoS)"
+  },
+  "0x6b021b3f68491974be6d4009fee61a4e3c708fd6": {
+    "type": "unsupported",
+    "name": "Fuse Token"
+  },
+  "0x6c0ab120dbd11ba701aff6748568311668f63fe0": {
+    "type": "unsupported",
+    "name": "APWine Token (PoS)"
+  },
+  "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17": {
+    "type": "unsupported",
+    "name": "KROWN"
+  },
+  "0x6ccb663dad597058da28b58974e8bdb81323dd09": {
+    "type": "unsupported",
+    "name": "BlockCentral Token"
+  },
+  "0x6ccbf3627b2c83afef05bf2f035e7f7b210fe30d": {
+    "type": "unsupported",
+    "name": "Hopr (PoS)"
+  },
+  "0x6ddb31002abc64e1479fc439692f7ea061e78165": {
+    "type": "unsupported",
+    "name": "Furucombo (PoS)"
+  },
+  "0x6eaea1ed457e06f8cf6ee7adf34e621844c3b0fc": {
+    "type": "unsupported",
+    "name": "NESS (FXERC20)"
+  },
+  "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e": {
+    "type": "unsupported",
+    "name": "Paxos Standard (PoS)"
+  },
+  "0x6f7c932e7684666c9fd1d44527765433e01ff61d": {
+    "type": "unsupported",
+    "name": "MAKER (PoS)"
+  },
+  "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec": {
+    "type": "unsupported",
+    "name": "SHIBA INU (PoS)"
+  },
+  "0x6fb54ffe60386ac33b722be13d2549dd87bf63af": {
+    "type": "unsupported",
+    "name": "Polinate (PoS)"
+  },
+  "0x708383ae0e80e75377d664e4d6344404dede119a": {
+    "type": "unsupported",
+    "name": "Earthmeta"
+  },
+  "0x709a4b6217584188ddb93c82f5d716d969acce1c": {
+    "type": "unsupported",
+    "name": "Hanu Yokia (PoS)"
+  },
+  "0x70d59baa5ab360b2723dd561415bdbcd4435e1c4": {
+    "type": "unsupported",
+    "name": "Spring Token (PoS)"
+  },
+  "0x70e29b7e036b14d496431b77e0b6eb0008be6165": {
+    "type": "unsupported",
+    "name": "TSUBASA Governance Token"
+  },
+  "0x714db550b574b3e927af3d93e26127d15721d4c2": {
+    "type": "unsupported",
+    "name": "GreenMetaverseToken"
+  },
+  "0x71b821aa52a49f32eed535fca6eb5aa130085978": {
+    "type": "unsupported",
+    "name": "0xBitcoin Token"
+  },
+  "0x7205705771547cf79201111b4bd8aaf29467b9ec": {
+    "type": "unsupported",
+    "name": "Rocket Pool (PoS)"
+  },
+  "0x723b17718289a91af252d616de2c77944962d122": {
+    "type": "unsupported",
+    "name": "GAIA Everworld"
+  },
+  "0x7272a5a8bd39f204bf773e8b74bb01e31681ad1d": {
+    "type": "unsupported",
+    "name": "Open Meta City(PoS)"
+  },
+  "0x72928d5436ff65e57f72d5566dcd3baedc649a88": {
+    "type": "unsupported",
+    "name": "humanDAO (PoS)"
+  },
+  "0x72a5a58f79ffc2102227b92faeba93b169a3a3f1": {
+    "type": "unsupported",
+    "name": "finance.vote Token"
+  },
+  "0x72b9f88e822cf08b031c2206612b025a82fb303c": {
+    "type": "unsupported",
+    "name": "Day By Day Token (PoS)"
+  },
+  "0x72d6066f486bd0052eefb9114b66ae40e0a6031a": {
+    "type": "unsupported",
+    "name": "Wazirx (PoS)"
+  },
+  "0x7348565f0a5077252d310392c3cecd8db87a7704": {
+    "type": "unsupported",
+    "name": "Cryptopia Token"
+  },
+  "0x73580a2416a57f1c4b6391dba688a9e4f7dbece0": {
+    "type": "unsupported",
+    "name": "Marlin POND (PoS)"
+  },
+  "0x73b29199a8e4c146e893eb95f18dac41738a88c6": {
+    "type": "unsupported",
+    "name": "Bag(PoS)"
+  },
+  "0x74dd45dd579cad749f9381d6227e7e02277c944b": {
+    "type": "unsupported",
+    "name": "$CULO"
+  },
+  "0x7583feddbcefa813dc18259940f76a02710a8905": {
+    "type": "unsupported",
+    "name": "Fetch (PoS)"
+  },
+  "0x75c551ade6762b5ad4ebd50dca4238c9de4d357d": {
+    "type": "unsupported",
+    "name": "Gamex Coin"
+  },
+  "0x762b56f3e36a4be65763056d6464668b4c7b2f49": {
+    "type": "unsupported",
+    "name": "PUGGY Coin"
+  },
+  "0x765af38a6e8fdcb1efef8a3dd2213efd3090b00f": {
+    "type": "unsupported",
+    "name": "Vendetta"
+  },
+  "0x76b8d57e5ac6afac5d415a054453d1dd2c3c0094": {
+    "type": "unsupported",
+    "name": "Rally (PoS)"
+  },
+  "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64": {
+    "type": "unsupported",
+    "name": "CrystalToken"
+  },
+  "0x77f56cf9365955486b12c4816992388ee8606f0e": {
+    "type": "unsupported",
+    "name": "Coin98"
+  },
+  "0x780053837ce2ceead2a90d9151aa21fc89ed49c2": {
+    "type": "unsupported",
+    "name": "Rarible (PoS)"
+  },
+  "0x7844f79fc841e4f92d974c417031c76f8578c2d5": {
+    "type": "unsupported",
+    "name": "Open Ecosystem Token(PoS)"
+  },
+  "0x784665471bb8b945b57a76a9200b109ee214e789": {
+    "type": "unsupported",
+    "name": "Krasnalcoin"
+  },
+  "0x79375c41d88f839f551457145066096c5c8944bc": {
+    "type": "unsupported",
+    "name": "SocialGood (PoS)"
+  },
+  "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed": {
+    "type": "unsupported",
+    "name": "Tegro"
+  },
+  "0x7a7b94f18ef6ad056cda648588181cda84800f94": {
+    "type": "unsupported",
+    "name": "StaFi (PoS)"
+  },
+  "0x7abe9edf5c544a04da83e9110cf46dbc4759170c": {
+    "type": "unsupported",
+    "name": "WPAY"
+  },
+  "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb": {
+    "type": "unsupported",
+    "name": "Moonflow"
+  },
+  "0x7b12598e3616261df1c05ec28de0d2fb10c1f206": {
+    "type": "unsupported",
+    "name": "COCA"
+  },
+  "0x7b2d2732dccc1830aa63241dc13649b7861d9b54": {
+    "type": "unsupported",
+    "name": "ZENY"
+  },
+  "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5": {
+    "type": "unsupported",
+    "name": "Crypto Trading Fund"
+  },
+  "0x7b43e83a5c5d60a7b8886b4205ace88d1f4e2803": {
+    "type": "unsupported",
+    "name": "Paparazzi Token"
+  },
+  "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a": {
+    "type": "unsupported",
+    "name": "Wrapped AVAX"
+  },
+  "0x7bebd226154e865954a87650faefa8f485d36081": {
+    "type": "unsupported",
+    "name": "ZigCoin"
+  },
+  "0x7ca601b0a7de5c086f265d76237b1d8a8b3194dc": {
+    "type": "unsupported",
+    "name": "Lecksis Token"
+  },
+  "0x7cdc0421469398e0f3aa8890693d86c840ac8931": {
+    "type": "unsupported",
+    "name": "DokiDokiAzuki"
+  },
+  "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+    "type": "unsupported",
+    "name": "Wrapped Ether"
+  },
+  "0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c": {
+    "type": "unsupported",
+    "name": "Pluton (PoS)"
+  },
+  "0x7e4c577ca35913af564ee2a24d882a4946ec492b": {
+    "type": "unsupported",
+    "name": "MoonEdge"
+  },
+  "0x7e7737c40878e720b32e7bc9cd096259f876d69f": {
+    "type": "unsupported",
+    "name": "Catheon Gaming"
+  },
+  "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8": {
+    "type": "unsupported",
+    "name": "YfDAI.finance (PoS)"
+  },
+  "0x7ec26842f195c852fa843bb9f6d8b583a274a157": {
+    "type": "unsupported",
+    "name": "Enjin Coin (PoS)"
+  },
+  "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf": {
+    "type": "unsupported",
+    "name": "Orbit Bridge Polygon AUTOv2"
+  },
+  "0x7f792db54b0e580cdc755178443f0430cf799aca": {
+    "type": "unsupported",
+    "name": "Volt Inu"
+  },
+  "0x7fbc10850cae055b27039af31bd258430e714c62": {
+    "type": "unsupported",
+    "name": "Unibright (PoS)"
+  },
+  "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0": {
+    "type": "unsupported",
+    "name": "Vana"
+  },
+  "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+    "type": "unsupported",
+    "name": "Frax USD"
+  },
+  "0x8105f88e77a5d102099bf73db4469d3f1e3b0cd6": {
+    "type": "unsupported",
+    "name": "JennyCoToken"
+  },
+  "0x8226ac9edb26ff16da19151042a8ba3bb2cc237f": {
+    "type": "unsupported",
+    "name": "EscoinToken"
+  },
+  "0x82362ec182db3cf7829014bc61e9be8a2e82868a": {
+    "type": "unsupported",
+    "name": "Meshswap Protocol"
+  },
+  "0x823cd4264c1b951c9209ad0deaea9988fe8429bf": {
+    "type": "unsupported",
+    "name": "Matic Aave interest bearing AAVE"
+  },
+  "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1": {
+    "type": "unsupported",
+    "name": "Yield Guild Games Token (PoS)"
+  },
+  "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689": {
+    "type": "unsupported",
+    "name": "Wicrypt Network Token"
+  },
+  "0x82dcf1df86ada26b2dcd9ba6334cedb8c2448e9e": {
+    "type": "unsupported",
+    "name": "aleph.im v2 (PoS)"
+  },
+  "0x82ffdfd1d8699e8886a4e77cefa9dd9710a7fefd": {
+    "type": "unsupported",
+    "name": "Propy (PoS)"
+  },
+  "0x831753dd7087cac61ab5644b308642cc1c33dc13": {
+    "type": "unsupported",
+    "name": "Quickswap"
+  },
+  "0x8349314651ede274f8c5fef01aa65ff8da75e57c": {
+    "type": "unsupported",
+    "name": "GO GAME TOKEN"
+  },
+  "0x834df4c1d8f51be24322e39e4766697be015512f": {
+    "type": "unsupported",
+    "name": "Etherfuse CETES"
+  },
+  "0x838c9634de6590b96aeadc4bc6db5c28fd17e3c2": {
+    "type": "unsupported",
+    "name": "Matr1x Fire Token"
+  },
+  "0x839f1a22a59eaaf26c85958712ab32f80fea23d9": {
+    "type": "unsupported",
+    "name": "Axion"
+  },
+  "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79": {
+    "type": "unsupported",
+    "name": "SportX (PoS)"
+  },
+  "0x84342e932797fc62814189f01f0fb05f52519708": {
+    "type": "unsupported",
+    "name": "Neighbourhoods Token"
+  },
+  "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1": {
+    "type": "unsupported",
+    "name": "LoopringCoin V2 (PoS)"
+  },
+  "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c": {
+    "type": "unsupported",
+    "name": "(PoS) Compound"
+  },
+  "0x853b41823905ab4d63558542b0f06748a5e345fe": {
+    "type": "unsupported",
+    "name": "FLOKI (PoS)"
+  },
+  "0x85955046df4668e1dd369d2de9f3aeb98dd2a369": {
+    "type": "unsupported",
+    "name": "DefiPulse Index (PoS)"
+  },
+  "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242": {
+    "type": "unsupported",
+    "name": "Bazaars"
+  },
+  "0x863d6074afaf02d9d41a5f8ea83278df7089aa86": {
+    "type": "unsupported",
+    "name": "Skill Token"
+  },
+  "0x8676815789211e799a6dc86d02748adf9cf86836": {
+    "type": "unsupported",
+    "name": "Tribe (PoS)"
+  },
+  "0x8689aedf32d35aa9a90849f59ba6841c389e6cf9": {
+    "type": "unsupported",
+    "name": "Xpedition"
+  },
+  "0x874e178a2f3f3f9d34db862453cd756e7eab0381": {
+    "type": "unsupported",
+    "name": "Gravity Finance"
+  },
+  "0x87847703d4bb4fcd42db887ffdcb94496e77e3ab": {
+    "type": "unsupported",
+    "name": "Hypersign Identity Token (PoS)"
+  },
+  "0x8829d36f6680be993f5444198e8cbfa8f02ede96": {
+    "type": "unsupported",
+    "name": "TAIKAI Token (FXERC20)"
+  },
+  "0x8839e639f210b80ffea73aedf51baed8dac04499": {
+    "type": "unsupported",
+    "name": "DecentraWeb (PoS)"
+  },
+  "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51": {
+    "type": "unsupported",
+    "name": "EURØP"
+  },
+  "0x88c949b4eb85a90071f2c0bef861bddee1a7479d": {
+    "type": "unsupported",
+    "name": "SHEESHA POLYGON"
+  },
+  "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1": {
+    "type": "unsupported",
+    "name": "Altitude"
+  },
+  "0x8a037dbca8134ffc72c362e394e35e0cad618f85": {
+    "type": "unsupported",
+    "name": "Euro Coin (PoS)"
+  },
+  "0x8a953cfe442c5e8855cc6c61b1293fa648bae472": {
+    "type": "unsupported",
+    "name": "PolyDoge"
+  },
+  "0x8ab2fec94d17ae69fb90e7c773f2c85ed1802c01": {
+    "type": "unsupported",
+    "name": "LQTY (PoS)"
+  },
+  "0x8ad3d3e6b1b7b65138bd508e48330b544539b2c3": {
+    "type": "unsupported",
+    "name": "Kinetix Finance"
+  },
+  "0x8b78927048de67b9e8c8f834359f15c3822ed871": {
+    "type": "unsupported",
+    "name": "LegendsOfElysium"
+  },
+  "0x8bb30e0e67b11b978a5040144c410e1ccddcba30": {
+    "type": "unsupported",
+    "name": "0chain (PoS)"
+  },
+  "0x8c208bc2a808a088a78398fed8f2640cab0b6edb": {
+    "type": "unsupported",
+    "name": "Cryptex (PoS)"
+  },
+  "0x8c3441e7b9aa8a30a542dde048dd067de2802e9b": {
+    "type": "unsupported",
+    "name": "WINK"
+  },
+  "0x8c92e38eca8210f4fcbf17f0951b198dd7668292": {
+    "type": "unsupported",
+    "name": "dHedge DAO Token (PoS)"
+  },
+  "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b": {
+    "type": "unsupported",
+    "name": "CosplayToken (PoS)"
+  },
+  "0x8dc302e2141da59c934d900886dbf1518fd92cd4": {
+    "type": "unsupported",
+    "name": "PolkastarterToken (PoS)"
+  },
+  "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": {
+    "type": "unsupported",
+    "name": "VANRY"
+  },
+  "0x8e677ca17065ed74675bc27bcabadb7eef10a292": {
+    "type": "unsupported",
+    "name": "Rain Coin"
+  },
+  "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41": {
+    "type": "unsupported",
+    "name": "Tixl Token"
+  },
+  "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19": {
+    "type": "unsupported",
+    "name": "Pleasure Coin"
+  },
+  "0x8f36cc333f55b09bb71091409a3d7ade399e3b1c": {
+    "type": "unsupported",
+    "name": "Cherry Token"
+  },
+  "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+    "type": "unsupported",
+    "name": "(PoS) Dai Stablecoin"
+  },
+  "0x8f9e8e833a69aa467e42c46cca640da84dd4585f": {
+    "type": "unsupported",
+    "name": "NFT Champions"
+  },
+  "0x90bb6feb70a9a43cfaaa615f856ba309fd759a90": {
+    "type": "unsupported",
+    "name": "Wrapped Centrifuge (PoS)"
+  },
+  "0x90f3edc7d5298918f7bb51694134b07356f7d0c7": {
+    "type": "unsupported",
+    "name": "DEFI HUNTERS DAO Token"
+  },
+  "0x91a4635f620766145c099e15889bd2766906a559": {
+    "type": "unsupported",
+    "name": "CelerToken (PoS)"
+  },
+  "0x91c5a5488c0decde1eacd8a4f10e0942fb925067": {
+    "type": "unsupported",
+    "name": "Auditchain"
+  },
+  "0x91c89a94567980f0e9723b487b0bed586ee96aa7": {
+    "type": "unsupported",
+    "name": "Biconomy Token"
+  },
+  "0x91e7e32c710661c44ae44d10aa86135d91c3ed65": {
+    "type": "unsupported",
+    "name": "WrappedPeercoin"
+  },
+  "0x91f3b9366801c1fca6184c3bd99d5ab0c43a9033": {
+    "type": "unsupported",
+    "name": "IconX World"
+  },
+  "0x92868a5255c628da08f550a858a802f5351c5223": {
+    "type": "unsupported",
+    "name": "Cross-Chain Bridge Token"
+  },
+  "0x9377eeb7419486fd4d485671d50baa4bf77c2222": {
+    "type": "unsupported",
+    "name": "Parsiq (PoS)"
+  },
+  "0x93b0ff1c8828f6eb039d345ff681ed735086d925": {
+    "type": "unsupported",
+    "name": "Covalent Query Token (PoS)"
+  },
+  "0x9417669fbf23357d2774e9d421307bd5ea1006d2": {
+    "type": "unsupported",
+    "name": "Tether USD"
+  },
+  "0x94195b2b2b5e772aec57d98c55a57dbbfe05b0fc": {
+    "type": "unsupported",
+    "name": "WCrotch"
+  },
+  "0x94615302bcb36309371ea7454f3e99a4002105de": {
+    "type": "unsupported",
+    "name": "Nereus Token"
+  },
+  "0x949185d3be66775ea648f4a306740ea9eff9c567": {
+    "type": "unsupported",
+    "name": "YELToken"
+  },
+  "0x94b959c93761835f634b8d6e655070c58e2caa12": {
+    "type": "unsupported",
+    "name": "MetaHub Finance"
+  },
+  "0x950e1561b7a7deb1a32a6419fd435410daf851b0": {
+    "type": "unsupported",
+    "name": "Decentralized Universal Basic Income"
+  },
+  "0x954aec663b893d81b4c8dbe1a0544491fd63fa77": {
+    "type": "unsupported",
+    "name": "EDOM"
+  },
+  "0x958d208cdf087843e9ad98d23823d32e17d723a1": {
+    "type": "unsupported",
+    "name": "Dragon QUICK"
+  },
+  "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e": {
+    "type": "unsupported",
+    "name": "M2 Global Wealth Limited(PoS)"
+  },
+  "0x95c300e7740d2a88a44124b424bfc1cb2f9c3b89": {
+    "type": "unsupported",
+    "name": "Alchemix (PoS)"
+  },
+  "0x95e376390f472fcaa21995169e11d523954b3bbb": {
+    "type": "unsupported",
+    "name": "LiraT"
+  },
+  "0x9719d867a500ef117cc201206b8ab51e794d3f82": {
+    "type": "unsupported",
+    "name": "Matic Aave interest bearing USDC"
+  },
+  "0x972999c58bbce63a2e398d4ed3bde414b8349eb3": {
+    "type": "unsupported",
+    "name": "Purpose"
+  },
+  "0x9880e3dda13c8e7d4804691a45160102d31f6060": {
+    "type": "unsupported",
+    "name": "Orchid (PoS)"
+  },
+  "0x98965474ecbec2f532f1f780ee37b0b05f77ca55": {
+    "type": "unsupported",
+    "name": "SUPER TRUST"
+  },
+  "0x99083d1b9c6744c71d0cf70b8965faca37684527": {
+    "type": "unsupported",
+    "name": "France REV Finance"
+  },
+  "0x993f2cafe9dbe525243f4a78bebc69dac8d36000": {
+    "type": "unsupported",
+    "name": "DIAToken (PoS)"
+  },
+  "0x9a6a40cdf21a0af417f1b815223fd92c85636c58": {
+    "type": "unsupported",
+    "name": "BSKT"
+  },
+  "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
+    "type": "unsupported",
+    "name": "Balancer (PoS)"
+  },
+  "0x9b3b0703d392321ad24338ff1f846650437a43c9": {
+    "type": "unsupported",
+    "name": "Boson Token (PoS)"
+  },
+  "0x9b765735c82bb00085e9dbf194f20e3fa754258e": {
+    "type": "unsupported",
+    "name": "Carnomaly"
+  },
+  "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f": {
+    "type": "unsupported",
+    "name": "Darwinia (PoS)"
+  },
+  "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f": {
+    "type": "unsupported",
+    "name": "1Inch (PoS)"
+  },
+  "0x9c6605eeb66bd05858e0cb5204432aa6c7d0fa24": {
+    "type": "unsupported",
+    "name": "BITZ"
+  },
+  "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f": {
+    "type": "unsupported",
+    "name": "Must"
+  },
+  "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39": {
+    "type": "unsupported",
+    "name": "The SporkDAO Token (PoS)"
+  },
+  "0x9cb74c8032b007466865f060ad2c46145d45553d": {
+    "type": "unsupported",
+    "name": "IDEX Token (PoS)"
+  },
+  "0x9cd6746665d9557e1b9a775819625711d0693439": {
+    "type": "unsupported",
+    "name": "LUNA"
+  },
+  "0x9dbfc1cbf7a1e711503a29b4b5f9130ebeccac96": {
+    "type": "unsupported",
+    "name": "UpOnly"
+  },
+  "0x9e20461bc2c4c980f62f1b279d71734207a6a356": {
+    "type": "unsupported",
+    "name": "OmniCat"
+  },
+  "0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf": {
+    "type": "unsupported",
+    "name": "Stronghands Finance"
+  },
+  "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1": {
+    "type": "unsupported",
+    "name": "Forta"
+  },
+  "0xa041544fe2be56cce31ebb69102b965e06aace80": {
+    "type": "unsupported",
+    "name": "BarnBridge Governance Token (PoS)"
+  },
+  "0xa0cb0ce7c6d93a7ebd72952feb4407dddee8a194": {
+    "type": "unsupported",
+    "name": "ShibaKen.Finance"
+  },
+  "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639": {
+    "type": "unsupported",
+    "name": "DSLA (PoS)"
+  },
+  "0xa1428174f516f527fafdd146b883bb4428682737": {
+    "type": "unsupported",
+    "name": "SuperFarm (PoS)"
+  },
+  "0xa1a39558718d6fa57c699dc45981e5a1b2e25d08": {
+    "type": "unsupported",
+    "name": "Gini"
+  },
+  "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4": {
+    "type": "unsupported",
+    "name": "(PoS) Decentraland MANA"
+  },
+  "0xa1fd25f9d59768dfaa376b25a46df2ab2729fb83": {
+    "type": "unsupported",
+    "name": "5MC"
+  },
+  "0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c": {
+    "type": "unsupported",
+    "name": "Fear NFTs (PoS)"
+  },
+  "0xa34c5e0abe843e10461e2c9586ea03e55dbcc495": {
+    "type": "unsupported",
+    "name": "Backed NVIDIA Corp"
+  },
+  "0xa380c0b01ad15c8cf6b46890bddab5f0868e87f3": {
+    "type": "unsupported",
+    "name": "Vyvo US Dollar"
+  },
+  "0xa3c322ad15218fbfaed26ba7f616249f7705d945": {
+    "type": "unsupported",
+    "name": "Metaverse (PoS)"
+  },
+  "0xa3ed22eee92a3872709823a6970069e12a4540eb": {
+    "type": "unsupported",
+    "name": "Frontier Token (PoS)"
+  },
+  "0xa3f751662e282e83ec3cbc387d225ca56dd63d3a": {
+    "type": "unsupported",
+    "name": "Ape and Pepe"
+  },
+  "0xa3fa99a148fa48d14ed51d610c367c61876997f1": {
+    "type": "unsupported",
+    "name": "miMATIC"
+  },
+  "0xa4335da338ec4c07c391fc1a9bf75f306adadc08": {
+    "type": "unsupported",
+    "name": "ARYZE eUSD"
+  },
+  "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb": {
+    "type": "unsupported",
+    "name": "Nash Exchange Token (PoS)"
+  },
+  "0xa4b2b20b2c73c7046ed19ac6bff5e5285c58f20a": {
+    "type": "unsupported",
+    "name": "Boba Token (PoS)"
+  },
+  "0xa55870278d6389ec5b524553d03c04f5677c061e": {
+    "type": "unsupported",
+    "name": "XCAD Token (PoS)"
+  },
+  "0xa63beffd33ab3a2efd92a39a7d2361cee14ceba8": {
+    "type": "unsupported",
+    "name": "OriginToken (PoS)"
+  },
+  "0xa69d14d6369e414a32a5c7e729b7afbafd285965": {
+    "type": "unsupported",
+    "name": "Global Coin Research (PoS)"
+  },
+  "0xa6b37fc85d870711c56fbcb8afe2f8db049ae774": {
+    "type": "unsupported",
+    "name": "PILLAR (PoS)"
+  },
+  "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821": {
+    "type": "unsupported",
+    "name": "SifChain (erowan) (PoS)"
+  },
+  "0xa79178574dc455dbdc846166939b686b41164758": {
+    "type": "unsupported",
+    "name": "BiJiRi"
+  },
+  "0xa7b98d63a137bf402b4570799ac4cad0bb1c4b1c": {
+    "type": "unsupported",
+    "name": "Trace Token (PoS)"
+  },
+  "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac": {
+    "type": "unsupported",
+    "name": "BandToken (PoS)"
+  },
+  "0xa8bf0b92be0338794d2e3b180b9643a1f0eb2914": {
+    "type": "unsupported",
+    "name": "$ERA token"
+  },
+  "0xa8c557c7ac1626eacaa0e80fac7b6997346306e8": {
+    "type": "unsupported",
+    "name": "ENEGRA"
+  },
+  "0xa91fe5a535967f52d3abebdffb3b306d964ace13": {
+    "type": "unsupported",
+    "name": "Sandclock"
+  },
+  "0xa9c992952c2090a51506c4f3636c1320f8fa93fa": {
+    "type": "unsupported",
+    "name": "Cropto Hazelnut Token"
+  },
+  "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207": {
+    "type": "unsupported",
+    "name": "Melon Token (PoS)"
+  },
+  "0xaa1e97614eaf8d85dbf58f7f0b3080b2affcfefc": {
+    "type": "unsupported",
+    "name": "Flappy bird evolution"
+  },
+  "0xaa3717090cddc9b227e49d0d84a28ac0a996e6ff": {
+    "type": "unsupported",
+    "name": "Permission Token"
+  },
+  "0xaa404804ba583c025fa64c9a276a6127ceb355c6": {
+    "type": "unsupported",
+    "name": "CIPHER"
+  },
+  "0xaa4fbc6809a8e1924520fc85282ac4c76a7671d7": {
+    "type": "unsupported",
+    "name": "Unfettered Ecosystem"
+  },
+  "0xaa53b93608c88ee55fad8db4c504fa20e52642ad": {
+    "type": "unsupported",
+    "name": "Archethic Universal Coin"
+  },
+  "0xaa7dbd1598251f856c12f63557a4c4397c253cea": {
+    "type": "unsupported",
+    "name": "Moss Carbon Credit (PoS)"
+  },
+  "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a": {
+    "type": "unsupported",
+    "name": "IRON Titanium Token"
+  },
+  "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff": {
+    "type": "unsupported",
+    "name": "Harvest Interest Token"
+  },
+  "0xab5f7a0e20b0d056aed4aa4528c78da45be7308b": {
+    "type": "unsupported",
+    "name": "Imported GBYTE"
+  },
+  "0xab670fdfb0060bdc6508b84a309ff41b56ccaf3f": {
+    "type": "unsupported",
+    "name": "USDW"
+  },
+  "0xab9cb20a28f97e189ca0b666b8087803ad636b3c": {
+    "type": "unsupported",
+    "name": "Medieus Token"
+  },
+  "0xac1cd197931810b6f115d690c72a3438990d3ba3": {
+    "type": "unsupported",
+    "name": "ORIO"
+  },
+  "0xace7eb41d6bad44907cda84a122f052c74cb7826": {
+    "type": "unsupported",
+    "name": "GoldPro"
+  },
+  "0xad684e79ce4b6d464f2ff7c3fd51646892e24b96": {
+    "type": "unsupported",
+    "name": "Autonio (PoS)"
+  },
+  "0xad9f61563b104281b14322fec8b42eb67711bf68": {
+    "type": "unsupported",
+    "name": "Synergy Land Token"
+  },
+  "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c": {
+    "type": "unsupported",
+    "name": "CRO (PoS)"
+  },
+  "0xadf2f2ed91755ea3f4bcc9107a494879f633ae7c": {
+    "type": "unsupported",
+    "name": "Request Token (PoS)"
+  },
+  "0xae4efbc7736f963982aacb17efa37fcbab924cb3": {
+    "type": "unsupported",
+    "name": "Solv BTC"
+  },
+  "0xae55ab6a966863cb4c774ba8e6c0a37cfbea01f9": {
+    "type": "unsupported",
+    "name": "Gram Gold"
+  },
+  "0xae840deab9916d80fadf42e218119a6051468169": {
+    "type": "unsupported",
+    "name": "ElevateFi"
+  },
+  "0xaeb3dd897ade187b9f9e4c491bc7a81f69f7093e": {
+    "type": "unsupported",
+    "name": "EARNM"
+  },
+  "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2": {
+    "type": "unsupported",
+    "name": "RAMP (PoS)"
+  },
+  "0xaf0dc42725db75ae54f5e8945e71017bc7acd27d": {
+    "type": "unsupported",
+    "name": "NexGami"
+  },
+  "0xafde2490236bc64950def5472296aa0d9758db0d": {
+    "type": "unsupported",
+    "name": "Wilder World Token"
+  },
+  "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695": {
+    "type": "unsupported",
+    "name": "EDU Coin"
+  },
+  "0xb092e1bf50f518b3ebf7ed26a40015183ae36ac2": {
+    "type": "unsupported",
+    "name": "Tarot"
+  },
+  "0xb0b2ef34d412d73b0ff90a709d1779a20655165a": {
+    "type": "unsupported",
+    "name": "Guardian"
+  },
+  "0xb0f61c597bbcc29f3f38396b01f9c0f0c2e8bff0": {
+    "type": "unsupported",
+    "name": "Etherland (PoS)"
+  },
+  "0xb121fcd122daaa153bb8a102754127b2682645cb": {
+    "type": "unsupported",
+    "name": "Perlin (PoS)"
+  },
+  "0xb1a91036e4a3c144efed953e0b6cc5f6b98ad256": {
+    "type": "unsupported",
+    "name": "MUBI"
+  },
+  "0xb2c63830d4478cb331142fac075a39671a5541dc": {
+    "type": "unsupported",
+    "name": "Bombcrypto Coin"
+  },
+  "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+    "type": "unsupported",
+    "name": "Uniswap (PoS)"
+  },
+  "0xb36b62929762acf8a9cc27ecebf6d353ebb48244": {
+    "type": "unsupported",
+    "name": "SHARP"
+  },
+  "0xb36e3391b22a970d31a9b620ae1a414c6c256d2a": {
+    "type": "unsupported",
+    "name": "Stox (PoS)"
+  },
+  "0xb41ec2c036f8a42da384dde6ada79884f8b84b26": {
+    "type": "unsupported",
+    "name": "Tidal Token"
+  },
+  "0xb424f20a80117472175f03853e2901f6fb0c0016": {
+    "type": "unsupported",
+    "name": "Quick Drop"
+  },
+  "0xb4357054c3da8d46ed642383f03139ac7f090343": {
+    "type": "unsupported",
+    "name": "Port3 Network"
+  },
+  "0xb4e876f6c9d5ba104112d222083527b1dad17103": {
+    "type": "unsupported",
+    "name": "VDS"
+  },
+  "0xb541a306dd240ef04fb5e7e0db9a3c6cb7ddbb07": {
+    "type": "unsupported",
+    "name": "WFDP Coin"
+  },
+  "0xb58458c52b6511dc723d7d6f3be8c36d7383b4a8": {
+    "type": "unsupported",
+    "name": "FrontFanz"
+  },
+  "0xb5b8381b67248f832c7961bd265f021cd8d291a4": {
+    "type": "unsupported",
+    "name": "ZELWIN"
+  },
+  "0xb5c064f955d8e7f38fe0460c556a72987494ee17": {
+    "type": "unsupported",
+    "name": "QuickSwap"
+  },
+  "0xb5e0cfe1b4db501ac003b740665bf43192cc7853": {
+    "type": "unsupported",
+    "name": "Wrapped Ghost"
+  },
+  "0xb6a5ae40e79891e4deadad06c8a7ca47396df21c": {
+    "type": "unsupported",
+    "name": "Carbify"
+  },
+  "0xb755506531786c8ac63b756bab1ac387bacb0c04": {
+    "type": "unsupported",
+    "name": "ZARP Stablecoin"
+  },
+  "0xb75bbd79985a8092b05224f62d7fed25924b075d": {
+    "type": "unsupported",
+    "name": "Datamine (PoS)"
+  },
+  "0xb763f1177e9b2fb66fbe0d50372e3e2575c043e5": {
+    "type": "unsupported",
+    "name": "Karmaverse Knot"
+  },
+  "0xb7b31a6bc18e48888545ce79e83e06003be70930": {
+    "type": "unsupported",
+    "name": "ApeCoin (PoS)"
+  },
+  "0xb853f7852aa780831f165899ccbaf5db0882b0d6": {
+    "type": "unsupported",
+    "name": "CYRUS"
+  },
+  "0xb87904db461005fc716a6bf9f2d451c33b10b80b": {
+    "type": "unsupported",
+    "name": "Alongside Crypto Market Index (PoS)"
+  },
+  "0xb87f5c1e81077ffcfe821da240fd20c99c533af1": {
+    "type": "unsupported",
+    "name": "JasmyCoin (PoS)"
+  },
+  "0xb8cb8a7f4c2885c03e57e973c74827909fdc2032": {
+    "type": "unsupported",
+    "name": "YFII.finance (PoS)"
+  },
+  "0xb8d5f5f236c24e09c7f55eec313818742ac4cf79": {
+    "type": "unsupported",
+    "name": "Versus-X"
+  },
+  "0xb9585ec9d4c97ad9ded7250bb9a199fe8eed0eca": {
+    "type": "unsupported",
+    "name": "WHALE (PoS)"
+  },
+  "0xb9638272ad6998708de56bbc0a290a1de534a578": {
+    "type": "unsupported",
+    "name": "Everipedia IQ (PoS)"
+  },
+  "0xb9df5fda1c435cd4017a1f1f9111996520b64439": {
+    "type": "unsupported",
+    "name": "IBSToken"
+  },
+  "0xba0dda8762c24da9487f5fa026a9b64b695a07ea": {
+    "type": "unsupported",
+    "name": "OX Coin"
+  },
+  "0xba3cb8329d442e6f9eb70fafe1e214251df3d275": {
+    "type": "unsupported",
+    "name": "Swash Token"
+  },
+  "0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c": {
+    "type": "unsupported",
+    "name": "BitCone"
+  },
+  "0xbac3368b5110f3a3dda8b5a0f7b66edb37c47afe": {
+    "type": "unsupported",
+    "name": "AI Pepe King"
+  },
+  "0xbbba073c31bf03b8acf7c28ef0738decf3695683": {
+    "type": "unsupported",
+    "name": "SAND"
+  },
+  "0xbbbbbbbbb7949dcc7d1539c91b81a5bf09e37bdb": {
+    "type": "unsupported",
+    "name": "crow with knife"
+  },
+  "0xbbfe0b60de96a189bf09079de86a2db7bf0c7883": {
+    "type": "unsupported",
+    "name": "Ethereum-bridged Lunr Token"
+  },
+  "0xbc0bea8e634ec838a2a45f8a43e7e16cd2a8ba99": {
+    "type": "unsupported",
+    "name": "Rigo Token (PoS)"
+  },
+  "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f": {
+    "type": "unsupported",
+    "name": "Paw V2"
+  },
+  "0xbc91347e80886453f3f8bbd6d7ac07c122d87735": {
+    "type": "unsupported",
+    "name": "Banana"
+  },
+  "0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f": {
+    "type": "unsupported",
+    "name": "Ethereum Name Service (PoS)"
+  },
+  "0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78": {
+    "type": "unsupported",
+    "name": "Glitch (PoS)"
+  },
+  "0xbe662058e00849c3eef2ac9664f37fefdf2cdbfe": {
+    "type": "unsupported",
+    "name": "iEx.ec Network Token (PoS)"
+  },
+  "0xbed0b9240bdbcc8e33f66d2ca650a5ef60a5bab0": {
+    "type": "unsupported",
+    "name": "Matr1x(PoS)"
+  },
+  "0xbf7970d56a150cd0b60bd08388a4a75a27777777": {
+    "type": "unsupported",
+    "name": "BET"
+  },
+  "0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb": {
+    "type": "unsupported",
+    "name": "RETRO"
+  },
+  "0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac": {
+    "type": "unsupported",
+    "name": "Artificial Liquid Intelligence Token"
+  },
+  "0xc004e2318722ea2b15499d6375905d75ee5390b8": {
+    "type": "unsupported",
+    "name": "Kommunitas"
+  },
+  "0xc03e6ad83de7c58c9166ff08d66b960d78e64105": {
+    "type": "unsupported",
+    "name": "Landshare Token"
+  },
+  "0xc0a1adce1c62daedf1b5f07b31266090bc5cc6d2": {
+    "type": "unsupported",
+    "name": "ONUS"
+  },
+  "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb": {
+    "type": "unsupported",
+    "name": "Wrapped PAW"
+  },
+  "0xc114678c6e4654d041b2006c90f08478b444c4e2": {
+    "type": "unsupported",
+    "name": "edeXa"
+  },
+  "0xc157ee77518769b8009642f68a8d6a500ff59d53": {
+    "type": "unsupported",
+    "name": "NoLimitCoin"
+  },
+  "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97": {
+    "type": "unsupported",
+    "name": "DFYN Token (PoS)"
+  },
+  "0xc17c30e98541188614df99239cabd40280810ca3": {
+    "type": "unsupported",
+    "name": "EverRise"
+  },
+  "0xc19669a405067927865b40ea045a2baabbbe57f5": {
+    "type": "unsupported",
+    "name": "STAR"
+  },
+  "0xc1ab7e48fafee6b2596c65261392e59690ce7742": {
+    "type": "unsupported",
+    "name": "ECET Token"
+  },
+  "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae": {
+    "type": "unsupported",
+    "name": "Pegaxy Stone"
+  },
+  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+    "type": "unsupported",
+    "name": "(PoS) Tether USD"
+  },
+  "0xc25351811983818c9fe6d8c580531819c8ade90f": {
+    "type": "unsupported",
+    "name": "Idle (PoS)"
+  },
+  "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842": {
+    "type": "unsupported",
+    "name": "Bancor Network Token (PoS)"
+  },
+  "0xc27158bb8e08899d38765752f91d7d778e16ab8e": {
+    "type": "unsupported",
+    "name": "Kapital DAO Token (FXERC20)"
+  },
+  "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850": {
+    "type": "unsupported",
+    "name": "Gamebitcoin Power"
+  },
+  "0xc2ff25dd99e467d2589b2c26edd270f220f14e47": {
+    "type": "unsupported",
+    "name": "DecentralizedEURO(PoS)"
+  },
+  "0xc3211f7eb806e916d54a2a166fc36188cffde25b": {
+    "type": "unsupported",
+    "name": "Cropto Barley Token"
+  },
+  "0xc3c7d422809852031b44ab29eec9f1eff2a58756": {
+    "type": "unsupported",
+    "name": "Lido DAO Token (PoS)"
+  },
+  "0xc3cffdaf8f3fdf07da6d5e3a89b8723d5e385ff8": {
+    "type": "unsupported",
+    "name": "Rubic (PoS)"
+  },
+  "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea": {
+    "type": "unsupported",
+    "name": "MANTRA DAO (PoS)"
+  },
+  "0xc3f56d567e7663e8932e65d85ae4be7eb5575ca7": {
+    "type": "unsupported",
+    "name": "Faith Tribe"
+  },
+  "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539": {
+    "type": "unsupported",
+    "name": "Adamant"
+  },
+  "0xc4420347a4791832bb7b16bf070d5c017d9fabc4": {
+    "type": "unsupported",
+    "name": "Stabull Finance"
+  },
+  "0xc48f61a288a08f1b80c2edd74652e1276b6a168c": {
+    "type": "unsupported",
+    "name": "Geyser (PoS)"
+  },
+  "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6": {
+    "type": "unsupported",
+    "name": "Curve.Fi USD Stablecoin(PoS)"
+  },
+  "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
+    "type": "unsupported",
+    "name": "Wild Goat Coin"
+  },
+  "0xc61f39418cd27820b5d4e9ba4a7197eefaeb8b05": {
+    "type": "unsupported",
+    "name": "Tamadoge"
+  },
+  "0xc708d6f2153933daa50b2d0758955be0a93a8fec": {
+    "type": "unsupported",
+    "name": "Verse (FXERC20)"
+  },
+  "0xc748b2a084f8efc47e086ccddd9b7e67aeb571bf": {
+    "type": "unsupported",
+    "name": "Human Token (PoS)"
+  },
+  "0xc750c8a5115cc76a1682c3c0d83e7eb281da0d5a": {
+    "type": "unsupported",
+    "name": "C-Cash"
+  },
+  "0xc79fc2885e207e1c4cc69cf94402dd1a5642452e": {
+    "type": "unsupported",
+    "name": "Seamans Token"
+  },
+  "0xc7b1807822160a8c5b6c9eaf5c584aad0972deec": {
+    "type": "unsupported",
+    "name": "Giveth Token"
+  },
+  "0xc88640b734fea3b35c132fe757aeb5ca6c8cdc66": {
+    "type": "unsupported",
+    "name": "Nexum Coin"
+  },
+  "0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65": {
+    "type": "unsupported",
+    "name": "Gemini dollar (PoS)"
+  },
+  "0xc91953e110ebb0039859304a0d1b64f8450763fc": {
+    "type": "unsupported",
+    "name": "Dynamic Crypto Index"
+  },
+  "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828": {
+    "type": "unsupported",
+    "name": "RAZOR (PoS)"
+  },
+  "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077": {
+    "type": "unsupported",
+    "name": "xSolvBTC"
+  },
+  "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1": {
+    "type": "unsupported",
+    "name": "Fantom Token (PoS)"
+  },
+  "0xca30c93b02514f86d5c86a6e375e3a330b435fb5": {
+    "type": "unsupported",
+    "name": "Backed IB01 $ Treasury Bond 0-1yr"
+  },
+  "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8": {
+    "type": "unsupported",
+    "name": "Gyro Dollar"
+  },
+  "0xcb059c5573646047d6d88dddb87b745c18161d3b": {
+    "type": "unsupported",
+    "name": "Polymath (PoS)"
+  },
+  "0xcb64cdeb45def1c513fd890e7e76a865bae46060": {
+    "type": "unsupported",
+    "name": "MEDIFAKT"
+  },
+  "0xcc0643b786d8b566a98e85dde48077239eaa8598": {
+    "type": "unsupported",
+    "name": "Averra"
+  },
+  "0xcc44674022a792794d219847362bb95c661937a9": {
+    "type": "unsupported",
+    "name": "ROUTINE COIN"
+  },
+  "0xcccde52ef8f7d74d73ee033f7daccfafe29edd45": {
+    "type": "unsupported",
+    "name": "OpulousToken"
+  },
+  "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3": {
+    "type": "unsupported",
+    "name": "RaiderToken"
+  },
+  "0xcdb3c70cd25fd15307d84c4f9d37d5c043b33fb2": {
+    "type": "unsupported",
+    "name": "Spell Token (PoS)"
+  },
+  "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511": {
+    "type": "unsupported",
+    "name": "DDM Deutsche Mark"
+  },
+  "0xcdf937995a55a9ab551d81b463ac0f7f02795368": {
+    "type": "unsupported",
+    "name": "VSC"
+  },
+  "0xce899f26928a2b21c6a2fddd393ef37c61dba918": {
+    "type": "unsupported",
+    "name": "Museum of Crypto Art"
+  },
+  "0xcf403036bc139d30080d2cf0f5b48066f98191bb": {
+    "type": "unsupported",
+    "name": "Stobox Token v.2"
+  },
+  "0xcf66eb3d546f0415b368d98a95eaf56ded7aa752": {
+    "type": "unsupported",
+    "name": "dForce USD"
+  },
+  "0xcfb54a6d2da14abecd231174fc5735b4436965d8": {
+    "type": "unsupported",
+    "name": "Cyclone Protocol"
+  },
+  "0xd0076d7e57aac42ec3f9d6e7c604d04a5b7030fa": {
+    "type": "unsupported",
+    "name": "VNDC"
+  },
+  "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f": {
+    "type": "unsupported",
+    "name": "VOXEL Token"
+  },
+  "0xd0e9c8f5fae381459cf07ec506c1d2896e8b5df6": {
+    "type": "unsupported",
+    "name": "Internet of Energy Network"
+  },
+  "0xd14d1e501b2b52d6134db1ad0857aa91f9bfe2dd": {
+    "type": "unsupported",
+    "name": "Shuts Wave"
+  },
+  "0xd1a5f2a049343fc4d5f8d478f734eba51b22375e": {
+    "type": "unsupported",
+    "name": "KeyFi Token"
+  },
+  "0xd1a718f77ab5d22e3955050658d7f65ae857a85e": {
+    "type": "unsupported",
+    "name": "SAIL Token (FXERC20)"
+  },
+  "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05": {
+    "type": "unsupported",
+    "name": "Sunflower Land"
+  },
+  "0xd24157aa1097486dc9d7cf094a7e15026e566b5d": {
+    "type": "unsupported",
+    "name": "TPRO"
+  },
+  "0xd2507e7b5794179380673870d88b22f94da6abe0": {
+    "type": "unsupported",
+    "name": "XY Oracle (PoS)"
+  },
+  "0xd281af594cbb99e8469f3591d57a0c72eb725bdb": {
+    "type": "unsupported",
+    "name": "MarvelousNFT (PoS)"
+  },
+  "0xd28449bb9bb659725accad52947677cce3719fd7": {
+    "type": "unsupported",
+    "name": "Dark Matter Token (PoS)"
+  },
+  "0xd28b3fd350a14f0b1d14633e3d14db7b80406391": {
+    "type": "unsupported",
+    "name": "Meme TrumpCoin"
+  },
+  "0xd33fd95fc17bc808b35e98458e078330f35dbfa3": {
+    "type": "unsupported",
+    "name": "Midnight"
+  },
+  "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189": {
+    "type": "unsupported",
+    "name": "Okcash"
+  },
+  "0xd4423795fd904d9b87554940a95fb7016f172773": {
+    "type": "unsupported",
+    "name": "AI Network"
+  },
+  "0xd4d996ccda51b65c6fd884feaea83b237d084262": {
+    "type": "unsupported",
+    "name": "The Algorix"
+  },
+  "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
+    "type": "unsupported",
+    "name": "Frankencoin"
+  },
+  "0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d": {
+    "type": "unsupported",
+    "name": "pTokens ORE (PoS)"
+  },
+  "0xd55fce7cdab84d84f2ef3f99816d765a2a94a509": {
+    "type": "unsupported",
+    "name": "Chain Games"
+  },
+  "0xd566c529b33ecf15170f600d4b1ab12468c8efc6": {
+    "type": "unsupported",
+    "name": "UERII (PoS)"
+  },
+  "0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346": {
+    "type": "unsupported",
+    "name": "Omnisea"
+  },
+  "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9": {
+    "type": "unsupported",
+    "name": "NFT Worlds"
+  },
+  "0xd5fa77a860fea9cff31da91bbf9e0faea9538290": {
+    "type": "unsupported",
+    "name": "DOG COLLAR (PoS)"
+  },
+  "0xd60deba014459f07bbcc077a5b817f31dafd5229": {
+    "type": "unsupported",
+    "name": "Vatreni Token"
+  },
+  "0xd6a33f67b733d422c821c36f0f79ca145b930d01": {
+    "type": "unsupported",
+    "name": "Angola Coin (PoS)"
+  },
+  "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a": {
+    "type": "unsupported",
+    "name": "EthermonToken"
+  },
+  "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+    "type": "unsupported",
+    "name": "Aave (PoS)"
+  },
+  "0xd711d7d893de57dc13ff465763218770bd42db1d": {
+    "type": "unsupported",
+    "name": "ARYZE eGBP"
+  },
+  "0xd72357daca2cf11a5f155b9ff7880e595a3f5792": {
+    "type": "unsupported",
+    "name": "StorjToken (PoS)"
+  },
+  "0xd7bb095a60d7666d4a6f236423b47ddd6ae6cfa7": {
+    "type": "unsupported",
+    "name": "Axelar Wrapped wstETH"
+  },
+  "0xd838290e877e0188a4a44700463419ed96c16107": {
+    "type": "unsupported",
+    "name": "Toucan Protocol: Nature Carbon Tonne"
+  },
+  "0xd85d1e945766fea5eda9103f918bd915fbca63e6": {
+    "type": "unsupported",
+    "name": "Celsius (PoS)"
+  },
+  "0xd87af7b418d64ff2cde48d890285ba64fc6e115f": {
+    "type": "unsupported",
+    "name": "DTEC"
+  },
+  "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
+    "type": "unsupported",
+    "name": "Wrapped SOL"
+  },
+  "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a": {
+    "type": "unsupported",
+    "name": "Stablecomp"
+  },
+  "0xd99bafe5031cc8b345cb2e8c80135991f12d7130": {
+    "type": "unsupported",
+    "name": "Ferrum Network Token"
+  },
+  "0xd9a1070f832cc02ff9d839500eef6e8c64983726": {
+    "type": "unsupported",
+    "name": "BATIC"
+  },
+  "0xd9d77b113e6ef2696267e20c35f3abd87cdaca2c": {
+    "type": "unsupported",
+    "name": "Tanpin"
+  },
+  "0xda537104d6a5edd53c6fbba9a898708e465260b6": {
+    "type": "unsupported",
+    "name": "(PoS) yearn.finance"
+  },
+  "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7": {
+    "type": "unsupported",
+    "name": "(PoS) Binance USD"
+  },
+  "0xdae89da41a96956e9e70320ac9c0dd077070d3a5": {
+    "type": "unsupported",
+    "name": "Centaur Token (PoS)"
+  },
+  "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b": {
+    "type": "unsupported",
+    "name": "handleFOREX"
+  },
+  "0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4": {
+    "type": "unsupported",
+    "name": "GET Protocol (PoS)"
+  },
+  "0xdb7cb471dd0b49b29cab4a1c14d070f27216a0ab": {
+    "type": "unsupported",
+    "name": "Bankless Token (PoS)"
+  },
+  "0xdb95f9188479575f3f718a245eca1b3bf74567ec": {
+    "type": "unsupported",
+    "name": "Gitcoin (PoS)"
+  },
+  "0xdbb5da27ffcfebea8799a5832d4607714fc6aba8": {
+    "type": "unsupported",
+    "name": "DEGEN (PoS)"
+  },
+  "0xdc0e17eae3b9651875030244b971fa0223a1764f": {
+    "type": "unsupported",
+    "name": "Peri Finance Token"
+  },
+  "0xdc3326e71d45186f113a2f448984ca0e8d201995": {
+    "type": "unsupported",
+    "name": "XSGD"
+  },
+  "0xdc4f4ed9872571d5ec8986a502a0d88f3a175f1e": {
+    "type": "unsupported",
+    "name": "DEZ"
+  },
+  "0xdcff29b7bd211aaef6e4a3989e4d3f732cf5b4b6": {
+    "type": "unsupported",
+    "name": "ArtMeta"
+  },
+  "0xdcffa515620def25d18f8d2c8aeca67f9ad31f58": {
+    "type": "unsupported",
+    "name": "SkyBridge Aviator"
+  },
+  "0xdd14c9059a5eba25a41997efc106ce0a9664b53a": {
+    "type": "unsupported",
+    "name": "HEALTHMEDI"
+  },
+  "0xdd28ec6b06983d01d37dbd9ab581d8d884d95264": {
+    "type": "unsupported",
+    "name": "Summer Token (PoS)"
+  },
+  "0xdd75542611d57c4b6e68168b14c3591c539022ed": {
+    "type": "unsupported",
+    "name": "ZEN Exchange Token"
+  },
+  "0xdd9ba3b2571bea0854beb0508ce10fed0eca7e3e": {
+    "type": "unsupported",
+    "name": "EnviDa"
+  },
+  "0xdda7b23d2d72746663e7939743f929a3d85fc975": {
+    "type": "unsupported",
+    "name": "AdEx Network (PoS)"
+  },
+  "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44": {
+    "type": "unsupported",
+    "name": "DEUS"
+  },
+  "0xdec933e2392ad908263e70a386fbf34e703ffe8f": {
+    "type": "unsupported",
+    "name": "Wrapped Backed Coinbase Global"
+  },
+  "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32": {
+    "type": "unsupported",
+    "name": "Telcoin (PoS)"
+  },
+  "0xdfc3829b127761a3218bfcee7fc92e1232c9d116": {
+    "type": "unsupported",
+    "name": "Wrapped PRCY"
+  },
+  "0xe0339c80ffde91f3e20494df88d4206d86024cdf": {
+    "type": "unsupported",
+    "name": "Dogelon (PoS)"
+  },
+  "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe": {
+    "type": "unsupported",
+    "name": "PlanetIX"
+  },
+  "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce": {
+    "type": "unsupported",
+    "name": "UCOIN"
+  },
+  "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4": {
+    "type": "unsupported",
+    "name": "EURA (previously agEUR)"
+  },
+  "0xe0bceef36f3a6efdd5eebfacd591423f8549b9d5": {
+    "type": "unsupported",
+    "name": "Defactor (PoS)"
+  },
+  "0xe111178a87a3bff0c8d18decba5798827539ae99": {
+    "type": "unsupported",
+    "name": "STASIS EURS Token (PoS)"
+  },
+  "0xe156987a81a9b841c1def6f111ea69bf817fb272": {
+    "type": "unsupported",
+    "name": "SHARDS@Polygon"
+  },
+  "0xe1708abde4847b4929b70547e5197f1ba1db2250": {
+    "type": "unsupported",
+    "name": "Tokemak (PoS)"
+  },
+  "0xe1b0e0f0427af6f943cdeb6304eed259d152fc78": {
+    "type": "unsupported",
+    "name": "Ovato"
+  },
+  "0xe1b3eb06806601828976e491914e3de18b5d6b28": {
+    "type": "unsupported",
+    "name": "zkRace"
+  },
+  "0xe229b734251dd48dda27bb908d90329f229c3531": {
+    "type": "unsupported",
+    "name": "Gram Platinum"
+  },
+  "0xe2341718c6c0cbfa8e6686102dd8fbf4047a9e9b": {
+    "type": "unsupported",
+    "name": "AIOZ Network (PoS)"
+  },
+  "0xe238ecb42c424e877652ad82d8a939183a04c35f": {
+    "type": "unsupported",
+    "name": "WiFi Map"
+  },
+  "0xe261d618a959afffd53168cd07d12e37b26761db": {
+    "type": "unsupported",
+    "name": "Dimo"
+  },
+  "0xe26cda27c13f4f87cffc2f437c5900b27ebb5bbb": {
+    "type": "unsupported",
+    "name": "Rebel Bots Token"
+  },
+  "0xe292178333fc7424211795895865adac05baf3be": {
+    "type": "unsupported",
+    "name": "JARVIS"
+  },
+  "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128": {
+    "type": "unsupported",
+    "name": "PAR Stablecoin"
+  },
+  "0xe313bcb77dba15f39ff0b9ceabe140cedd0953cb": {
+    "type": "unsupported",
+    "name": "Jugni"
+  },
+  "0xe319519d910e733098fb559c2b10cb70ed854603": {
+    "type": "unsupported",
+    "name": "GQB"
+  },
+  "0xe3322702bedaaed36cddab233360b939775ae5f1": {
+    "type": "unsupported",
+    "name": "Tellor Tributes (PoS)"
+  },
+  "0xe3c8f0d7f978aadf1929cbbfb116419175844f04": {
+    "type": "unsupported",
+    "name": "Sowaka(PoS)"
+  },
+  "0xe3f2b1b2229c0333ad17d03f179b87500e7c5e01": {
+    "type": "unsupported",
+    "name": "AETHER GAMES"
+  },
+  "0xe3fdd286e810a838da30e5872e841fe80729d101": {
+    "type": "unsupported",
+    "name": "ReNew"
+  },
+  "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78": {
+    "type": "unsupported",
+    "name": "DODO bird (PoS)"
+  },
+  "0xe4f064808d11fc46397c36ef5d6be8776515ef2a": {
+    "type": "unsupported",
+    "name": "TEM MARKET"
+  },
+  "0xe51e88dd08499762b8e4eb3a9f3da9b8e79608c3": {
+    "type": "unsupported",
+    "name": "Sekuritance (PoS)"
+  },
+  "0xe5417af564e4bfda1c483642db72007871397896": {
+    "type": "unsupported",
+    "name": "Gains Network"
+  },
+  "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048": {
+    "type": "unsupported",
+    "name": "Bonk"
+  },
+  "0xe5cf781d9e6e92b051ffb8037a5d81981863ea82": {
+    "type": "unsupported",
+    "name": "Bounty Temple Token"
+  },
+  "0xe631dabef60c37a37d70d3b4f812871df663226f": {
+    "type": "unsupported",
+    "name": "Swarm Markets"
+  },
+  "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59": {
+    "type": "unsupported",
+    "name": "UST"
+  },
+  "0xe6800cf598015a3ec5dd534f328f349da239bc78": {
+    "type": "unsupported",
+    "name": "Dress"
+  },
+  "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1": {
+    "type": "unsupported",
+    "name": "ApeBond"
+  },
+  "0xe6e320b7bb22018d6ca1f4d8cea1365ef5d25ced": {
+    "type": "unsupported",
+    "name": "Litentry (PoS)"
+  },
+  "0xe6f3be5b52b5de0156148a4aab2e6674e7c1f5d0": {
+    "type": "unsupported",
+    "name": "CODA"
+  },
+  "0xe749ea14a2d18e361ed092ebefba64d77a8b4eac": {
+    "type": "unsupported",
+    "name": "DigitexFutures (PoS)"
+  },
+  "0xe75220cb014dfb2d354bb59be26d7458bb8d0706": {
+    "type": "unsupported",
+    "name": "PHT Stablecoin"
+  },
+  "0xe77abb1e75d2913b2076dd16049992ffeaca5235": {
+    "type": "unsupported",
+    "name": "Decentrawood"
+  },
+  "0xe79feaaa457ad7899357e8e2065a3267ac9ee601": {
+    "type": "unsupported",
+    "name": "Wrapped CHI (PoS)"
+  },
+  "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171": {
+    "type": "unsupported",
+    "name": "Curve.fi amDAI/amUSDC/amUSDT"
+  },
+  "0xe7e72be51c3b4e1f3ceb34e177e1ba1c1744fd7d": {
+    "type": "unsupported",
+    "name": "Talken"
+  },
+  "0xe82808eaa78339b06a691fd92e1be79671cad8d3": {
+    "type": "unsupported",
+    "name": "PlotX"
+  },
+  "0xe8a51d0dd1b4525189dda2187f90ddf0932b5482": {
+    "type": "unsupported",
+    "name": "LCX (PoS)"
+  },
+  "0xe8f157e041df3b28151b667364e9c90789da7923": {
+    "type": "unsupported",
+    "name": "Opium Governance Token (PoS)"
+  },
+  "0xe94845ac6782a2e71c407abe4d5201445c26a62b": {
+    "type": "unsupported",
+    "name": "Build Token"
+  },
+  "0xe9bc9ad74cca887aff32ba09a121b1256fc9f052": {
+    "type": "unsupported",
+    "name": "Pigcoin"
+  },
+  "0xea0941c6e067a4fb4399436ad3e2510eb36b419d": {
+    "type": "unsupported",
+    "name": "Prospective"
+  },
+  "0xeb7eab87837f4dad1bb80856db9e4506fc441f3d": {
+    "type": "unsupported",
+    "name": "MEE Governance Token"
+  },
+  "0xeb94a5e2c643403e29fa1d7197e7e0708b09ad84": {
+    "type": "unsupported",
+    "name": "OnX.finance (PoS)"
+  },
+  "0xeb971fd26783f32694dbb392dd7289de23109148": {
+    "type": "unsupported",
+    "name": "Sophon"
+  },
+  "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d": {
+    "type": "unsupported",
+    "name": "Wrapped BNB"
+  },
+  "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e": {
+    "type": "unsupported",
+    "name": "CyberFi Token (PoS)"
+  },
+  "0xee5bb31fdf28b5d64f5a5605085cc4e3649aa624": {
+    "type": "unsupported",
+    "name": "WebSea"
+  },
+  "0xee7666aacaefaa6efeef62ea40176d3eb21953b9": {
+    "type": "unsupported",
+    "name": "MCHCoin (PoS)"
+  },
+  "0xee800b277a96b0f490a1a732e1d6395fad960a26": {
+    "type": "unsupported",
+    "name": "ARPA Token (PoS)"
+  },
+  "0xee9801669c6138e84bd50deb500827b776777d28": {
+    "type": "unsupported",
+    "name": "O3 Swap Token"
+  },
+  "0xee997788f625809332baabb3110bcf1ba7400824": {
+    "type": "unsupported",
+    "name": "Felysyum"
+  },
+  "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35": {
+    "type": "unsupported",
+    "name": "MASQ (PoS)"
+  },
+  "0xeeda694439c6fb56cbaa011cc849650b7273285b": {
+    "type": "unsupported",
+    "name": "Bankless BED Index (PoS)"
+  },
+  "0xef938b6da8576a896f6e0321ef80996f4890f9c4": {
+    "type": "unsupported",
+    "name": "Decentral Games (PoS)"
+  },
+  "0xf0059cc2b3e980065a906940fbce5f9db7ae40a7": {
+    "type": "unsupported",
+    "name": "Shardus (PoS)"
+  },
+  "0xf0949dd87d2531d665010d6274f06a357669457a": {
+    "type": "unsupported",
+    "name": "RealityMetaverse(PoS)"
+  },
+  "0xf18ac368001b0ddc80aa6a8374deb49e868efdb8": {
+    "type": "unsupported",
+    "name": "Inverse DAO (PoS)"
+  },
+  "0xf1938ce12400f9a761084e7a80d37e732a4da056": {
+    "type": "unsupported",
+    "name": "CHZ (PoS)"
+  },
+  "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3": {
+    "type": "unsupported",
+    "name": "BLOCKv Token (PoS)"
+  },
+  "0xf21441f9ec4c1fe69cb7cf186eceab31af2b658d": {
+    "type": "unsupported",
+    "name": "VENT [via ChainPort.io]"
+  },
+  "0xf2ae0038696774d65e67892c9d301c5f2cbbda58": {
+    "type": "unsupported",
+    "name": "CargoX Token (PoS)"
+  },
+  "0xf2b028ed5977f136982fdfa429814cf19f09693f": {
+    "type": "unsupported",
+    "name": "Unseen"
+  },
+  "0xf30aabd8cbb8e1d827a79b4354868914040ec155": {
+    "type": "unsupported",
+    "name": "Chronicles Of Warcraft"
+  },
+  "0xf328b73b6c685831f238c30a23fc19140cb4d8fc": {
+    "type": "unsupported",
+    "name": "Across Protocol Token (PoS)"
+  },
+  "0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2": {
+    "type": "unsupported",
+    "name": "TruStake MATIC Vault Shares (PoS)"
+  },
+  "0xf36f79feb5d97e18c69078d8d13d941cae447a04": {
+    "type": "unsupported",
+    "name": "b0rder1ess"
+  },
+  "0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44": {
+    "type": "unsupported",
+    "name": "Vortex Protocol"
+  },
+  "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435": {
+    "type": "unsupported",
+    "name": "GoBlank Token (PoS)"
+  },
+  "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0": {
+    "type": "unsupported",
+    "name": "Meta (PoS)"
+  },
+  "0xf50441d584d435e5f917c8201f72ca2b1b7f1d04": {
+    "type": "unsupported",
+    "name": "LAYERK"
+  },
+  "0xf50d05a1402d0adafa880d36050736f9f6ee7dee": {
+    "type": "unsupported",
+    "name": "Instadapp (PoS)"
+  },
+  "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66": {
+    "type": "unsupported",
+    "name": "IoTeX Network (PoS)"
+  },
+  "0xf6f85b3f9fd581c2ee717c404f7684486f057f95": {
+    "type": "unsupported",
+    "name": "Nord Token (PoS)"
+  },
+  "0xf81b4bec6ca8f9fe7be01ca734f55b2b6e03a7a0": {
+    "type": "unsupported",
+    "name": "Synth sUSD (PoS)"
+  },
+  "0xf88332547c680f755481bf489d890426248bb275": {
+    "type": "unsupported",
+    "name": "inSure (PoS)"
+  },
+  "0xf88fc6b493eda7650e4bcf7a290e8d108f677cfe": {
+    "type": "unsupported",
+    "name": "Gods Unchained (PoS)"
+  },
+  "0xf92501c8213da1d6c74a76372ccc720dc8818407": {
+    "type": "unsupported",
+    "name": "ROOK (PoS)"
+  },
+  "0xf972daced7c6b03223710c11413036d17eb298f6": {
+    "type": "unsupported",
+    "name": "Impermax (PoS)"
+  },
+  "0xf9a3e803ed270cf0ca6cd76ea40b8cc8562cf93f": {
+    "type": "unsupported",
+    "name": "IRIS"
+  },
+  "0xf9cea445c2ac1668f50caa2c2924f93606a4a37d": {
+    "type": "unsupported",
+    "name": "Calvaria: Duels of Eternity"
+  },
+  "0xf9d3d8b25b95bcda979025b74fdfa7ac3f380f9f": {
+    "type": "unsupported",
+    "name": "Cookies Protocol"
+  },
+  "0xfa46daf9909e116dbc40fe1cc95fc0bb1f452abe": {
+    "type": "unsupported",
+    "name": "Illuvium (PoS)"
+  },
+  "0xfa5d5dd2517ee9c1419534a16b132adde2e3d948": {
+    "type": "unsupported",
+    "name": "Ultron"
+  },
+  "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6": {
+    "type": "unsupported",
+    "name": "Liquid Staking Matic (PoS)"
+  },
+  "0xfa78cba4ebbf8fe28b4fc1468948f16fda2752b3": {
+    "type": "unsupported",
+    "name": "Flourishing AI Token"
+  },
+  "0xfb40b1efe90d4b786d2d9d9dc799b18bde92923b": {
+    "type": "unsupported",
+    "name": "LSHARE"
+  },
+  "0xfb7f8a2c0526d01bfb00192781b7a7761841b16c": {
+    "type": "unsupported",
+    "name": "LandRocker"
+  },
+  "0xfba4d30e964e40775c95b58acf6b5a621b929c0a": {
+    "type": "unsupported",
+    "name": "Autumn Token (PoS)"
+  },
+  "0xfbd8a3b908e764dbcd51e27992464b4432a1132b": {
+    "type": "unsupported",
+    "name": "Index (PoS)"
+  },
+  "0xfcb54da3f4193435184f3f647467e12b50754575": {
+    "type": "unsupported",
+    "name": "Smell Token"
+  },
+  "0xfd1eeb2f3399872735f3df735816c4fc607e12c4": {
+    "type": "unsupported",
+    "name": "PCO Meta Earth"
+  },
+  "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c": {
+    "type": "unsupported",
+    "name": "ZeroSwapToken"
+  },
+  "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc": {
+    "type": "unsupported",
+    "name": "BTU Protocol (PoS)"
+  },
+  "0xfe049f59963545bf5469f968e04c9646d6e2c2c5": {
+    "type": "unsupported",
+    "name": "Blood Crystal (PoS)"
+  },
+  "0xfe302b8666539d5046cd9aa0707bb327f5f94c22": {
+    "type": "unsupported",
+    "name": "Senspark"
+  },
+  "0xfe457497a2a71bce1eb93ea9e6a685057dd93dee": {
+    "type": "unsupported",
+    "name": "bns.finance"
+  },
+  "0xfe712251173a2cd5f5be2b46bb528328ea3565e1": {
+    "type": "unsupported",
+    "name": "Metaverse Index (PoS)"
+  },
+  "0xfed16c746cb5bfed009730f9e3e6a673006105c7": {
+    "type": "unsupported",
+    "name": "Digital Reserve Currency (PoS)"
+  },
+  "0xfef5d947472e72efbb2e388c730b7428406f2f95": {
+    "type": "unsupported",
+    "name": "Autonolas(PoS)"
+  },
+  "0xff835562c761205659939b64583dd381a6aa4d92": {
+    "type": "unsupported",
+    "name": "DEXTools (PoS)"
+  },
+  "0xffbf21632d4ad2b1f85031b418a8f69638118364": {
+    "type": "unsupported",
+    "name": "Edge Video AI"
+  },
+  "0xffffff9936bd58a008855b0812b44d2c8dffe2aa": {
+    "type": "unsupported",
+    "name": "GGUSD"
+  }
+}

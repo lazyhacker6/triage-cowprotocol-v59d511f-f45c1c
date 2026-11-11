@@ -1,0 +1,51 @@
+name: Add Image
+description: Creates a request to add a token image to CoW Swap's image repository
+title: '[AddImage] `SYMBOL` to `NETWORK`'
+labels: [addImage]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Request to ADD image
+        Thank you for contributing to CoW Swap's image repository.
+
+        Please fill in all the required fields in the form.
+        We will process and evaluate your request as soon as possible.
+
+        Also, don't forget to update the issue title adding your token's `SYMBOL` and `NETWORK`.
+
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network
+      description: The network this token is deployed to. If more than one, open another request.
+      multiple: false
+      options:
+        - MAINNET
+        - GNOSIS_CHAIN
+        - ARBITRUM_ONE
+        - BASE
+        - POLYGON
+        - AVALANCHE
+        - BNB
+        - PLASMA
+        - INK
+        - ROBINHOOD
+    validations:
+      required: true
+  - type: input
+    id: address
+    attributes:
+      label: Address
+      placeholder: 0x...
+    validations:
+      required: true
+  - type: input
+    id: imageUrl
+    attributes:
+      label: Image URL
+      description: Ideally a 256x256 PNG or SVG file. SVG is preferred. But we'll take care of optimizing it later.
+      placeholder: https://gateway.pinata.cloud/ipfs/Qme9B6jRpGtZsRFcPjHvA5T4ugFuL4c3SzWfxyMPa59AMo
+    validations:
+      required: true

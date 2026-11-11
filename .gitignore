@@ -1,0 +1,28 @@
+node_modules
+build
+
+# MacOS
+.DS_Store
+
+# Intellij
+.idea
+
+# Vscode
+.vscode
+
+# yalc
+.yalc
+yalc.lock
+
+# Temporary files
+
+# logs
+*.log
+
+# NPM setup
+.npmrc
+
+# Env files:
+.env
+.env.local
+.env.*.local

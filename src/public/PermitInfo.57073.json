@@ -1,0 +1,267 @@
+{
+  "0x0200c29006150606b650577bbe7b6248f58470c1": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "USD₮0"
+  },
+  "0x06a0138f8c3e5110fd98e34a4473fb08f1304b87": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "VanEck Agribusiness ETF xStock"
+  },
+  "0x0e6607ab45d2ca779068cd6d9426c409773969fd": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Global X Uranium ETF xStock"
+  },
+  "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "OpenUSDT"
+  },
+  "0x142cdc44890978b506e745bb3bd11607b7f7faef": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "PayPal USD"
+  },
+  "0x17906b1cd88aa8efaefc5e82891b52a22219bd45": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Superseed"
+  },
+  "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Cat Call Agent"
+  },
+  "0x22e1991e5f82736a2a990322a46aac0e95826c5b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Bit Digital xStock"
+  },
+  "0x2416092f143378750bb29b79ed961ab195cceea5": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Renzo Restaked ETH"
+  },
+  "0x2d270e6886d130d724215a266106e6832161eaed": {
+    "type": "eip-2612",
+    "version": "2",
+    "name": "USDC"
+  },
+  "0x36b9115f29cf94264e516ca5d018ae1df9c4b1b9": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Bobina"
+  },
+  "0x44e49dde02c954cd9b67923af7b1070412e8f34e": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Vida Global xStock"
+  },
+  "0x4b0ee7c047d43ca403239f28f42115bedb7c0076": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Oklo xStock"
+  },
+  "0x4c1ae29c159838fc1b224636e28e086eb69101f7": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wrapped Nasdaq xStock"
+  },
+  "0x4d0ba049c430a7a80a61e7ebdf50b6daac6c3bd6": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "SHEIN xStock"
+  },
+  "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+    "type": "eip-2612",
+    "version": "1.1.0",
+    "name": "Wrapped Frax"
+  },
+  "0x68f3ddee8bae33691e7cd0372984fd857e842760": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "T-Mobile xStock"
+  },
+  "0x6f75ac3b1b6fbe8bb5f948e25af03620f26ae838": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Energy Select Sector SPDR Fund xStock"
+  },
+  "0x7636244bab612264e1b2dfd4ba6e26d0311b1eb7": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Constellation Energy Corporation xStock"
+  },
+  "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+    "type": "eip-2612",
+    "version": "1.1.0",
+    "name": "Frax USD"
+  },
+  "0xaa28cb97d7f7e172f54dee950743886d2d65447d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "S&P Small Cap xStock"
+  },
+  "0xb63efbc28860c8097e341de1fcf59456161e9d98": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Sandisk Corporation xStock"
+  },
+  "0xbca703c64f616a17b4f2763f34f93400dbe20f17": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Eaton Corporation plc xStock"
+  },
+  "0xc0c2150cf0870e2d7abc7cde17c20a542fafbb9b": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "TeraWulf xStock"
+  },
+  "0xc845b2894dbddd03858fd2d643b4ef725fe0849d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "NVIDIA xStock"
+  },
+  "0xcf010ba185fd6ee6027b141e2c32614d673f8258": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "HOOKIT"
+  },
+  "0xe343167631d89b6ffc58b88d6b7fb0228795491d": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Global Dollar"
+  },
+  "0xe7e553cd128f0011777323a0b44a7b96ea1cb540": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Wrapped SP500 xStock"
+  },
+  "0xefd30445a4ec1f4b3e0a6f4d9bdbd215f805047f": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Moderna xStock"
+  },
+  "0xf1815bd50389c46847f0bda824ec8da914045d14": {
+    "type": "eip-2612",
+    "version": "2",
+    "name": "Bridged USDC (Stargate)"
+  },
+  "0xf50258d3c1dd88946c567920b986a12e65b50dac": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "XAUt0"
+  },
+  "0xf706585e7e8900be0267bee3b9a2f70835ec6628": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "PayPal xStock"
+  },
+  "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73": {
+    "type": "eip-2612",
+    "version": "1",
+    "name": "Gho Token"
+  },
+  "0x0606fc632ee812ba970af72f8489baaa443c4b98": {
+    "type": "unsupported",
+    "name": "ANITA INK"
+  },
+  "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111": {
+    "type": "unsupported",
+    "name": "Shroomy"
+  },
+  "0x0e04ca25b5cd15047946d89e21cbcdbae43a323b": {
+    "type": "unsupported",
+    "name": "Otomate"
+  },
+  "0x32bcb803f696c99eb263d60a05cafd8689026575": {
+    "type": "unsupported",
+    "name": "Krak Mask"
+  },
+  "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
+    "type": "unsupported",
+    "name": "Wild Goat Coin"
+  },
+  "0x4200000000000000000000000000000000000006": {
+    "type": "unsupported",
+    "name": "Wrapped Ether"
+  },
+  "0x53eb0098d09b8d1008f382bbd2a5d4f649111710": {
+    "type": "unsupported",
+    "name": "WATCH DOGS"
+  },
+  "0x5bcf6b008bf80b9296238546bace1797657b05d6": {
+    "type": "unsupported",
+    "name": "Re Protocol reUSD"
+  },
+  "0x5e8a26a9ed06b56bc1d90ceee2c6ae892b4b835c": {
+    "type": "unsupported",
+    "name": "Boardwalk"
+  },
+  "0x62c99fac20b33b5423fdf9226179e973a8353e36": {
+    "type": "unsupported",
+    "name": "BERT"
+  },
+  "0x71052bae71c25c78e37fd12e5ff1101a71d9018f": {
+    "type": "unsupported",
+    "name": "ChainLink Token"
+  },
+  "0x7160644365e7011fa96ce60706743b434df32690": {
+    "type": "unsupported",
+    "name": "Kek"
+  },
+  "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98": {
+    "type": "unsupported",
+    "name": "Kraken Wrapped Bitcoin"
+  },
+  "0xa161132371c94299d215915d4cbc3b629e2059be": {
+    "type": "unsupported",
+    "name": "brBTC"
+  },
+  "0xa3d68b74bf0528fdd07263c60d6488749044914b": {
+    "type": "unsupported",
+    "name": "Wrapped eETH"
+  },
+  "0xad09cd20e513e4d8cb78036f77ab9afde8555929": {
+    "type": "unsupported",
+    "name": "Kraken Wrapped HYPE"
+  },
+  "0xae4efbc7736f963982aacb17efa37fcbab924cb3": {
+    "type": "unsupported",
+    "name": "Solv BTC"
+  },
+  "0xc3eacf0612346366db554c991d7858716db09f58": {
+    "type": "unsupported",
+    "name": "KelpDao Restaked ETH"
+  },
+  "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077": {
+    "type": "unsupported",
+    "name": "xSolvBTC"
+  },
+  "0xca5f2ccbd9c40b32657df57c716de44237f80f05": {
+    "type": "unsupported",
+    "name": "Kraken"
+  },
+  "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d": {
+    "type": "unsupported",
+    "name": "uniBTC"
+  },
+  "0xd642b49d10cc6e1bc1c6945725667c35e0875f22": {
+    "type": "unsupported",
+    "name": "Purple"
+  },
+  "0xd95b9a5fa7c2708fd4fe0e07e59bde1ef35b194a": {
+    "type": "unsupported",
+    "name": "Kraken Mascot"
+  },
+  "0xe8245188db1efc91aef32e7aa4cf346b9a5830cf": {
+    "type": "unsupported",
+    "name": "CF Large Cap Index"
+  },
+  "0xef172ee53fbbe945ae2bd6ccff93384acf9cf19d": {
+    "type": "unsupported",
+    "name": "Ink Cat"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "removed": true,
+  "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+  "symbol": "wbMSTR",
+  "name": "Wrapped Backed Strategy",
+  "logoURI": "https://files.cow.fi/token-lists/images/100/0x1a4f71b0ff3c22540887bcf83b50054a213c673d/logo.png",
+  "reason": "We're working closely with Gnosis to list tokenized equities on the chain.",
+  "decimals": 18,
+  "chainId": 100
+}

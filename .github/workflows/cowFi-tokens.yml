@@ -1,0 +1,62 @@
+name: 'Cron: cow.fi tokens list'
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Every 3 hours
+  workflow_dispatch:
+
+# Required for authenticating with AWS IAM
+permissions:
+  id-token: write
+  contents: read
+
+# Prevent overlapping runs: with the fetch now taking minutes instead of hours this shouldn't trigger
+# in practice, but it's cheap insurance against a slow CoinGecko incident causing another overlap.
+concurrency:
+  group: cowfi-tokens
+  cancel-in-progress: true
+
+jobs:
+  generate-and-upload:
+    name: Generate and Upload cow.fi tokens
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+
+      - name: Setup dependencies
+        uses: ./.github/actions/setup-dependencies
+        with:
+          authToken: ${{ secrets.PACKAGE_READ_AUTH_TOKEN }}
+
+      - name: Generate token lists for cow.fi
+        env:
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+        run: yarn cowFi:tokens
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: cowFi-tokens.json
+          path: src/cowFi/cowFi-tokens.json
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a # v4.3.1
+        with:
+          role-to-assume: arn:aws:iam::693696263829:role/token-list-github-action-role
+          role-session-name: githubactionsession
+          aws-region: eu-central-1
+
+      - name: Upload to S3 and invalidate CloudFront cache
+        run: |
+          # Upload to S3
+          aws s3 cp src/cowFi/cowFi-tokens.json s3://files.cow.fi/tokens/cowFi-tokens.json
+
+          # Invalidate CloudFront cache
+          aws cloudfront create-invalidation \
+            --distribution-id ${{ secrets.DISTRIBUTION }} \
+            --paths "/tokens/*"
